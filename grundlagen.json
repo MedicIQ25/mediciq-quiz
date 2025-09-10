@@ -1,0 +1,43 @@
+{
+  "topicId": "grundlagen",
+  "title": "Grundlagen des Rettungsdienstes",
+  "questions": [
+    {
+      "id": "gr_001",
+      "type": "single",
+      "stem": "Welche Hauptaufgabe hat der Rettungsdienst in Deutschland?",
+      "options": [
+        { "id": "a", "text": "Transport von Patienten zu Routineuntersuchungen", "isCorrect": false },
+        { "id": "b", "text": "Schnelle Notfallversorgung und Transport in geeignete Kliniken", "isCorrect": true, "explanation": "Primär: Notfallversorgung, Stabilisierung und zeitgerechter Transport." },
+        { "id": "c", "text": "Durchführung stationärer Behandlungen", "isCorrect": false }
+      ],
+      "difficulty": 1,
+      "tags": ["Organisation"]
+    },
+    {
+      "id": "gr_002",
+      "type": "single",
+      "stem": "Welches Gesetz bildet die Grundlage für Hilfeleistungspflichten und Notruf?",
+      "options": [
+        { "id": "a", "text": "Strafgesetzbuch (StGB)", "isCorrect": true, "explanation": "§323c StGB: Unterlassene Hilfeleistung; Notrufpflicht ergibt sich u. a. daraus." },
+        { "id": "b", "text": "Sozialgesetzbuch V (SGB V)", "isCorrect": false },
+        { "id": "c", "text": "Straßenverkehrsordnung (StVO)", "isCorrect": false }
+      ],
+      "difficulty": 1,
+      "tags": ["Recht"]
+    },
+    {
+      "id": "gr_003",
+      "type": "multiple",
+      "stem": "Welche Maßnahmen gehören zur Basishygiene?",
+      "options": [
+        { "id": "a", "text": "Händedesinfektion vor und nach Patientenkontakt", "isCorrect": true, "explanation": "Kernmaßnahme der Basishygiene." },
+        { "id": "b", "text": "Sterile Handschuhe bei jedem Einsatz", "isCorrect": false },
+        { "id": "c", "text": "Persönliche Schutzausrüstung je nach Risiko (z. B. Handschuhe, Maske)", "isCorrect": true },
+        { "id": "d", "text": "Essen im Einsatzfahrzeug zur Zeitersparnis", "isCorrect": false }
+      ],
+      "difficulty": 1,
+      "tags": ["Hygiene"]
+    }
+  ]
+}
