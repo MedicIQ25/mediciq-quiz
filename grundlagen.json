@@ -7,37 +7,1379 @@
       "type": "single",
       "stem": "Welche Hauptaufgabe hat der Rettungsdienst in Deutschland?",
       "options": [
-        { "id": "a", "text": "Transport von Patienten zu Routineuntersuchungen", "isCorrect": false },
-        { "id": "b", "text": "Schnelle Notfallversorgung und Transport in geeignete Kliniken", "isCorrect": true, "explanation": "Primär: Notfallversorgung, Stabilisierung und zeitgerechter Transport." },
-        { "id": "c", "text": "Durchführung stationärer Behandlungen", "isCorrect": false }
-      ],
-      "difficulty": 1,
-      "tags": ["Organisation"]
+        {
+          "id": "a",
+          "text": "Transport von Patienten zu Routineuntersuchungen",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Schnelle Notfallversorgung und Transport in geeignete Kliniken",
+          "isCorrect": true,
+          "explanation": "Primär: Notfallversorgung, Stabilisierung und zeitgerechter Transport."
+        },
+        {
+          "id": "c",
+          "text": "Durchführung stationärer Behandlungen",
+          "isCorrect": false
+        }
+      ]
     },
     {
       "id": "gr_002",
       "type": "single",
-      "stem": "Welches Gesetz bildet die Grundlage für Hilfeleistungspflichten und Notruf?",
+      "stem": "Welche Bereiche umfasst der Rettungsdienst?",
       "options": [
-        { "id": "a", "text": "Strafgesetzbuch (StGB)", "isCorrect": true, "explanation": "§323c StGB: Unterlassene Hilfeleistung; Notrufpflicht ergibt sich u. a. daraus." },
-        { "id": "b", "text": "Sozialgesetzbuch V (SGB V)", "isCorrect": false },
-        { "id": "c", "text": "Straßenverkehrsordnung (StVO)", "isCorrect": false }
-      ],
-      "difficulty": 1,
-      "tags": ["Recht"]
+        {
+          "id": "a",
+          "text": "Nur Notfallrettung",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Notfallrettung und qualifizierter Krankentransport",
+          "isCorrect": true,
+          "explanation": "Beide Teilbereiche gehören zum Rettungsdienst."
+        },
+        {
+          "id": "c",
+          "text": "Nur Krankentransport",
+          "isCorrect": false
+        }
+      ]
     },
     {
       "id": "gr_003",
-      "type": "multiple",
-      "stem": "Welche Maßnahmen gehören zur Basishygiene?",
+      "type": "single",
+      "stem": "Welche Aufgaben gehören typischerweise zur Notfallrettung?",
       "options": [
-        { "id": "a", "text": "Händedesinfektion vor und nach Patientenkontakt", "isCorrect": true, "explanation": "Kernmaßnahme der Basishygiene." },
-        { "id": "b", "text": "Sterile Handschuhe bei jedem Einsatz", "isCorrect": false },
-        { "id": "c", "text": "Persönliche Schutzausrüstung je nach Risiko (z. B. Handschuhe, Maske)", "isCorrect": true },
-        { "id": "d", "text": "Essen im Einsatzfahrzeug zur Zeitersparnis", "isCorrect": false }
-      ],
-      "difficulty": 1,
-      "tags": ["Hygiene"]
+        {
+          "id": "a",
+          "text": "Einschätzen der Einsatzstelle, Patientenuntersuchung und Überwachung",
+          "isCorrect": true,
+          "explanation": "Strukturierte Erkundung und Versorgung gehören zur Notfallrettung."
+        },
+        {
+          "id": "b",
+          "text": "Abrechnung von Fahrten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Betrieb einer Krankenhausapotheke",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_004",
+      "type": "single",
+      "stem": "Welche Aussage zum Notarzt ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ein Notarzt wird nur bei Herzinfarkt geschickt.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Notärzte können boden- oder luftgebunden zum Einsatzort gebracht werden.",
+          "isCorrect": true,
+          "explanation": "NEF/NAW bzw. RTH/ITH sind möglich."
+        },
+        {
+          "id": "c",
+          "text": "Der Notarzt begleitet stets jeden Transport in die Klinik.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_005",
+      "type": "single",
+      "stem": "Was beschreibt der Begriff MANV?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Massiver Arbeitsaufwand nach Verkehrskontrolle",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Massenanfall von Verletzten/Erkrankten mit überlasteten Kräften",
+          "isCorrect": true,
+          "explanation": "Mehr Betroffene als sofort versorgt werden können."
+        },
+        {
+          "id": "c",
+          "text": "Mehrarbeit nach der Nachtschicht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_006",
+      "type": "single",
+      "stem": "Wer ist in den meisten Bundesländern Träger des bodengebundenen Rettungsdienstes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die Bundesregierung",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Landkreise/kreisfreie Städte bzw. Zweckverbände",
+          "isCorrect": true,
+          "explanation": "Kommunale Selbstverwaltung setzt den Rettungsdienst um."
+        },
+        {
+          "id": "c",
+          "text": "Kassenärztliche Vereinigungen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_007",
+      "type": "single",
+      "stem": "Was beschreibt der Begriff 'Hilfsfrist'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zeit bis zur Abrechnung des Einsatzes",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Zeit bis ein geeignetes Rettungsmittel (ggf. mit Notarzt) beim Patienten ist",
+          "isCorrect": true,
+          "explanation": "Je nach Land 8–15 Minuten für einen festgelegten Prozentsatz."
+        },
+        {
+          "id": "c",
+          "text": "Zeit bis zur Schichtübergabe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_008",
+      "type": "single",
+      "stem": "Welche Aussage zu Rettungsdienstgesetzen ist richtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie sind Bundesgesetze und überall identisch.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Jedes Bundesland regelt Aufbau und Organisation im eigenen Gesetz.",
+          "isCorrect": true,
+          "explanation": "Die Länder erlassen jeweils eigene Rettungsdienstgesetze."
+        },
+        {
+          "id": "c",
+          "text": "Es gibt keine gesetzlichen Grundlagen.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_009",
+      "type": "single",
+      "stem": "Was ist eine Rettungsdienstbereichsplanung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die Dienstpläne der Mitarbeiter",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Planung von Wachenstandorten und Fahrzeugvorhaltung im Bereich",
+          "isCorrect": true,
+          "explanation": "Sicherstellung von Bedarfsdeckung und Hilfsfristen."
+        },
+        {
+          "id": "c",
+          "text": "Liste der Rettungswagenfarben",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_010",
+      "type": "single",
+      "stem": "Welche Organisationen können Leistungserbringer im Rettungsdienst sein?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nur Feuerwehr",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Hilfsorganisationen, private Anbieter und kommunale Dienste",
+          "isCorrect": true,
+          "explanation": "Z. B. DRK, JUH, ASB, MHD, private wie Falck sowie kommunale."
+        },
+        {
+          "id": "c",
+          "text": "Nur Polizei",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_011",
+      "type": "single",
+      "stem": "Welche Kompressionsfrequenz empfiehlt der BLS bei Erwachsenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "80–100/min",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "100–120/min",
+          "isCorrect": true,
+          "explanation": "Standardempfehlung für qualitativ gute HDM."
+        },
+        {
+          "id": "c",
+          "text": "≥140/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_012",
+      "type": "single",
+      "stem": "Was ist Druck (p) physikalisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arbeit pro Zeit",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Kraft pro Fläche",
+          "isCorrect": true,
+          "explanation": "p = F / A"
+        },
+        {
+          "id": "c",
+          "text": "Weg mal Zeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_013",
+      "type": "single",
+      "stem": "Welche Aussage trifft auf biphasische Defibrillation zu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Benötigt weniger Energie und ist effektiver/herzschonender",
+          "isCorrect": true,
+          "explanation": "Polwechsel während des Schocks → geringerer Energiebedarf."
+        },
+        {
+          "id": "b",
+          "text": "Ist veraltet",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hat nichts mit Spannung zu tun",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_014",
+      "type": "single",
+      "stem": "Welche Aussage zu Maßeinheiten ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ein Zahlenwert ohne Einheit ist eindeutig.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Blutzucker kann in mg/dl oder mmol/l angegeben werden.",
+          "isCorrect": true,
+          "explanation": "Einheiten unbedingt beachten – Umrechnung nötig."
+        },
+        {
+          "id": "c",
+          "text": "Alle Laborwerte werden in Joule angegeben.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_015",
+      "type": "single",
+      "stem": "Welche Größe beschreibt, wie schnell Arbeit verrichtet wird?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leistung",
+          "isCorrect": true,
+          "explanation": "P = Energie / Zeit (Watt)"
+        },
+        {
+          "id": "b",
+          "text": "Energie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Impuls",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_016",
+      "type": "single",
+      "stem": "Was ist die wichtigste Einzelmaßnahme der Basishygiene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Täglich neue Schuhe tragen",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Konsequente hygienische Händedesinfektion",
+          "isCorrect": true,
+          "explanation": "Händedesinfektion vor/nach Patientenkontakt ist Kernmaßnahme."
+        },
+        {
+          "id": "c",
+          "text": "Fenster öffnen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_017",
+      "type": "single",
+      "stem": "Welche Erregergruppen gehören klassisch zur Infektionslehre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bakterien, Viren, Pilze (und teils Parasiten)",
+          "isCorrect": true,
+          "explanation": "Diese Gruppen sind relevant für den Rettungsdienst."
+        },
+        {
+          "id": "b",
+          "text": "Viren und Vitamine",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Bakterien",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_018",
+      "type": "single",
+      "stem": "Was regelt das Infektionsschutzgesetz (IfSG) u. a.?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dienstpläne im Rettungsdienst",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung übertragbarer Krankheiten",
+          "isCorrect": true,
+          "explanation": "IfSG seit 2001; enthält Meldepflichten und Prävention."
+        },
+        {
+          "id": "c",
+          "text": "Kfz-Steuer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_019",
+      "type": "single",
+      "stem": "Welche Aussage zu Viren ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie haben einen eigenen Stoffwechsel.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Sie vermehren sich nur in Wirtszellen.",
+          "isCorrect": true,
+          "explanation": "Viren sind keine echten Lebewesen; Antibiotika wirken nicht."
+        },
+        {
+          "id": "c",
+          "text": "Antibiotika sind das Mittel der Wahl.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_020",
+      "type": "single",
+      "stem": "Was bedeutet 'Kontamination' im Hygienekontext?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Impfschutz gegen Erreger",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Verunreinigung von Personen/Gegenständen mit Mikroorganismen",
+          "isCorrect": true,
+          "explanation": "Kann über Übertragungswege zur Infektion führen."
+        },
+        {
+          "id": "c",
+          "text": "Sterilisation von Instrumenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_021",
+      "type": "single",
+      "stem": "Was beschreibt der Führungskreis in der Einsatztaktik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eine fixe Befehlsliste ohne Anpassungen",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Regelkreis aus Lagefeststellung, Planung, Befehlsgebung, Kontrolle",
+          "isCorrect": true,
+          "explanation": "Dient strukturierter Führung und Anpassung an Lage."
+        },
+        {
+          "id": "c",
+          "text": "Nur ein Funkrufname",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_022",
+      "type": "single",
+      "stem": "Welches Schema unterstützt die strukturierte Rückmeldung an die Leitstelle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "MELDEN (Meldende Person, Einsatzstelle, Lage, Maßnahmen, Einheiten, Nachforderungen)",
+          "isCorrect": true,
+          "explanation": "Standardisierte Inhalte für die erste Rückmeldung."
+        },
+        {
+          "id": "c",
+          "text": "SAMPLE",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_023",
+      "type": "single",
+      "stem": "Welche Punkte gehören zur Erkundung an der Einsatzstelle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gefahren, Anzahl/Schwere der Betroffenen, Zugänglichkeit",
+          "isCorrect": true,
+          "explanation": "Diese Kernpunkte strukturieren die Lagefeststellung."
+        },
+        {
+          "id": "b",
+          "text": "Kaffeevorrat im RTW",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wetterbericht des Vortages",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_024",
+      "type": "single",
+      "stem": "Was ist bei der Fahrzeugaufstellung an typischen Einsatzstellen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "So nah wie möglich an die Feuerwehr heranfahren",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Abfahrtsweg freihalten und jederzeit fluchtbereit stehen",
+          "isCorrect": true,
+          "explanation": "Nachrückende Kräfte und Eigenschutz berücksichtigen."
+        },
+        {
+          "id": "c",
+          "text": "Immer quer zur Fahrbahn parken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_025",
+      "type": "single",
+      "stem": "Welche Regel hilft, Gefahren systematisch zu erkennen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4A-1C-4E (ggf. erweitert um 5A-1B-1C-5E)",
+          "isCorrect": true,
+          "explanation": "Gefahrenschema zur strukturierten Beurteilung."
+        },
+        {
+          "id": "b",
+          "text": "XYZ-123",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "KURZ-Regel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_026",
+      "type": "single",
+      "stem": "Was ist ein qualifizierter Krankentransport?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jede Personenbeförderung im Liegen",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Transport nicht akut lebensbedrohlich Erkrankter mit fachlicher Betreuung und KTW-Ausstattung",
+          "isCorrect": true,
+          "explanation": "Medizinisch notwendiger Transport mit Ausstattung/Personal."
+        },
+        {
+          "id": "c",
+          "text": "Nur Taxi mit Trage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_027",
+      "type": "single",
+      "stem": "Welche Formen des Krankentransports gibt es u. a.?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Einweisungs-, Konsiliar-, Verlegungs-, Entlassungs- und Hospiztransporte",
+          "isCorrect": true,
+          "explanation": "Diese werden unterschieden."
+        },
+        {
+          "id": "b",
+          "text": "Nur Entlassungen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Privatfahrten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_028",
+      "type": "single",
+      "stem": "Welche Dokumente sind für die Abrechnung im Krankentransport erforderlich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transportschein (ärztlich unterschrieben)",
+          "isCorrect": true,
+          "explanation": "Rechtsgrundlage: G‑BA‑Richtlinie."
+        },
+        {
+          "id": "b",
+          "text": "Rechnung des Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Pfandquittung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_029",
+      "type": "single",
+      "stem": "Welche Geräte gehören typischerweise zur KTW-Ausstattung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tragestuhl, O₂, Absauggerät, AED/Defibrillator",
+          "isCorrect": true,
+          "explanation": "Standardausstattung im qualifizierten Krankentransport."
+        },
+        {
+          "id": "b",
+          "text": "Blutanalysegerät, CT",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dialysegerät",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_030",
+      "type": "single",
+      "stem": "Was ist bei der Patientenübernahme im Krankentransport zentral?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nur die Versichertenkarte mitnehmen",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Strukturierte Übergabe, Notfallausschluss, Pflegebedarf abklären",
+          "isCorrect": true,
+          "explanation": "Erstinformation + eigene Einschätzung + Dokumente mitnehmen."
+        },
+        {
+          "id": "c",
+          "text": "Keine Fragen stellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_031",
+      "type": "single",
+      "stem": "Was ist bei Schockabgabe mit dem AED zu beachten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alle Personen dürfen den Patienten berühren",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Während der Schockabgabe niemanden berühren – Sicherheitsabstand einhalten",
+          "isCorrect": true,
+          "explanation": "Lebensgefahr durch Stromfluss vermeiden."
+        },
+        {
+          "id": "c",
+          "text": "Patienten festhalten, damit er nicht zuckt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_032",
+      "type": "single",
+      "stem": "Welche Aussage zur Zusammenarbeit mit der Feuerwehr ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bei technischer Rettung ist der Einsatzleiter Feuerwehr Gesamteinsatzleiter",
+          "isCorrect": true,
+          "explanation": "Kooperation und klare Zuständigkeiten sichern den Ablauf."
+        },
+        {
+          "id": "b",
+          "text": "Rettungsdienst führt grundsätzlich den Gesamteinsatz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Absprachen sind nicht notwendig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_033",
+      "type": "single",
+      "stem": "Welche Brandklassen gehören zur Einteilung von Feuerlöschern (Beispiele)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A: feste Stoffe; B: flüssige/aufgeschmolzene; C: Gase",
+          "isCorrect": true,
+          "explanation": "Standardklassifikation für Auswahl des Löschmittels."
+        },
+        {
+          "id": "b",
+          "text": "D: Getränke; E: Erde",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "F: Festkörper aus Metall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_034",
+      "type": "single",
+      "stem": "Welche Taktik gilt beim Pulverlöscher am RTW?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dauerhaft sprühen, bis alles leer ist",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Stoßweise löschen, gezielt auf Brandherd, mit dem Wind vorgehen",
+          "isCorrect": true,
+          "explanation": "Pulverlöscher nur Sekunden – daher taktisch vorgehen."
+        },
+        {
+          "id": "c",
+          "text": "Immer gegen den Wind vorgehen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_035",
+      "type": "single",
+      "stem": "Welche Aussage zur Raumordnung an der Einsatzstelle ist richtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rettungsmittel so stellen, dass Abtransport jederzeit möglich ist",
+          "isCorrect": true,
+          "explanation": "Bereitstellungsräume und Zufahrten freihalten."
+        },
+        {
+          "id": "b",
+          "text": "Fahrzeuge dicht aneinanderreihen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Drehleiterflächen zustellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_036",
+      "type": "single",
+      "stem": "Was versteht man unter BOS-Funk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Funk des öffentlich-rechtlichen Rundfunks",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Nichtöffentlicher Landfunkdienst von Behörden und Organisationen mit Sicherheitsaufgaben",
+          "isCorrect": true,
+          "explanation": "Rettungsdienst, Polizei, Feuerwehr etc."
+        },
+        {
+          "id": "c",
+          "text": "Nur Amateurfunk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_037",
+      "type": "single",
+      "stem": "Wofür wurde das analoge Funkmeldesystem (FMS) eingeführt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Um Musik zu hören",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Zur kompakten Übertragung standardisierter Statusmeldungen per Tastendruck",
+          "isCorrect": true,
+          "explanation": "Entlastet die Sprachkanäle."
+        },
+        {
+          "id": "c",
+          "text": "Für GPS-Ortung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_038",
+      "type": "single",
+      "stem": "Welche FMS-Statusziffer steht für 'Am Einsatzort'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Status 4 = Am Einsatzort."
+        },
+        {
+          "id": "c",
+          "text": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_039",
+      "type": "single",
+      "stem": "Was ist ein Vorteil des Digitalfunks TETRA?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feste, ständig belegte Kanäle wie beim Betriebsfunk",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Dynamische Kanalzuteilung (Bündelfunk) ähnlich Mobilfunk",
+          "isCorrect": true,
+          "explanation": "Effiziente Frequenznutzung; gezielte Anrufbarkeit."
+        },
+        {
+          "id": "c",
+          "text": "Nur innerhalb eines Fahrzeugs nutzbar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_040",
+      "type": "single",
+      "stem": "Welche Frequenzbereiche werden im BOS‑Digitalfunk (TETRA) in Deutschland genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "380–385 MHz und 390–395 MHz",
+          "isCorrect": true,
+          "explanation": "Typische Bereiche im TETRA‑Netz."
+        },
+        {
+          "id": "b",
+          "text": "2,4 GHz WLAN",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "UKW‑Rundfunkfrequenzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_041",
+      "type": "single",
+      "stem": "Welche Pflicht gilt allgemein für Rettungsfachpersonal?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Versorgung nach aktuellen Standards gemäß Qualifikation",
+          "isCorrect": true,
+          "explanation": "Beachtung gesetzlicher, vertraglicher, dienstlicher Vorgaben."
+        },
+        {
+          "id": "b",
+          "text": "Nur Transport, keine Versorgung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur nach eigener Laune handeln",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_042",
+      "type": "single",
+      "stem": "Wer ist bei einem Einsatz organisatorisch weisungsbefugt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die Leitstelle",
+          "isCorrect": true,
+          "explanation": "Medizinisch weist ggf. der Notarzt an; organisatorisch die Leitstelle."
+        },
+        {
+          "id": "b",
+          "text": "Der Fahrer",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Niemand",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_043",
+      "type": "single",
+      "stem": "Was regelt § 630f BGB (Patientenrechtegesetz) u. a. im Rettungsdienstkontext?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die Kfz‑Zulassung von RTW",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Dokumentationspflichten im Behandlungsverhältnis",
+          "isCorrect": true,
+          "explanation": "Seit 2013 gesetzlich geregelt."
+        },
+        {
+          "id": "c",
+          "text": "Dienstzeiten nach ArbZG",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_044",
+      "type": "single",
+      "stem": "Was beschreibt 'Notkompetenz' (vereinfacht)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beliebige Maßnahmen ohne Indikation",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Eigenverantwortliche Durchführung invasiver Maßnahmen zur Abwehr erheblicher Gefahren, wenn ärztliche Hilfe nicht rechtzeitig verfügbar ist",
+          "isCorrect": true,
+          "explanation": "Voraussetzungen müssen erfüllt und dokumentiert sein."
+        },
+        {
+          "id": "c",
+          "text": "Nur für Ärzte gültig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_045",
+      "type": "single",
+      "stem": "Welche Bedingung gehört NICHT zu den Voraussetzungen der Notkompetenz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Medizinische Indikation",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Mutmaßliche oder ausdrückliche Einwilligung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zeitersparnis für die Dokumentation",
+          "isCorrect": true,
+          "explanation": "Dokumentation ist erforderlich; Zeitersparnis ist kein Kriterium."
+        }
+      ]
+    },
+    {
+      "id": "gr_046",
+      "type": "single",
+      "stem": "Welche Aussage zu Fortbildung ist richtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fortbildung ist freiwillig.",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Regelmäßige Fortbildung ist Pflicht (i. d. R. ≥30 Std/Jahr; landesabhängig)",
+          "isCorrect": true,
+          "explanation": "Pflicht aus Dienstverhältnis und teils Landesrecht."
+        },
+        {
+          "id": "c",
+          "text": "Nur Ärzte müssen sich fortbilden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_047",
+      "type": "single",
+      "stem": "Wer ist medizinisch weisungsbefugt, wenn kein Notarzt vor Ort ist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Der höchstqualifizierte Mitarbeiter am Einsatzort",
+          "isCorrect": true,
+          "explanation": "Dieser übernimmt die medizinische Weisungsbefugnis."
+        },
+        {
+          "id": "b",
+          "text": "Der jüngste im Team",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Die Leitstelle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_048",
+      "type": "single",
+      "stem": "Welche Maßnahme ist beim ansprechbaren Patienten mit normaler Atmung, aber starker Brustschmerzsymptomatik im KTW mindestens angemessen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keine Vitalzeichen erheben",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Monitoring und zeitnahe Übergabe in eine geeignete Klinik",
+          "isCorrect": true,
+          "explanation": "Rasche Beurteilung/Überwachung und geeignete Zielklinik."
+        },
+        {
+          "id": "c",
+          "text": "Nur Gespräch führen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_049",
+      "type": "single",
+      "stem": "Welches Verhältnis ist bei Erwachsenen im BLS für HDM:Beatmung korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "15:2",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "30:2",
+          "isCorrect": true,
+          "explanation": "Standardverhältnis bei Erwachsenen."
+        },
+        {
+          "id": "c",
+          "text": "5:1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_050",
+      "type": "single",
+      "stem": "Welche Aussage zur Pulsprüfung im BLS trifft zu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie ist für Laienhelfer obligat",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Max. 10 Sekunden Atemkontrolle, keine Pulsprüfung durch Laien",
+          "isCorrect": true,
+          "explanation": "Professionelle Helfer prüfen ggf. Puls; Laien nicht."
+        },
+        {
+          "id": "c",
+          "text": "Immer 30 Sekunden Puls prüfen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_051",
+      "type": "single",
+      "stem": "Welche Aussage zu Infektionsketten ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die wichtigste Quelle ist meist der Mensch",
+          "isCorrect": true,
+          "explanation": "Mensch als Träger/Quelle ist häufig."
+        },
+        {
+          "id": "b",
+          "text": "Nur Tiere sind Quellen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Geräte spielen keine Rolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_052",
+      "type": "single",
+      "stem": "Welche Aussage zur Inzidenz trifft zu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anteil Erkrankter zu einem Zeitpunkt",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Anzahl Neuerkrankungen pro Zeit und Bevölkerung",
+          "isCorrect": true,
+          "explanation": "Abgrenzung zur Prävalenz (Anteil Erkrankter)."
+        },
+        {
+          "id": "c",
+          "text": "Sterblichkeitsrate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_053",
+      "type": "single",
+      "stem": "Welche Schutzmaßnahme ist bei Infektionstransporten zusätzlich typisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Infektionsschutzoverall und nachfolgende Desinfektion",
+          "isCorrect": true,
+          "explanation": "Zusätzliche PSA und Desinfektionsmaßnahmen erforderlich."
+        },
+        {
+          "id": "b",
+          "text": "Ohrenstöpsel",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sonnenbrille",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_054",
+      "type": "single",
+      "stem": "Was ist bei nassem, behaartem Thorax vor dem Aufkleben der AED‑Pads sinnvoll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nichts – einfach kleben",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Kurz trocknen/rasieren für sicheren Kontakt",
+          "isCorrect": true,
+          "explanation": "Guter Elektrodenkontakt ist entscheidend."
+        },
+        {
+          "id": "c",
+          "text": "Pads mit Tape fixieren ohne Trocknen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_055",
+      "type": "single",
+      "stem": "Welche Aussage zu Relaisfunkstellen im Analogfunk ist richtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie verringern die Reichweite",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Sie empfangen und senden Signale erneut zur Reichweitenvergrößerung",
+          "isCorrect": true,
+          "explanation": "Erhöhen Verständigungssicherheit im analogen Netz."
+        },
+        {
+          "id": "c",
+          "text": "Sie sind nur Deko",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_056",
+      "type": "single",
+      "stem": "Wofür steht die FMS‑Statusziffer 7?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nicht einsatzbereit",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Abfahrt Einsatzort → Ziel (mit Patient)",
+          "isCorrect": true,
+          "explanation": "Status 7 signalisiert Transport zum Ziel."
+        },
+        {
+          "id": "c",
+          "text": "Sprechwunsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_057",
+      "type": "single",
+      "stem": "Welche Aussage zur Dokumentation im Einsatz ist richtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wertsachenübergaben müssen nicht dokumentiert werden",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Übergabe von Wertsachen an Ziel-Einrichtung quittieren lassen",
+          "isCorrect": true,
+          "explanation": "Dokumentation/Quittierung beugt Konflikten vor."
+        },
+        {
+          "id": "c",
+          "text": "Dokumentation ist nur bei Notarzteinsätzen nötig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_058",
+      "type": "multiple",
+      "stem": "Welche der folgenden sind Bestandteile der Basishygiene?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Händedesinfektion vor und nach Patientenkontakt",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "PSA je nach Risiko (z. B. Handschuhe, Maske)",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Sterile Handschuhe bei jedem Einsatz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_059",
+      "type": "single",
+      "stem": "Welche Aussage zur Einsatzkommunikation ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kurze, standardisierte Meldungen entlasten den Funk",
+          "isCorrect": true,
+          "explanation": "FMS/Statusmeldungen beschleunigen die Kommunikation."
+        },
+        {
+          "id": "b",
+          "text": "Alle Meldungen nur telefonisch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Immer ausführliche Funksprüche senden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "gr_060",
+      "type": "single",
+      "stem": "Was ist bei der Zusammenarbeit mehrerer Einheiten am wichtigsten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unabgestimmtes Arbeiten – schneller ist besser",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Frühe Meldung beim Einsatzleiter, gemeinsame Lage und abgestimmte Abläufe",
+          "isCorrect": true,
+          "explanation": "Kooperation und klare Absprachen sichern die Versorgung."
+        },
+        {
+          "id": "c",
+          "text": "Rettungsdienst entscheidet allein",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
