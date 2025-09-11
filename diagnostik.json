@@ -1,0 +1,1330 @@
+{
+  "topicId": "diagnostik",
+  "title": "Basisdiagnostik und Monitoring",
+  "questions": [
+    {
+      "id": "diag_001",
+      "type": "single",
+      "stem": "Welches ist kein Vitalzeichen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puls",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Blutdruck",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Körpergröße",
+          "isCorrect": true,
+          "explanation": "Körpergröße ist kein Vitalzeichen."
+        }
+      ]
+    },
+    {
+      "id": "diag_002",
+      "type": "single",
+      "stem": "Welche normale Atemfrequenz gilt für Erwachsene in Ruhe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12–16/min",
+          "isCorrect": true,
+          "explanation": "Normalwert: 12–16 Atemzüge pro Minute."
+        },
+        {
+          "id": "b",
+          "text": "6–10/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "20–30/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_003",
+      "type": "single",
+      "stem": "Welches Schema beschreibt die Bewusstseinslage grob?",
+      "options": [
+        {
+          "id": "a",
+          "text": "AVPU-Schema",
+          "isCorrect": true,
+          "explanation": "Alert, Verbal, Pain, Unresponsive."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Schema",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "SAMPLER",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_004",
+      "type": "single",
+      "stem": "Wie lautet der normale systolische Blutdruck eines Erwachsenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "80–100 mmHg",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "120 mmHg",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "160 mmHg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_005",
+      "type": "single",
+      "stem": "Welche Hautfarbe ist typisch für Hypoxie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose (bläulich)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Rötung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blass-rosig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_006",
+      "type": "single",
+      "stem": "Was beschreibt die Pupillenreaktion physiologisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verengung bei Lichteinfall",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Erweiterung bei Lichteinfall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Reaktion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_007",
+      "type": "single",
+      "stem": "Welche Struktur wird bei der Beurteilung der Mundhöhle besonders inspiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zähne",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Zunge und Rachenraum",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Nase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_008",
+      "type": "single",
+      "stem": "Wie wird die Atemqualität beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nur durch Frequenz",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Nach Frequenz, Tiefe, Geräuschen",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Nur nach Tiefe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_009",
+      "type": "single",
+      "stem": "Wie heißt der medizinische Begriff für Herzrasen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bradykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Tachykardie",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Asystolie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_010",
+      "type": "single",
+      "stem": "Welche Blutdruckmessung ist im Rettungsdienst Standard?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Invasiv",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Nicht-invasiv (RR)",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Oszillometrisch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_011",
+      "type": "single",
+      "stem": "Welcher Parameter zeigt am besten eine Kreislaufdepression?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nasenbluten",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Kaltschweißigkeit",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Kopfschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_012",
+      "type": "single",
+      "stem": "Welcher Wert gilt als normale Körpertemperatur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "36,5–37,5 °C",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "35,0 °C",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "38,5 °C",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_013",
+      "type": "single",
+      "stem": "Welche Atemform deutet auf eine schwere Schädigung des Atemzentrums hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kussmaul-Atmung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Eupnoe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Cheyne-Stokes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_014",
+      "type": "single",
+      "stem": "Welche Seite wird standardmäßig für Blutdruckmessung empfohlen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nicht dominante Seite",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer rechte Seite",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Immer linke Seite",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_015",
+      "type": "single",
+      "stem": "Welcher Puls wird als zentral bezeichnet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Radialispuls",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Karotispuls",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Fußpuls",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_016",
+      "type": "single",
+      "stem": "Wofür steht das ABCDE-Schema?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Airway, Breathing, Circulation, Disability, Exposure",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Air, Blood, Cardiac, Diuresis, Exit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Alarm, Basic, Care, Danger, Emergency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_017",
+      "type": "single",
+      "stem": "Was wird im SAMPLER-Schema abgefragt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anamnese",
+          "isCorrect": true,
+          "explanation": "Signs, Allergies, Medication, Past, Last meal, Events, Risk factors."
+        },
+        {
+          "id": "b",
+          "text": "Vitalzeichen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "EKG",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_018",
+      "type": "single",
+      "stem": "Welches Schema dient der Schmerzbeschreibung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "OPQRST",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "AVPU",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_019",
+      "type": "single",
+      "stem": "Was bedeutet das IPPAF-Schema?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inspektion, Palpation, Perkussion, Auskultation, Funktionsprüfung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Intubation, Perfusion, Pulsoxymetrie, Auskultation, First Aid",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Injektion, Palpation, Perfusion, Auswertung, Funktion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_020",
+      "type": "single",
+      "stem": "Welches Schema wird bei Trauma-Patienten zur erweiterten Untersuchung genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SAMPLER",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "SAMPLE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Secondary Survey (AMPLE)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "diag_021",
+      "type": "single",
+      "stem": "Welche Reihenfolge ist bei der Untersuchung nach ABCDE korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Airway → Breathing → Circulation → Disability → Exposure",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Circulation → Airway → Breathing → Disability → Exposure",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Airway → Circulation → Breathing → Exposure → Disability",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_022",
+      "type": "single",
+      "stem": "Was ist ein häufiger Wahrnehmungsfehler bei Diagnostik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bestätigungsfehler (confirmation bias)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Auswahlfehler",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fehlerfreie Beurteilung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_023",
+      "type": "single",
+      "stem": "Wofür steht das Akronym OPQRST?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Onset, Provocation, Quality, Radiation, Severity, Time",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Operation, Pulse, Quick, Reaction, Shock, Test",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Observe, Palpate, Question, Rate, Stress, Trauma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_024",
+      "type": "single",
+      "stem": "Welche Untersuchung gehört zur Basiserhebung der Atmung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Auskultation der Lunge",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "EKG",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blutzucker",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_025",
+      "type": "single",
+      "stem": "Was prüft man bei der orientierenden neurologischen Untersuchung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bewusstsein, Motorik, Pupillen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hautfarbe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "EKG",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_026",
+      "type": "single",
+      "stem": "Was bedeutet GCS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glasgow Coma Scale",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Global Cardiac Score",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "General Care Standard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_027",
+      "type": "single",
+      "stem": "Was wird bei der Glasgow Coma Scale NICHT beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Augenöffnung",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Motorische Reaktion",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blutdruck",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "diag_028",
+      "type": "single",
+      "stem": "Welche Skala dient der Beurteilung von Schmerzen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Numerische Rating-Skala (0–10)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "SAMPLER",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_029",
+      "type": "single",
+      "stem": "Welcher Begriff beschreibt die Untersuchung durch Abklopfen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Perkussion",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Palpation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Inspektion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_030",
+      "type": "single",
+      "stem": "Was bedeutet Auskultation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abhören von Organen mit Stethoskop",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Abklopfen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bewegungstest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_031",
+      "type": "single",
+      "stem": "Welche Methode dient der nicht-invasiven Blutdruckmessung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Riva-Rocci-Methode (Manschette + Stethoskop)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Swan-Ganz-Katheter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Herzkatheter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_032",
+      "type": "single",
+      "stem": "Welcher Zielwert gilt als normaler Blutzucker (kapillär, nüchtern)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "70–100 mg/dl",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "120–180 mg/dl",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "<50 mg/dl",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_033",
+      "type": "single",
+      "stem": "Was misst die Pulsoxymetrie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sauerstoffsättigung und Pulsfrequenz",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "CO₂-Konzentration",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blutdruck",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_034",
+      "type": "single",
+      "stem": "Was wird mit dem EKG gemessen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Elektrische Aktivität des Herzens",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Mechanische Herzleistung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lungenvolumen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_035",
+      "type": "single",
+      "stem": "Wie viele Ableitungen hat ein Standard-12-Kanal-EKG?",
+      "options": [
+        {
+          "id": "a",
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "12",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "24",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_036",
+      "type": "single",
+      "stem": "Was misst die Kapnometrie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "CO₂-Gehalt in der Ausatemluft",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sauerstoffsättigung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Herzfrequenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_037",
+      "type": "single",
+      "stem": "Welcher Wert wird durch Thermometer erfasst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körpertemperatur",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Blutdruck",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Herzfrequenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_038",
+      "type": "single",
+      "stem": "Welcher Normbereich gilt für die Pulsoxymetrie bei gesunden Erwachsenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "95–100 %",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "80–90 %",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "70–75 %",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_039",
+      "type": "single",
+      "stem": "Welche Fehlerquelle gibt es bei Pulsoxymetrie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nagellack oder kalte Finger",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Herzrhythmus",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Körpergröße",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_040",
+      "type": "single",
+      "stem": "Welche Ableitungen gehören zu den Brustwandableitungen im EKG?",
+      "options": [
+        {
+          "id": "a",
+          "text": "V1–V6",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "I–III",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "aVR, aVL, aVF",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_041",
+      "type": "single",
+      "stem": "Welches Gerät misst kontinuierlich den invasiven Blutdruck?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arterieller Katheter",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Stethoskop",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Pulsoximeter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_042",
+      "type": "single",
+      "stem": "Was bedeutet die Abkürzung NIBP?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Non-invasive blood pressure",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Normal internal body pressure",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Neural impulse blood potential",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_043",
+      "type": "single",
+      "stem": "Wie nennt man die Aufzeichnung der Herzfrequenz über 24 Stunden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Langzeit-EKG (Holter)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Belastungs-EKG",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Telemetrie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_044",
+      "type": "single",
+      "stem": "Welches Gerät wird zur Messung des Blutzuckers im Rettungsdienst eingesetzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glukometer",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Pulsoximeter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kapnometer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_045",
+      "type": "single",
+      "stem": "Welche Aussage zum Monitoring im Rettungsdienst ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Monitoring ist Beobachtung und Überwachung vitaler Funktionen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Monitoring bedeutet nur EKG",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Monitoring bedeutet nur Blutdruckmessung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_046",
+      "type": "single",
+      "stem": "Welcher Fehler führt zu falschem Blutdruckwert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Falsche Manschettengröße",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Richtige Lagerung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Richtige Manschettenhöhe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_047",
+      "type": "single",
+      "stem": "Welcher Fehler kann bei der Blutzuckermessung auftreten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verunreinigung des Bluttropfens",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Steriles Arbeiten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kalibrierung des Geräts",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_048",
+      "type": "single",
+      "stem": "Was kann die Pulsoxymetrie verfälschen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bewegungsartefakte",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Reguläre Atmung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normale Hautfarbe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_049",
+      "type": "single",
+      "stem": "Was ist eine häufige Fehlerquelle beim EKG?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Falsch angebrachte Elektroden",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Richtige Platzierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Saubere Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_050",
+      "type": "single",
+      "stem": "Welche Fehlerquelle gibt es bei der Kapnometrie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Undichte Atemwege oder Leckagen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Normale Beatmung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Korrekte Intubation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_051",
+      "type": "single",
+      "stem": "Welche Fehler entstehen bei der Temperaturmessung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ungeeignetes Messverfahren",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Geeignetes Thermometer",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Korrekte Lagerung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_052",
+      "type": "single",
+      "stem": "Wie kann man Fehlmessungen vermeiden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Standardisierte Technik und Kontrolle",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Ignorieren von Artefakten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Beliebige Positionierung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_053",
+      "type": "single",
+      "stem": "Welche Situation erfordert engmaschiges Monitoring?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Instabiler Patient mit Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Stabiler Patient ohne Beschwerden",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gesunder Begleiter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_054",
+      "type": "single",
+      "stem": "Was gehört NICHT zum Standardmonitoring im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsoxymetrie",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Kapnometrie bei Intubierten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Magnetresonanztomographie (MRT)",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "diag_055",
+      "type": "single",
+      "stem": "Welche Aussage zum Monitoring ist richtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es ersetzt nicht die klinische Untersuchung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Es ersetzt die Anamnese",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Es ersetzt den Rettungsassistenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_056",
+      "type": "single",
+      "stem": "Wie häufig sollen Vitalzeichen bei instabilen Patienten überprüft werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alle 1–2 Minuten",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Alle 15 Minuten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Einmal pro Stunde",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_057",
+      "type": "single",
+      "stem": "Welche Aussage zu Monitoringalarmsystemen ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie müssen individuell eingestellt und überprüft werden",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer ignorieren",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Immer auf Standard lassen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_058",
+      "type": "single",
+      "stem": "Was ist beim Transport mit Monitoringgeräten wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Akkuladung und sichere Befestigung prüfen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Gerät ausschalten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Patient unbeaufsichtigt lassen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_059",
+      "type": "single",
+      "stem": "Welche Art Fehler ist ein Interpretationsfehler?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fehlbewertung von korrekt erhobenen Daten",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsche Gerätebedienung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defektes Material",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "diag_060",
+      "type": "single",
+      "stem": "Welche Kombination aus Diagnostik ist Standard im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blutdruck, Puls, SpO₂, EKG",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Blutdruck, Röntgen, MRT",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "SpO₂, Sonographie, CT",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
