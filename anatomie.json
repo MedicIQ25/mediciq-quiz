@@ -1,0 +1,50 @@
+{
+  "topicId": "anatomie",
+  "title": "Anatomie und Physiologie",
+  "questions": [
+    {
+      "id": "ana_001",
+      "type": "single",
+      "stem": "Welche Hauptaufgabe hat das Herz-Kreislauf-System?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transport von Nährstoffen, Gasen und Hormonen im Körper",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Produktion von Hormonen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Abbau von Stoffwechselprodukten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_002",
+      "type": "single",
+      "stem": "Wie viele Herzklappen besitzt das menschliche Herz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "4",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
