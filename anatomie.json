@@ -45,6 +45,1282 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "id": "ana_003",
+      "type": "single",
+      "stem": "Welche Struktur trennt linkes und rechtes Herz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Septum (Herzscheidewand)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Koronararterien",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Perikard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_004",
+      "type": "single",
+      "stem": "Wie lautet die normale Herzfrequenz eines Erwachsenen in Ruhe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30–50/min",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "60–80/min",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "100–140/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_005",
+      "type": "single",
+      "stem": "Was versteht man unter Systole?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Entspannungsphase des Herzmuskels",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Anspannungs- und Auswurfphase des Herzens",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Blutfüllung der Ventrikel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_006",
+      "type": "single",
+      "stem": "Welches Gefäß transportiert sauerstoffreiches Blut vom Herzen in den Körper?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vena cava",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Aorta",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Pulmonalarterie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_007",
+      "type": "single",
+      "stem": "Welche Gefäße versorgen den Herzmuskel selbst mit Blut?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Koronararterien",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Pulmonalvenen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vena cava superior",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_008",
+      "type": "single",
+      "stem": "Was versteht man unter Blutdruck?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Druck, den das Blut auf die Gefäßwände ausübt",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Druck der Atemluft in der Lunge",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Osmotischer Druck im Gewebe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_009",
+      "type": "single",
+      "stem": "Welche Blutgruppe gilt als Universalspender für Erythrozyten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0 negativ",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "AB positiv",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "A positiv",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_010",
+      "type": "single",
+      "stem": "Wo findet der Gasaustausch im Blutkreislauf statt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In den Kapillaren",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "In den Venen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "In der Aorta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_011",
+      "type": "single",
+      "stem": "Was bedeutet der Begriff Hämatokrit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anteil der Blutzellen am Gesamtblutvolumen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hämoglobinwert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Serumkonzentration von Glukose",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_012",
+      "type": "single",
+      "stem": "Welche Zellen sind primär für die Blutgerinnung zuständig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Erythrozyten",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Thrombozyten",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Leukozyten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_013",
+      "type": "single",
+      "stem": "Was ist die Aufgabe der Lymphgefäße?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abtransport von Gewebsflüssigkeit und Immunabwehr",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Transport von Sauerstoff",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Produktion von Glukose",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_014",
+      "type": "single",
+      "stem": "Welche Strukturen verhindern den Rückfluss des Blutes in den Venen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herzklappen",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Venenklappen",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Alveolen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_015",
+      "type": "single",
+      "stem": "Wie nennt man die elektrische Erregungsausbreitung im Herzen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herzrhythmus",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Erregungsleitungssystem",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Herzspitzenstoß",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_016",
+      "type": "single",
+      "stem": "Welche Hauptfunktion hat das Atmungssystem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufnahme von Sauerstoff und Abgabe von Kohlendioxid",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Produktion von Enzymen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Filtration von Urin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_017",
+      "type": "single",
+      "stem": "Wo findet der eigentliche Gasaustausch statt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In den Alveolen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "In der Trachea",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "In den Bronchien",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_018",
+      "type": "single",
+      "stem": "Welcher Muskel ist der wichtigste Atemmuskel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zwerchfell",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Herzmuskel",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bizeps",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_019",
+      "type": "single",
+      "stem": "Wie viele Lungenlappen hat der Mensch insgesamt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "5",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_020",
+      "type": "single",
+      "stem": "Was ist die normale Atemfrequenz eines Erwachsenen in Ruhe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8–12/min",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "12–16/min",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "20–30/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_021",
+      "type": "single",
+      "stem": "Wie lautet die medizinische Bezeichnung für die Luftröhre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bronchus",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Trachea",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Larynx",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_022",
+      "type": "single",
+      "stem": "Welches Organ trennt Brust- und Bauchhöhle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zwerchfell",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Lunge",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Herz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_023",
+      "type": "single",
+      "stem": "Wie wird die Sauerstoffsättigung im Blut bezeichnet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SpO₂",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "EKG",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "RR",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_024",
+      "type": "single",
+      "stem": "Welche Struktur verhindert das Eindringen von Nahrung in die Luftröhre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Epiglottis (Kehldeckel)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Stimmbänder",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bronchien",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_025",
+      "type": "single",
+      "stem": "Welche Form hat die Sauerstoffbindungskurve des Hämoglobins?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Linear",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Sigmoidal",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Quadratisch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_026",
+      "type": "single",
+      "stem": "Wie wird die normale, unauffällige Atmung bezeichnet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eupnoe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Dyspnoe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Apnoe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_027",
+      "type": "single",
+      "stem": "Was misst die Spirometrie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lungenvolumina und Atemfluss",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Herzfrequenz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blutdruck",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_028",
+      "type": "single",
+      "stem": "Welcher Teil des Gehirns steuert die Atmung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Medulla oblongata",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kleinhirn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Großhirnrinde",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_029",
+      "type": "single",
+      "stem": "Wie lautet die medizinische Bezeichnung für Atemnot?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dyspnoe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Eupnoe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Apnoe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_030",
+      "type": "single",
+      "stem": "Was bedeutet Hyperventilation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zu langsames Atmen",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Übermäßige Belüftung der Lunge mit Abfall von CO₂",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Fehlende Atmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_031",
+      "type": "single",
+      "stem": "Welche Funktion hat das Nervensystem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reizaufnahme, Verarbeitung und Steuerung von Körperfunktionen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Produktion von Hormonen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blutbildung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_032",
+      "type": "single",
+      "stem": "Wie nennt man die kleinste funktionelle Einheit des Nervensystems?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neuron",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Synapse",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Axon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_033",
+      "type": "single",
+      "stem": "Welche Zellen sind für die Myelinisierung verantwortlich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schwann-Zellen im PNS",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Erythrozyten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hepatozyten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_034",
+      "type": "single",
+      "stem": "Wie nennt man die Verbindung zwischen zwei Nervenzellen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synapse",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Axon",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dendrit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_035",
+      "type": "single",
+      "stem": "Welcher Neurotransmitter ist an der neuromuskulären Übertragung beteiligt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Acetylcholin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Serotonin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dopamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_036",
+      "type": "single",
+      "stem": "Welche Abschnitte gehören zum zentralen Nervensystem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gehirn und Rückenmark",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nerven in Armen und Beinen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sympathikus allein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_037",
+      "type": "single",
+      "stem": "Welche Struktur steuert das vegetative Nervensystem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypothalamus",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kleinhirn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Okzipitallappen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_038",
+      "type": "single",
+      "stem": "Welche Hirnnerven sind für das Sehen zuständig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "N. opticus (II)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "N. olfactorius (I)",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "N. vagus (X)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_039",
+      "type": "single",
+      "stem": "Welcher Teil des Gehirns ist für das Gleichgewicht zuständig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kleinhirn",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Frontallappen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hypothalamus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_040",
+      "type": "single",
+      "stem": "Was ist die Funktion des Sympathikus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aktivierung von Leistungssteigerung („Fight or Flight“)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Förderung von Ruhe und Verdauung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Produktion von Hormonen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_041",
+      "type": "single",
+      "stem": "Welches Sinnesorgan enthält die Retina?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Auge",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Ohr",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_042",
+      "type": "single",
+      "stem": "Welches Organ enthält die Cochlea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ohr",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Auge",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zunge",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_043",
+      "type": "single",
+      "stem": "Welche Geschmacksqualitäten werden klassisch unterschieden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Süß, sauer, salzig, bitter, umami",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Heiß, kalt, scharf",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Weich, hart",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_044",
+      "type": "single",
+      "stem": "Welche Funktion hat das Rückenmark?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leitung von Nervenimpulsen und Reflexzentren",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Produktion von Hormonen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blutfilterung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_045",
+      "type": "single",
+      "stem": "Welche Hirnregion verarbeitet visuelle Informationen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Okzipitallappen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Frontallappen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Temporallappen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_046",
+      "type": "single",
+      "stem": "Welche Hauptaufgabe hat das Verdauungssystem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zerkleinerung und Aufnahme von Nährstoffen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Produktion von Hormonen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sauerstoffaufnahme",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_047",
+      "type": "single",
+      "stem": "Welches Organ produziert die Galle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Leber",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Milz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Pankreas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_048",
+      "type": "single",
+      "stem": "Wo wird die Galle gespeichert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gallenblase",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Duodenum",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_049",
+      "type": "single",
+      "stem": "Welches Organ produziert Insulin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pankreas (Bauchspeicheldrüse)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Leber",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Niere",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_050",
+      "type": "single",
+      "stem": "In welchem Organ findet die Hauptresorption von Nährstoffen statt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dünndarm",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Magen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dickdarm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_051",
+      "type": "single",
+      "stem": "Welcher Teil des Magens mündet in den Dünndarm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pylorus (Magenpförtner)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Fundus",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Cardia",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_052",
+      "type": "single",
+      "stem": "Welche Struktur verhindert den Rückfluss von Magensaft in die Speiseröhre?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ösophagussphinkter",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Pylorus",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Epiglottis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_053",
+      "type": "single",
+      "stem": "Welche Aufgabe hat der Dickdarm?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wasser- und Elektrolytresorption, Stuhlbildung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Proteinverdauung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gallenproduktion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_054",
+      "type": "single",
+      "stem": "Welche Zähne sind für das Zermahlen der Nahrung zuständig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Molaren (Backenzähne)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schneidezähne",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Eckzähne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_055",
+      "type": "single",
+      "stem": "Welche Struktur trennt die Mundhöhle vom Nasenraum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gaumen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Zunge",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Pharynx",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_056",
+      "type": "single",
+      "stem": "Welche Organe gehören zum Harnsystem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nieren, Harnleiter, Harnblase, Harnröhre",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Leber, Milz, Magen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Herz und Lunge",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_057",
+      "type": "single",
+      "stem": "Welche Funktion haben die Nieren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ausscheidung von Stoffwechselprodukten, Regulation von Wasser- und Elektrolythaushalt",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Produktion von Insulin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bildung von Erythrozyten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_058",
+      "type": "single",
+      "stem": "Wie heißt die funktionelle Einheit der Niere?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nephron",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Alveole",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Neuron",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_059",
+      "type": "single",
+      "stem": "Wie heißt der Vorgang der Harnbildung im Nierenkörperchen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Filtration",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Resorption",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sekretion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ana_060",
+      "type": "single",
+      "stem": "Welche Substanz wird physiologisch nicht im Urin ausgeschieden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Glukose",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Harnstoff",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kreatinin",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
