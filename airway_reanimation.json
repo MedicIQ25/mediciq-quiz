@@ -1,0 +1,1326 @@
+{
+  "topicId": "airway_reanimation",
+  "title": "Airwaymanagement und Reanimation",
+  "questions": [
+    {
+      "id": "air_001",
+      "type": "single",
+      "stem": "Welches Manöver dient zum Freimachen der Atemwege bei Bewusstlosen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Esmarch-Handgriff",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Heimlich-Manöver",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "CPR",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_002",
+      "type": "single",
+      "stem": "Welche Lagerung ist geeignet zur Sicherung der Atemwege bei Bewusstlosen ohne Trauma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stabile Seitenlage",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bauchlage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sitzposition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_003",
+      "type": "single",
+      "stem": "Wofür wird ein Guedel-Tubus verwendet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zur Offenhaltung der oberen Atemwege",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Zur Beatmung der Lunge",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zur Medikamentengabe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_004",
+      "type": "single",
+      "stem": "Welche Kontraindikation hat der Wendl-Tubus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Basisschädelbruch",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Zahnverlust",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bewusstlosigkeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_005",
+      "type": "single",
+      "stem": "Welche Größe wird bei Guedel-Tuben ausgewählt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nach Abstand Mundwinkel-Kieferwinkel",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nach Körpergewicht",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nach Alter allein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_006",
+      "type": "single",
+      "stem": "Welche Maßnahme ist beim Airwaymanagement oberste Priorität?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sauerstoffversorgung sichern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "EKG anschließen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Venösen Zugang legen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_007",
+      "type": "single",
+      "stem": "Welches Gerät ist ein supraglottisches Atemwegshilfsmittel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Larynxmaske",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Endotrachealtubus",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Trachealkanüle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_008",
+      "type": "single",
+      "stem": "Welche Technik wird für die endotracheale Intubation benötigt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Laryngoskopie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bronchoskopie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "CT-Untersuchung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_009",
+      "type": "single",
+      "stem": "Welche Komplikation kann bei Intubation auftreten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ösophagusintubation",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Verbesserte Oxygenierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normale Beatmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_010",
+      "type": "single",
+      "stem": "Welche Sauerstoffkonzentration liefert eine O₂-Maske mit Reservoir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "> 90 %",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "21 %",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "40 %",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_011",
+      "type": "single",
+      "stem": "Wie wird eine Beutel-Masken-Beatmung korrekt durchgeführt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mit CE-Griff, dichter Maskensitz",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Mit zwei Händen am Beutel",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur auf Verdacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_012",
+      "type": "single",
+      "stem": "Welche Beatmungsfrequenz wird bei Erwachsenen empfohlen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10–12/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "20–25/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "5/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_013",
+      "type": "single",
+      "stem": "Welches Zeichen spricht für eine suffiziente Beatmung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thorax hebt sich sichtbar",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kein Thoraxheben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zyanose",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_014",
+      "type": "single",
+      "stem": "Welche Technik hilft, die Zunge vom Rachen zu entfernen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "EsMarch-Handgriff",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Palpation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Thoraxkompression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_015",
+      "type": "single",
+      "stem": "Welches Medikament wird häufig zur Narkoseeinleitung bei Intubation genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Etomidat",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Paracetamol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ibuprofen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_016",
+      "type": "single",
+      "stem": "Welches Relaxans wird im Notfall zur Intubation genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rocuronium",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Diazepam",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Adrenalin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_017",
+      "type": "single",
+      "stem": "Welche Gefahr besteht bei Aspiration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pneumonie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypertonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Arrhythmie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_018",
+      "type": "single",
+      "stem": "Welche Position wird für eine Intubation empfohlen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schnüffelposition",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bauchlage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Trendelenburg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_019",
+      "type": "single",
+      "stem": "Welche Indikation rechtfertigt eine endotracheale Intubation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unschützbare Atemwege",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Leichte Dyspnoe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nasenbluten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_020",
+      "type": "single",
+      "stem": "Welche Farbe zeigt korrektes CO₂ im Kapnometer nach Intubation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gelb",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Grün",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blau",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_021",
+      "type": "single",
+      "stem": "Was ist das Ziel einer Narkose im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schmerzfreiheit, Bewusstseinsverlust, Muskelrelaxation",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Erhöhung des Blutdrucks",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vasodilatation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_022",
+      "type": "single",
+      "stem": "Welches Hypnotikum wird häufig verwendet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Propofol",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Ibuprofen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Paracetamol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_023",
+      "type": "single",
+      "stem": "Welches Analgetikum wird oft bei Narkose genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fentanyl",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Paracetamol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Diazepam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_024",
+      "type": "single",
+      "stem": "Welches Relaxans ist gängig zur RSI?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Succinylcholin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Metoprolol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Morphin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_025",
+      "type": "single",
+      "stem": "Welche Komplikation ist bei Succinylcholin gefürchtet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maligne Hyperthermie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypotonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hyperglykämie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_026",
+      "type": "single",
+      "stem": "Was bedeutet RSI?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rapid Sequence Induction",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Random Sample Investigation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Respiratory Standard Intubation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_027",
+      "type": "single",
+      "stem": "Welcher Vorteil hat Etomidat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stabile Kreislaufverhältnisse",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Analgetisch stark",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Antipyretisch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_028",
+      "type": "single",
+      "stem": "Was gehört NICHT zu den Phasen einer Narkose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Einleitung",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Aufrechterhaltung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hämodialyse",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "air_029",
+      "type": "single",
+      "stem": "Welches Monitoring ist bei Narkose essentiell?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsoxymetrie, EKG, Blutdruck, Kapnometrie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nur Puls fühlen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Atmung hören",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_030",
+      "type": "single",
+      "stem": "Welche Maßnahme beendet eine Narkose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absetzen der Narkosemittel",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Verabreichung von Insulin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gabe von Kochsalz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_031",
+      "type": "single",
+      "stem": "Wie wird ein Kreislaufstillstand erkannt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Keine Atmung, keine Reaktion, kein Puls",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Zittern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bluthochdruck",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_032",
+      "type": "single",
+      "stem": "Welche Notrufnummer gilt in Europa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "112",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "110",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "911",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_033",
+      "type": "single",
+      "stem": "Welche Kompressionstiefe wird bei Erwachsenen empfohlen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "5–6 cm",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "2–3 cm",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "8–10 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_034",
+      "type": "single",
+      "stem": "Welche Frequenz gilt für Thoraxkompressionen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "100–120/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "60/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "150/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_035",
+      "type": "single",
+      "stem": "Wie lautet das Verhältnis bei BLS mit Atemspende?",
+      "options": [
+        {
+          "id": "a",
+          "text": "30:2",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "15:1",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "5:1",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_036",
+      "type": "single",
+      "stem": "Welche Technik verhindert Aspiration bei Beatmung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Esmarch-Handgriff",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Pulsfühlen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defibrillation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_037",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Kindern angepasst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kompressionstiefe 1/3 Thoraxdurchmesser",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer 10 cm",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Beatmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_038",
+      "type": "single",
+      "stem": "Was bedeutet AED?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Automatisierter externer Defibrillator",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Allgemeiner Energie-Detektor",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Akuter Einsatzdienst",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_039",
+      "type": "single",
+      "stem": "Welche Maßnahme hat Priorität bei CPR?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thoraxkompressionen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Blutdruck messen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Infusion legen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_040",
+      "type": "single",
+      "stem": "Welche Technik dient zur Beatmung ohne Hilfsmittel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mund-zu-Mund-Beatmung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Intubation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Maske mit Beutel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_041",
+      "type": "single",
+      "stem": "Welche Frequenz gilt für Beatmung bei BLS mit Atemspende?",
+      "options": [
+        {
+          "id": "a",
+          "text": "10–12/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "20–25/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "5/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_042",
+      "type": "single",
+      "stem": "Welche Aussage zur Defibrillation ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nur bei schockbaren Rhythmen anwenden",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer anwenden",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nie anwenden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_043",
+      "type": "single",
+      "stem": "Welche Position haben die Defi-Pads beim Erwachsenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rechts unter Clavicula, links seitlich unter Achsel",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Beide auf den Rücken",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur am Bauch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_044",
+      "type": "single",
+      "stem": "Was ist bei Unterbrechungen der Kompressionen zu beachten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "So kurz wie möglich",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Beliebig lang",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kompressionen pausieren ist egal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_045",
+      "type": "single",
+      "stem": "Welche Technik überprüft den Erfolg der CPR?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulskontrolle und SpO₂",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nur Hautfarbe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Pupillen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_046",
+      "type": "single",
+      "stem": "Welche Rhythmen sind schockbar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kammerflimmern und pulslose VT",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Asystolie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "PEA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_047",
+      "type": "single",
+      "stem": "Welche Medikamente werden bei nicht-schockbarem Rhythmus gegeben?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adrenalin alle 3–5 min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Amiodaron",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ibuprofen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_048",
+      "type": "single",
+      "stem": "Wann wird Amiodaron bei CPR gegeben?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nach 3. Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer sofort",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_049",
+      "type": "single",
+      "stem": "Welche Joule-Einstellung gilt bei biphasischem Defibrillator (Erwachsene)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "150–200 J",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "50 J",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "400 J",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_050",
+      "type": "single",
+      "stem": "Welche Maßnahme nach ROSC ist wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Postreanimationsbehandlung mit Oxygenierung, Temperaturkontrolle",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "CPR fortsetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_051",
+      "type": "single",
+      "stem": "Welche Kompression-Ventilations-Verhältnis gilt bei gesichertem Atemweg?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontinuierliche Kompressionen, 10 Beatmungen/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "30:2",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "15:2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_052",
+      "type": "single",
+      "stem": "Welcher Parameter wird durch Kapnometrie bei CPR überwacht?",
+      "options": [
+        {
+          "id": "a",
+          "text": "CO₂-Ausatemkonzentration",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sauerstoffsättigung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blutdruck",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_053",
+      "type": "single",
+      "stem": "Welche Bedeutung hat ein steigendes endtidales CO₂ während CPR?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hinweis auf ROSC",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Fehlerhafte Intubation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hyperventilation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_054",
+      "type": "single",
+      "stem": "Welche reversible Ursachen werden unter 4H und 4T zusammengefasst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypoxie, Hypovolämie, Hypo-/Hyperkaliämie, Hypothermie; Thromboembolie, Tamponade, Toxine, Spannungspneu",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nur Herzinfarkt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Blutung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_055",
+      "type": "single",
+      "stem": "Wann soll die Rhythmusanalyse erfolgen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alle 2 Minuten",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Alle 10 Minuten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Beliebig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_056",
+      "type": "single",
+      "stem": "Welche Aussage zu Adrenalin bei CPR ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbessert Koronardurchblutung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Senkt Herzfrequenz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Beendet CPR",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_057",
+      "type": "single",
+      "stem": "Welches Medikament senkt die Herzfrequenz bei tachykarden Rhythmusstörungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amiodaron",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Naloxon",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Diazepam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_058",
+      "type": "single",
+      "stem": "Welche Technik unterstützt die Defibrillation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thoraxkompressionen unmittelbar vor und nach Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Unterbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur warten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_059",
+      "type": "single",
+      "stem": "Welche Aussage zur Atemwegssicherung während CPR ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Endotracheale Intubation oder SGA bevorzugt",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer Mund-zu-Mund",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Atemwegssicherung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "air_060",
+      "type": "single",
+      "stem": "Welcher Zielwert für SpO₂ wird nach ROSC empfohlen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "94–98 %",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "80 %",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "100 %",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
