@@ -1,0 +1,1386 @@
+{
+  "topicId": "dokumentation_kommunikation",
+  "title": "Dokumentation, Übergabe & Kommunikation im Rettungsdienst",
+  "questions": [
+    {
+      "id": "frage_001",
+      "type": "single",
+      "stem": "Welcher Grundsatz gilt für die Dokumentation im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alles, was nicht dokumentiert ist, gilt als nicht gemacht",
+          "isCorrect": true,
+          "explanation": "Dokumentation hat rechtliche Beweiskraft."
+        },
+        {
+          "id": "b",
+          "text": "Nur Vitalwerte sind verpflichtend",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur bei Notarzteinsätzen nötig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_002",
+      "type": "single",
+      "stem": "Welche Angaben gehören zwingend in das Einsatzprotokoll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientendaten, Einsatzort, Maßnahmen, Befunde",
+          "isCorrect": true,
+          "explanation": "Diese Mindestangaben sichern Nachvollziehbarkeit."
+        },
+        {
+          "id": "b",
+          "text": "Nur Name und Uhrzeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Diagnosen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_003",
+      "type": "single",
+      "stem": "Welches Schema eignet sich für die strukturierte Übergabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SBAR oder ATMIST",
+          "isCorrect": true,
+          "explanation": "Beide bieten standardisierte Übergabestrukturen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_004",
+      "type": "single",
+      "stem": "Was ist bei einer Transportverweigerung zu dokumentieren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufklärung, Einsichtsfähigkeit, Unterschrift",
+          "isCorrect": true,
+          "explanation": "Die rechtliche Absicherung ist zwingend."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Name des Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nichts, wenn der Patient gehen will",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_005",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt für elektronische Dokumentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie ersetzt das Papierprotokoll, wenn rechtlich zugelassen",
+          "isCorrect": true,
+          "explanation": "Digitale Dokumentation ist in vielen Bereichen Standard."
+        },
+        {
+          "id": "b",
+          "text": "Sie ist immer optional",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sie muss nicht gespeichert werden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_006",
+      "type": "single",
+      "stem": "Welche drei Kommunikationsarten unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbal, nonverbal, paraverbal",
+          "isCorrect": true,
+          "explanation": "Sprache, Körpersprache und Tonfall prägen die Kommunikation."
+        },
+        {
+          "id": "b",
+          "text": "Offen, geschlossen, indirekt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Persönlich, digital, schriftlich",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_007",
+      "type": "single",
+      "stem": "Welche vier Seiten hat eine Nachricht nach Schulz von Thun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sachinhalt, Selbstoffenbarung, Beziehung, Appell",
+          "isCorrect": true,
+          "explanation": "Alle vier Aspekte sind in jeder Nachricht enthalten."
+        },
+        {
+          "id": "b",
+          "text": "Problem, Lösung, Emotion, Verhalten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vergangenheit, Gegenwart, Zukunft, Ziel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_008",
+      "type": "single",
+      "stem": "Was ist das Ziel professioneller Beziehungsgestaltung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kooperation zur Erreichung der Einsatzziele",
+          "isCorrect": true,
+          "explanation": "Kooperation entsteht durch Arbeits- und emotionale Beziehung."
+        },
+        {
+          "id": "b",
+          "text": "Strikte Autorität durchsetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Konflikte vermeiden, auch wenn Infos fehlen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_009",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Zuhören?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zusammenfassen und offene Fragen stellen",
+          "isCorrect": true,
+          "explanation": "So zeigt man Interesse und strukturiert Informationen."
+        },
+        {
+          "id": "b",
+          "text": "Patient ständig unterbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Ja/Nein-Fragen stellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_010",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Sprechen im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ich-Botschaften und verhaltensorientierte Sprache",
+          "isCorrect": true,
+          "explanation": "So werden Konflikte vermieden und Kooperation gefördert."
+        },
+        {
+          "id": "b",
+          "text": "Vorwürfe und Befehle",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ironie und Witze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_011",
+      "type": "single",
+      "stem": "Welcher Grundsatz gilt für die Dokumentation im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alles, was nicht dokumentiert ist, gilt als nicht gemacht",
+          "isCorrect": true,
+          "explanation": "Dokumentation hat rechtliche Beweiskraft."
+        },
+        {
+          "id": "b",
+          "text": "Nur Vitalwerte sind verpflichtend",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur bei Notarzteinsätzen nötig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_012",
+      "type": "single",
+      "stem": "Welche Angaben gehören zwingend in das Einsatzprotokoll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientendaten, Einsatzort, Maßnahmen, Befunde",
+          "isCorrect": true,
+          "explanation": "Diese Mindestangaben sichern Nachvollziehbarkeit."
+        },
+        {
+          "id": "b",
+          "text": "Nur Name und Uhrzeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Diagnosen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_013",
+      "type": "single",
+      "stem": "Welches Schema eignet sich für die strukturierte Übergabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SBAR oder ATMIST",
+          "isCorrect": true,
+          "explanation": "Beide bieten standardisierte Übergabestrukturen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_014",
+      "type": "single",
+      "stem": "Was ist bei einer Transportverweigerung zu dokumentieren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufklärung, Einsichtsfähigkeit, Unterschrift",
+          "isCorrect": true,
+          "explanation": "Die rechtliche Absicherung ist zwingend."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Name des Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nichts, wenn der Patient gehen will",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_015",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt für elektronische Dokumentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie ersetzt das Papierprotokoll, wenn rechtlich zugelassen",
+          "isCorrect": true,
+          "explanation": "Digitale Dokumentation ist in vielen Bereichen Standard."
+        },
+        {
+          "id": "b",
+          "text": "Sie ist immer optional",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sie muss nicht gespeichert werden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_016",
+      "type": "single",
+      "stem": "Welche drei Kommunikationsarten unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbal, nonverbal, paraverbal",
+          "isCorrect": true,
+          "explanation": "Sprache, Körpersprache und Tonfall prägen die Kommunikation."
+        },
+        {
+          "id": "b",
+          "text": "Offen, geschlossen, indirekt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Persönlich, digital, schriftlich",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_017",
+      "type": "single",
+      "stem": "Welche vier Seiten hat eine Nachricht nach Schulz von Thun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sachinhalt, Selbstoffenbarung, Beziehung, Appell",
+          "isCorrect": true,
+          "explanation": "Alle vier Aspekte sind in jeder Nachricht enthalten."
+        },
+        {
+          "id": "b",
+          "text": "Problem, Lösung, Emotion, Verhalten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vergangenheit, Gegenwart, Zukunft, Ziel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_018",
+      "type": "single",
+      "stem": "Was ist das Ziel professioneller Beziehungsgestaltung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kooperation zur Erreichung der Einsatzziele",
+          "isCorrect": true,
+          "explanation": "Kooperation entsteht durch Arbeits- und emotionale Beziehung."
+        },
+        {
+          "id": "b",
+          "text": "Strikte Autorität durchsetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Konflikte vermeiden, auch wenn Infos fehlen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_019",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Zuhören?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zusammenfassen und offene Fragen stellen",
+          "isCorrect": true,
+          "explanation": "So zeigt man Interesse und strukturiert Informationen."
+        },
+        {
+          "id": "b",
+          "text": "Patient ständig unterbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Ja/Nein-Fragen stellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_020",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Sprechen im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ich-Botschaften und verhaltensorientierte Sprache",
+          "isCorrect": true,
+          "explanation": "So werden Konflikte vermieden und Kooperation gefördert."
+        },
+        {
+          "id": "b",
+          "text": "Vorwürfe und Befehle",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ironie und Witze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_021",
+      "type": "single",
+      "stem": "Welcher Grundsatz gilt für die Dokumentation im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alles, was nicht dokumentiert ist, gilt als nicht gemacht",
+          "isCorrect": true,
+          "explanation": "Dokumentation hat rechtliche Beweiskraft."
+        },
+        {
+          "id": "b",
+          "text": "Nur Vitalwerte sind verpflichtend",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur bei Notarzteinsätzen nötig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_022",
+      "type": "single",
+      "stem": "Welche Angaben gehören zwingend in das Einsatzprotokoll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientendaten, Einsatzort, Maßnahmen, Befunde",
+          "isCorrect": true,
+          "explanation": "Diese Mindestangaben sichern Nachvollziehbarkeit."
+        },
+        {
+          "id": "b",
+          "text": "Nur Name und Uhrzeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Diagnosen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_023",
+      "type": "single",
+      "stem": "Welches Schema eignet sich für die strukturierte Übergabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SBAR oder ATMIST",
+          "isCorrect": true,
+          "explanation": "Beide bieten standardisierte Übergabestrukturen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_024",
+      "type": "single",
+      "stem": "Was ist bei einer Transportverweigerung zu dokumentieren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufklärung, Einsichtsfähigkeit, Unterschrift",
+          "isCorrect": true,
+          "explanation": "Die rechtliche Absicherung ist zwingend."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Name des Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nichts, wenn der Patient gehen will",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_025",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt für elektronische Dokumentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie ersetzt das Papierprotokoll, wenn rechtlich zugelassen",
+          "isCorrect": true,
+          "explanation": "Digitale Dokumentation ist in vielen Bereichen Standard."
+        },
+        {
+          "id": "b",
+          "text": "Sie ist immer optional",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sie muss nicht gespeichert werden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_026",
+      "type": "single",
+      "stem": "Welche drei Kommunikationsarten unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbal, nonverbal, paraverbal",
+          "isCorrect": true,
+          "explanation": "Sprache, Körpersprache und Tonfall prägen die Kommunikation."
+        },
+        {
+          "id": "b",
+          "text": "Offen, geschlossen, indirekt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Persönlich, digital, schriftlich",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_027",
+      "type": "single",
+      "stem": "Welche vier Seiten hat eine Nachricht nach Schulz von Thun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sachinhalt, Selbstoffenbarung, Beziehung, Appell",
+          "isCorrect": true,
+          "explanation": "Alle vier Aspekte sind in jeder Nachricht enthalten."
+        },
+        {
+          "id": "b",
+          "text": "Problem, Lösung, Emotion, Verhalten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vergangenheit, Gegenwart, Zukunft, Ziel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_028",
+      "type": "single",
+      "stem": "Was ist das Ziel professioneller Beziehungsgestaltung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kooperation zur Erreichung der Einsatzziele",
+          "isCorrect": true,
+          "explanation": "Kooperation entsteht durch Arbeits- und emotionale Beziehung."
+        },
+        {
+          "id": "b",
+          "text": "Strikte Autorität durchsetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Konflikte vermeiden, auch wenn Infos fehlen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_029",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Zuhören?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zusammenfassen und offene Fragen stellen",
+          "isCorrect": true,
+          "explanation": "So zeigt man Interesse und strukturiert Informationen."
+        },
+        {
+          "id": "b",
+          "text": "Patient ständig unterbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Ja/Nein-Fragen stellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_030",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Sprechen im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ich-Botschaften und verhaltensorientierte Sprache",
+          "isCorrect": true,
+          "explanation": "So werden Konflikte vermieden und Kooperation gefördert."
+        },
+        {
+          "id": "b",
+          "text": "Vorwürfe und Befehle",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ironie und Witze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_031",
+      "type": "single",
+      "stem": "Welcher Grundsatz gilt für die Dokumentation im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alles, was nicht dokumentiert ist, gilt als nicht gemacht",
+          "isCorrect": true,
+          "explanation": "Dokumentation hat rechtliche Beweiskraft."
+        },
+        {
+          "id": "b",
+          "text": "Nur Vitalwerte sind verpflichtend",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur bei Notarzteinsätzen nötig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_032",
+      "type": "single",
+      "stem": "Welche Angaben gehören zwingend in das Einsatzprotokoll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientendaten, Einsatzort, Maßnahmen, Befunde",
+          "isCorrect": true,
+          "explanation": "Diese Mindestangaben sichern Nachvollziehbarkeit."
+        },
+        {
+          "id": "b",
+          "text": "Nur Name und Uhrzeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Diagnosen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_033",
+      "type": "single",
+      "stem": "Welches Schema eignet sich für die strukturierte Übergabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SBAR oder ATMIST",
+          "isCorrect": true,
+          "explanation": "Beide bieten standardisierte Übergabestrukturen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_034",
+      "type": "single",
+      "stem": "Was ist bei einer Transportverweigerung zu dokumentieren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufklärung, Einsichtsfähigkeit, Unterschrift",
+          "isCorrect": true,
+          "explanation": "Die rechtliche Absicherung ist zwingend."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Name des Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nichts, wenn der Patient gehen will",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_035",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt für elektronische Dokumentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie ersetzt das Papierprotokoll, wenn rechtlich zugelassen",
+          "isCorrect": true,
+          "explanation": "Digitale Dokumentation ist in vielen Bereichen Standard."
+        },
+        {
+          "id": "b",
+          "text": "Sie ist immer optional",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sie muss nicht gespeichert werden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_036",
+      "type": "single",
+      "stem": "Welche drei Kommunikationsarten unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbal, nonverbal, paraverbal",
+          "isCorrect": true,
+          "explanation": "Sprache, Körpersprache und Tonfall prägen die Kommunikation."
+        },
+        {
+          "id": "b",
+          "text": "Offen, geschlossen, indirekt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Persönlich, digital, schriftlich",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_037",
+      "type": "single",
+      "stem": "Welche vier Seiten hat eine Nachricht nach Schulz von Thun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sachinhalt, Selbstoffenbarung, Beziehung, Appell",
+          "isCorrect": true,
+          "explanation": "Alle vier Aspekte sind in jeder Nachricht enthalten."
+        },
+        {
+          "id": "b",
+          "text": "Problem, Lösung, Emotion, Verhalten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vergangenheit, Gegenwart, Zukunft, Ziel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_038",
+      "type": "single",
+      "stem": "Was ist das Ziel professioneller Beziehungsgestaltung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kooperation zur Erreichung der Einsatzziele",
+          "isCorrect": true,
+          "explanation": "Kooperation entsteht durch Arbeits- und emotionale Beziehung."
+        },
+        {
+          "id": "b",
+          "text": "Strikte Autorität durchsetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Konflikte vermeiden, auch wenn Infos fehlen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_039",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Zuhören?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zusammenfassen und offene Fragen stellen",
+          "isCorrect": true,
+          "explanation": "So zeigt man Interesse und strukturiert Informationen."
+        },
+        {
+          "id": "b",
+          "text": "Patient ständig unterbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Ja/Nein-Fragen stellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_040",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Sprechen im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ich-Botschaften und verhaltensorientierte Sprache",
+          "isCorrect": true,
+          "explanation": "So werden Konflikte vermieden und Kooperation gefördert."
+        },
+        {
+          "id": "b",
+          "text": "Vorwürfe und Befehle",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ironie und Witze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_041",
+      "type": "single",
+      "stem": "Welcher Grundsatz gilt für die Dokumentation im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alles, was nicht dokumentiert ist, gilt als nicht gemacht",
+          "isCorrect": true,
+          "explanation": "Dokumentation hat rechtliche Beweiskraft."
+        },
+        {
+          "id": "b",
+          "text": "Nur Vitalwerte sind verpflichtend",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur bei Notarzteinsätzen nötig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_042",
+      "type": "single",
+      "stem": "Welche Angaben gehören zwingend in das Einsatzprotokoll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientendaten, Einsatzort, Maßnahmen, Befunde",
+          "isCorrect": true,
+          "explanation": "Diese Mindestangaben sichern Nachvollziehbarkeit."
+        },
+        {
+          "id": "b",
+          "text": "Nur Name und Uhrzeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Diagnosen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_043",
+      "type": "single",
+      "stem": "Welches Schema eignet sich für die strukturierte Übergabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SBAR oder ATMIST",
+          "isCorrect": true,
+          "explanation": "Beide bieten standardisierte Übergabestrukturen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_044",
+      "type": "single",
+      "stem": "Was ist bei einer Transportverweigerung zu dokumentieren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufklärung, Einsichtsfähigkeit, Unterschrift",
+          "isCorrect": true,
+          "explanation": "Die rechtliche Absicherung ist zwingend."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Name des Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nichts, wenn der Patient gehen will",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_045",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt für elektronische Dokumentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie ersetzt das Papierprotokoll, wenn rechtlich zugelassen",
+          "isCorrect": true,
+          "explanation": "Digitale Dokumentation ist in vielen Bereichen Standard."
+        },
+        {
+          "id": "b",
+          "text": "Sie ist immer optional",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sie muss nicht gespeichert werden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_046",
+      "type": "single",
+      "stem": "Welche drei Kommunikationsarten unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbal, nonverbal, paraverbal",
+          "isCorrect": true,
+          "explanation": "Sprache, Körpersprache und Tonfall prägen die Kommunikation."
+        },
+        {
+          "id": "b",
+          "text": "Offen, geschlossen, indirekt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Persönlich, digital, schriftlich",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_047",
+      "type": "single",
+      "stem": "Welche vier Seiten hat eine Nachricht nach Schulz von Thun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sachinhalt, Selbstoffenbarung, Beziehung, Appell",
+          "isCorrect": true,
+          "explanation": "Alle vier Aspekte sind in jeder Nachricht enthalten."
+        },
+        {
+          "id": "b",
+          "text": "Problem, Lösung, Emotion, Verhalten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vergangenheit, Gegenwart, Zukunft, Ziel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_048",
+      "type": "single",
+      "stem": "Was ist das Ziel professioneller Beziehungsgestaltung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kooperation zur Erreichung der Einsatzziele",
+          "isCorrect": true,
+          "explanation": "Kooperation entsteht durch Arbeits- und emotionale Beziehung."
+        },
+        {
+          "id": "b",
+          "text": "Strikte Autorität durchsetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Konflikte vermeiden, auch wenn Infos fehlen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_049",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Zuhören?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zusammenfassen und offene Fragen stellen",
+          "isCorrect": true,
+          "explanation": "So zeigt man Interesse und strukturiert Informationen."
+        },
+        {
+          "id": "b",
+          "text": "Patient ständig unterbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Ja/Nein-Fragen stellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_050",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Sprechen im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ich-Botschaften und verhaltensorientierte Sprache",
+          "isCorrect": true,
+          "explanation": "So werden Konflikte vermieden und Kooperation gefördert."
+        },
+        {
+          "id": "b",
+          "text": "Vorwürfe und Befehle",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ironie und Witze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_051",
+      "type": "single",
+      "stem": "Welcher Grundsatz gilt für die Dokumentation im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alles, was nicht dokumentiert ist, gilt als nicht gemacht",
+          "isCorrect": true,
+          "explanation": "Dokumentation hat rechtliche Beweiskraft."
+        },
+        {
+          "id": "b",
+          "text": "Nur Vitalwerte sind verpflichtend",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur bei Notarzteinsätzen nötig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_052",
+      "type": "single",
+      "stem": "Welche Angaben gehören zwingend in das Einsatzprotokoll?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientendaten, Einsatzort, Maßnahmen, Befunde",
+          "isCorrect": true,
+          "explanation": "Diese Mindestangaben sichern Nachvollziehbarkeit."
+        },
+        {
+          "id": "b",
+          "text": "Nur Name und Uhrzeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Diagnosen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_053",
+      "type": "single",
+      "stem": "Welches Schema eignet sich für die strukturierte Übergabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SBAR oder ATMIST",
+          "isCorrect": true,
+          "explanation": "Beide bieten standardisierte Übergabestrukturen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_054",
+      "type": "single",
+      "stem": "Was ist bei einer Transportverweigerung zu dokumentieren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufklärung, Einsichtsfähigkeit, Unterschrift",
+          "isCorrect": true,
+          "explanation": "Die rechtliche Absicherung ist zwingend."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Name des Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nichts, wenn der Patient gehen will",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_055",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt für elektronische Dokumentation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sie ersetzt das Papierprotokoll, wenn rechtlich zugelassen",
+          "isCorrect": true,
+          "explanation": "Digitale Dokumentation ist in vielen Bereichen Standard."
+        },
+        {
+          "id": "b",
+          "text": "Sie ist immer optional",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sie muss nicht gespeichert werden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_056",
+      "type": "single",
+      "stem": "Welche drei Kommunikationsarten unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verbal, nonverbal, paraverbal",
+          "isCorrect": true,
+          "explanation": "Sprache, Körpersprache und Tonfall prägen die Kommunikation."
+        },
+        {
+          "id": "b",
+          "text": "Offen, geschlossen, indirekt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Persönlich, digital, schriftlich",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_057",
+      "type": "single",
+      "stem": "Welche vier Seiten hat eine Nachricht nach Schulz von Thun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sachinhalt, Selbstoffenbarung, Beziehung, Appell",
+          "isCorrect": true,
+          "explanation": "Alle vier Aspekte sind in jeder Nachricht enthalten."
+        },
+        {
+          "id": "b",
+          "text": "Problem, Lösung, Emotion, Verhalten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vergangenheit, Gegenwart, Zukunft, Ziel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_058",
+      "type": "single",
+      "stem": "Was ist das Ziel professioneller Beziehungsgestaltung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kooperation zur Erreichung der Einsatzziele",
+          "isCorrect": true,
+          "explanation": "Kooperation entsteht durch Arbeits- und emotionale Beziehung."
+        },
+        {
+          "id": "b",
+          "text": "Strikte Autorität durchsetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Konflikte vermeiden, auch wenn Infos fehlen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_059",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Zuhören?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zusammenfassen und offene Fragen stellen",
+          "isCorrect": true,
+          "explanation": "So zeigt man Interesse und strukturiert Informationen."
+        },
+        {
+          "id": "b",
+          "text": "Patient ständig unterbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Ja/Nein-Fragen stellen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_060",
+      "type": "single",
+      "stem": "Welche Technik gehört zum erfolgreichen Sprechen im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ich-Botschaften und verhaltensorientierte Sprache",
+          "isCorrect": true,
+          "explanation": "So werden Konflikte vermieden und Kooperation gefördert."
+        },
+        {
+          "id": "b",
+          "text": "Vorwürfe und Befehle",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ironie und Witze",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
