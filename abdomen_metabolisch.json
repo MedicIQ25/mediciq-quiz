@@ -1,0 +1,1326 @@
+{
+  "topicId": "abdomen_metabolisch",
+  "title": "Akutes Abdomen und metabolische Notfälle",
+  "questions": [
+    {
+      "id": "abdomen_001",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 1",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_002",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 2",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_003",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 3",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_004",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 4",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_005",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 5",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_006",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 6",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_007",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 7",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_008",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 8",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_009",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 9",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_010",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 10",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_011",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 11",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_012",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 12",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_013",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 13",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_014",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 14",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_015",
+      "type": "single",
+      "stem": "Beispielfrage Akutes Abdomen Nr. 15",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_016",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 16",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_017",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 17",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_018",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 18",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_019",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 19",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_020",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 20",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_021",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 21",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_022",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 22",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_023",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 23",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_024",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 24",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_025",
+      "type": "single",
+      "stem": "Beispielfrage GI-Blutungen/Koliken Nr. 25",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_026",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 26",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_027",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 27",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_028",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 28",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_029",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 29",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_030",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 30",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_031",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 31",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_032",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 32",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_033",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 33",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_034",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 34",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_035",
+      "type": "single",
+      "stem": "Beispielfrage Entzündungen Abdomen Nr. 35",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_036",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 36",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_037",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 37",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_038",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 38",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_039",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 39",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_040",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 40",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_041",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 41",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_042",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 42",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_043",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 43",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_044",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 44",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_045",
+      "type": "single",
+      "stem": "Beispielfrage Gefäßerkrankungen Nr. 45",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_046",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 46",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_047",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 47",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_048",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 48",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_049",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 49",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_050",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 50",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_051",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 51",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_052",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 52",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_053",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 53",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_054",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 54",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_055",
+      "type": "single",
+      "stem": "Beispielfrage Diabetes Nr. 55",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_056",
+      "type": "single",
+      "stem": "Beispielfrage Leber Nr. 56",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_057",
+      "type": "single",
+      "stem": "Beispielfrage Leber Nr. 57",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_058",
+      "type": "single",
+      "stem": "Beispielfrage Leber Nr. 58",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_059",
+      "type": "single",
+      "stem": "Beispielfrage Leber Nr. 59",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "abdomen_060",
+      "type": "single",
+      "stem": "Beispielfrage Leber Nr. 60",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
