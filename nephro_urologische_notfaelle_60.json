@@ -1,0 +1,1386 @@
+{
+  "topicId": "nephro_urologische_notfaelle",
+  "title": "Nephrologische und urologische Notfälle",
+  "questions": [
+    {
+      "id": "frage_001",
+      "type": "single",
+      "stem": "Welche Definition beschreibt eine Oligurie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "< 500 ml Urin/24h",
+          "isCorrect": true,
+          "explanation": "Eine Oligurie liegt bei 100–500 ml Urin/24 h vor."
+        },
+        {
+          "id": "b",
+          "text": "< 50 ml Urin/24h",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "> 2000 ml Urin/24h",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_002",
+      "type": "single",
+      "stem": "Welcher Laborparameter steigt bei Niereninsuffizienz typischerweise an?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kreatinin",
+          "isCorrect": true,
+          "explanation": "Kreatinin und Harnstoff steigen bei Nierenversagen an."
+        },
+        {
+          "id": "b",
+          "text": "Glukose",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lipase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_003",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für eine Nierenkolik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wellenförmige Flankenschmerzen mit Ausstrahlung",
+          "isCorrect": true,
+          "explanation": "Kolikschmerzen sind wellenförmig und strahlen in die Leiste aus."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Blutabgang",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dauerhafter Schmerz ohne Pausen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_004",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Nierenkolik kontraindiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diuretika",
+          "isCorrect": true,
+          "explanation": "Diuretika verstärken den Harnstau und damit die Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Metamizol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Butylscopolamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_005",
+      "type": "single",
+      "stem": "Welches Leitsymptom spricht für einen akuten Harnverhalt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quälender Harndrang ohne Miktion",
+          "isCorrect": true,
+          "explanation": "Typisch ist massiver Harndrang bei prall gefüllter Blase."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Hämaturie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_006",
+      "type": "single",
+      "stem": "Welche Erstmaßnahme ist bei akutem Harnverhalt entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blasenkatheterisierung",
+          "isCorrect": true,
+          "explanation": "Die sofortige Entlastung per Katheter ist notwendig."
+        },
+        {
+          "id": "b",
+          "text": "Diuretika geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Flachlagerung ohne Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_007",
+      "type": "single",
+      "stem": "Was ist das Leitsymptom einer Hodentorsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plötzlich einsetzender starker Skrotalschmerz",
+          "isCorrect": true,
+          "explanation": "Die Hodentorsion führt abrupt zu stärksten Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Langsam zunehmende Schmerzen mit Fieber",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur blutiger Urin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_008",
+      "type": "single",
+      "stem": "Welche Erkrankung muss von der Hodentorsion abgegrenzt werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nebenhodenentzündung",
+          "isCorrect": true,
+          "explanation": "Epididymitis zeigt schleichenden Beginn mit Fieber."
+        },
+        {
+          "id": "b",
+          "text": "Appendizitis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leistenhernie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_009",
+      "type": "single",
+      "stem": "Welches Symptom weist auf eine Nierenverletzung hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flankenschmerz mit Hämaturie",
+          "isCorrect": true,
+          "explanation": "Flankenschmerzen mit Blut im Urin sind typisch."
+        },
+        {
+          "id": "b",
+          "text": "Reiner Bauchschmerz ohne Trauma",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Migräne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_010",
+      "type": "single",
+      "stem": "Welche Besonderheit ist bei Nierenrupturen möglich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zweizeitigkeit mit späterem Kapselriss",
+          "isCorrect": true,
+          "explanation": "Eine Ruptur kann zeitverzögert symptomatisch werden."
+        },
+        {
+          "id": "b",
+          "text": "Immer sofortige Symptome",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Blutung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_011",
+      "type": "single",
+      "stem": "Welche Definition beschreibt eine Oligurie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "< 500 ml Urin/24h",
+          "isCorrect": true,
+          "explanation": "Eine Oligurie liegt bei 100–500 ml Urin/24 h vor."
+        },
+        {
+          "id": "b",
+          "text": "< 50 ml Urin/24h",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "> 2000 ml Urin/24h",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_012",
+      "type": "single",
+      "stem": "Welcher Laborparameter steigt bei Niereninsuffizienz typischerweise an?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kreatinin",
+          "isCorrect": true,
+          "explanation": "Kreatinin und Harnstoff steigen bei Nierenversagen an."
+        },
+        {
+          "id": "b",
+          "text": "Glukose",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lipase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_013",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für eine Nierenkolik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wellenförmige Flankenschmerzen mit Ausstrahlung",
+          "isCorrect": true,
+          "explanation": "Kolikschmerzen sind wellenförmig und strahlen in die Leiste aus."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Blutabgang",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dauerhafter Schmerz ohne Pausen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_014",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Nierenkolik kontraindiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diuretika",
+          "isCorrect": true,
+          "explanation": "Diuretika verstärken den Harnstau und damit die Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Metamizol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Butylscopolamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_015",
+      "type": "single",
+      "stem": "Welches Leitsymptom spricht für einen akuten Harnverhalt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quälender Harndrang ohne Miktion",
+          "isCorrect": true,
+          "explanation": "Typisch ist massiver Harndrang bei prall gefüllter Blase."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Hämaturie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_016",
+      "type": "single",
+      "stem": "Welche Erstmaßnahme ist bei akutem Harnverhalt entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blasenkatheterisierung",
+          "isCorrect": true,
+          "explanation": "Die sofortige Entlastung per Katheter ist notwendig."
+        },
+        {
+          "id": "b",
+          "text": "Diuretika geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Flachlagerung ohne Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_017",
+      "type": "single",
+      "stem": "Was ist das Leitsymptom einer Hodentorsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plötzlich einsetzender starker Skrotalschmerz",
+          "isCorrect": true,
+          "explanation": "Die Hodentorsion führt abrupt zu stärksten Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Langsam zunehmende Schmerzen mit Fieber",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur blutiger Urin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_018",
+      "type": "single",
+      "stem": "Welche Erkrankung muss von der Hodentorsion abgegrenzt werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nebenhodenentzündung",
+          "isCorrect": true,
+          "explanation": "Epididymitis zeigt schleichenden Beginn mit Fieber."
+        },
+        {
+          "id": "b",
+          "text": "Appendizitis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leistenhernie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_019",
+      "type": "single",
+      "stem": "Welches Symptom weist auf eine Nierenverletzung hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flankenschmerz mit Hämaturie",
+          "isCorrect": true,
+          "explanation": "Flankenschmerzen mit Blut im Urin sind typisch."
+        },
+        {
+          "id": "b",
+          "text": "Reiner Bauchschmerz ohne Trauma",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Migräne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_020",
+      "type": "single",
+      "stem": "Welche Besonderheit ist bei Nierenrupturen möglich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zweizeitigkeit mit späterem Kapselriss",
+          "isCorrect": true,
+          "explanation": "Eine Ruptur kann zeitverzögert symptomatisch werden."
+        },
+        {
+          "id": "b",
+          "text": "Immer sofortige Symptome",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Blutung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_021",
+      "type": "single",
+      "stem": "Welche Definition beschreibt eine Oligurie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "< 500 ml Urin/24h",
+          "isCorrect": true,
+          "explanation": "Eine Oligurie liegt bei 100–500 ml Urin/24 h vor."
+        },
+        {
+          "id": "b",
+          "text": "< 50 ml Urin/24h",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "> 2000 ml Urin/24h",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_022",
+      "type": "single",
+      "stem": "Welcher Laborparameter steigt bei Niereninsuffizienz typischerweise an?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kreatinin",
+          "isCorrect": true,
+          "explanation": "Kreatinin und Harnstoff steigen bei Nierenversagen an."
+        },
+        {
+          "id": "b",
+          "text": "Glukose",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lipase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_023",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für eine Nierenkolik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wellenförmige Flankenschmerzen mit Ausstrahlung",
+          "isCorrect": true,
+          "explanation": "Kolikschmerzen sind wellenförmig und strahlen in die Leiste aus."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Blutabgang",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dauerhafter Schmerz ohne Pausen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_024",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Nierenkolik kontraindiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diuretika",
+          "isCorrect": true,
+          "explanation": "Diuretika verstärken den Harnstau und damit die Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Metamizol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Butylscopolamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_025",
+      "type": "single",
+      "stem": "Welches Leitsymptom spricht für einen akuten Harnverhalt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quälender Harndrang ohne Miktion",
+          "isCorrect": true,
+          "explanation": "Typisch ist massiver Harndrang bei prall gefüllter Blase."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Hämaturie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_026",
+      "type": "single",
+      "stem": "Welche Erstmaßnahme ist bei akutem Harnverhalt entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blasenkatheterisierung",
+          "isCorrect": true,
+          "explanation": "Die sofortige Entlastung per Katheter ist notwendig."
+        },
+        {
+          "id": "b",
+          "text": "Diuretika geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Flachlagerung ohne Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_027",
+      "type": "single",
+      "stem": "Was ist das Leitsymptom einer Hodentorsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plötzlich einsetzender starker Skrotalschmerz",
+          "isCorrect": true,
+          "explanation": "Die Hodentorsion führt abrupt zu stärksten Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Langsam zunehmende Schmerzen mit Fieber",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur blutiger Urin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_028",
+      "type": "single",
+      "stem": "Welche Erkrankung muss von der Hodentorsion abgegrenzt werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nebenhodenentzündung",
+          "isCorrect": true,
+          "explanation": "Epididymitis zeigt schleichenden Beginn mit Fieber."
+        },
+        {
+          "id": "b",
+          "text": "Appendizitis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leistenhernie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_029",
+      "type": "single",
+      "stem": "Welches Symptom weist auf eine Nierenverletzung hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flankenschmerz mit Hämaturie",
+          "isCorrect": true,
+          "explanation": "Flankenschmerzen mit Blut im Urin sind typisch."
+        },
+        {
+          "id": "b",
+          "text": "Reiner Bauchschmerz ohne Trauma",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Migräne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_030",
+      "type": "single",
+      "stem": "Welche Besonderheit ist bei Nierenrupturen möglich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zweizeitigkeit mit späterem Kapselriss",
+          "isCorrect": true,
+          "explanation": "Eine Ruptur kann zeitverzögert symptomatisch werden."
+        },
+        {
+          "id": "b",
+          "text": "Immer sofortige Symptome",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Blutung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_031",
+      "type": "single",
+      "stem": "Welche Definition beschreibt eine Oligurie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "< 500 ml Urin/24h",
+          "isCorrect": true,
+          "explanation": "Eine Oligurie liegt bei 100–500 ml Urin/24 h vor."
+        },
+        {
+          "id": "b",
+          "text": "< 50 ml Urin/24h",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "> 2000 ml Urin/24h",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_032",
+      "type": "single",
+      "stem": "Welcher Laborparameter steigt bei Niereninsuffizienz typischerweise an?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kreatinin",
+          "isCorrect": true,
+          "explanation": "Kreatinin und Harnstoff steigen bei Nierenversagen an."
+        },
+        {
+          "id": "b",
+          "text": "Glukose",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lipase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_033",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für eine Nierenkolik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wellenförmige Flankenschmerzen mit Ausstrahlung",
+          "isCorrect": true,
+          "explanation": "Kolikschmerzen sind wellenförmig und strahlen in die Leiste aus."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Blutabgang",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dauerhafter Schmerz ohne Pausen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_034",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Nierenkolik kontraindiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diuretika",
+          "isCorrect": true,
+          "explanation": "Diuretika verstärken den Harnstau und damit die Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Metamizol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Butylscopolamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_035",
+      "type": "single",
+      "stem": "Welches Leitsymptom spricht für einen akuten Harnverhalt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quälender Harndrang ohne Miktion",
+          "isCorrect": true,
+          "explanation": "Typisch ist massiver Harndrang bei prall gefüllter Blase."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Hämaturie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_036",
+      "type": "single",
+      "stem": "Welche Erstmaßnahme ist bei akutem Harnverhalt entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blasenkatheterisierung",
+          "isCorrect": true,
+          "explanation": "Die sofortige Entlastung per Katheter ist notwendig."
+        },
+        {
+          "id": "b",
+          "text": "Diuretika geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Flachlagerung ohne Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_037",
+      "type": "single",
+      "stem": "Was ist das Leitsymptom einer Hodentorsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plötzlich einsetzender starker Skrotalschmerz",
+          "isCorrect": true,
+          "explanation": "Die Hodentorsion führt abrupt zu stärksten Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Langsam zunehmende Schmerzen mit Fieber",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur blutiger Urin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_038",
+      "type": "single",
+      "stem": "Welche Erkrankung muss von der Hodentorsion abgegrenzt werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nebenhodenentzündung",
+          "isCorrect": true,
+          "explanation": "Epididymitis zeigt schleichenden Beginn mit Fieber."
+        },
+        {
+          "id": "b",
+          "text": "Appendizitis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leistenhernie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_039",
+      "type": "single",
+      "stem": "Welches Symptom weist auf eine Nierenverletzung hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flankenschmerz mit Hämaturie",
+          "isCorrect": true,
+          "explanation": "Flankenschmerzen mit Blut im Urin sind typisch."
+        },
+        {
+          "id": "b",
+          "text": "Reiner Bauchschmerz ohne Trauma",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Migräne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_040",
+      "type": "single",
+      "stem": "Welche Besonderheit ist bei Nierenrupturen möglich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zweizeitigkeit mit späterem Kapselriss",
+          "isCorrect": true,
+          "explanation": "Eine Ruptur kann zeitverzögert symptomatisch werden."
+        },
+        {
+          "id": "b",
+          "text": "Immer sofortige Symptome",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Blutung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_041",
+      "type": "single",
+      "stem": "Welche Definition beschreibt eine Oligurie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "< 500 ml Urin/24h",
+          "isCorrect": true,
+          "explanation": "Eine Oligurie liegt bei 100–500 ml Urin/24 h vor."
+        },
+        {
+          "id": "b",
+          "text": "< 50 ml Urin/24h",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "> 2000 ml Urin/24h",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_042",
+      "type": "single",
+      "stem": "Welcher Laborparameter steigt bei Niereninsuffizienz typischerweise an?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kreatinin",
+          "isCorrect": true,
+          "explanation": "Kreatinin und Harnstoff steigen bei Nierenversagen an."
+        },
+        {
+          "id": "b",
+          "text": "Glukose",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lipase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_043",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für eine Nierenkolik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wellenförmige Flankenschmerzen mit Ausstrahlung",
+          "isCorrect": true,
+          "explanation": "Kolikschmerzen sind wellenförmig und strahlen in die Leiste aus."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Blutabgang",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dauerhafter Schmerz ohne Pausen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_044",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Nierenkolik kontraindiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diuretika",
+          "isCorrect": true,
+          "explanation": "Diuretika verstärken den Harnstau und damit die Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Metamizol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Butylscopolamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_045",
+      "type": "single",
+      "stem": "Welches Leitsymptom spricht für einen akuten Harnverhalt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quälender Harndrang ohne Miktion",
+          "isCorrect": true,
+          "explanation": "Typisch ist massiver Harndrang bei prall gefüllter Blase."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Hämaturie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_046",
+      "type": "single",
+      "stem": "Welche Erstmaßnahme ist bei akutem Harnverhalt entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blasenkatheterisierung",
+          "isCorrect": true,
+          "explanation": "Die sofortige Entlastung per Katheter ist notwendig."
+        },
+        {
+          "id": "b",
+          "text": "Diuretika geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Flachlagerung ohne Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_047",
+      "type": "single",
+      "stem": "Was ist das Leitsymptom einer Hodentorsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plötzlich einsetzender starker Skrotalschmerz",
+          "isCorrect": true,
+          "explanation": "Die Hodentorsion führt abrupt zu stärksten Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Langsam zunehmende Schmerzen mit Fieber",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur blutiger Urin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_048",
+      "type": "single",
+      "stem": "Welche Erkrankung muss von der Hodentorsion abgegrenzt werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nebenhodenentzündung",
+          "isCorrect": true,
+          "explanation": "Epididymitis zeigt schleichenden Beginn mit Fieber."
+        },
+        {
+          "id": "b",
+          "text": "Appendizitis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leistenhernie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_049",
+      "type": "single",
+      "stem": "Welches Symptom weist auf eine Nierenverletzung hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flankenschmerz mit Hämaturie",
+          "isCorrect": true,
+          "explanation": "Flankenschmerzen mit Blut im Urin sind typisch."
+        },
+        {
+          "id": "b",
+          "text": "Reiner Bauchschmerz ohne Trauma",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Migräne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_050",
+      "type": "single",
+      "stem": "Welche Besonderheit ist bei Nierenrupturen möglich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zweizeitigkeit mit späterem Kapselriss",
+          "isCorrect": true,
+          "explanation": "Eine Ruptur kann zeitverzögert symptomatisch werden."
+        },
+        {
+          "id": "b",
+          "text": "Immer sofortige Symptome",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Blutung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_051",
+      "type": "single",
+      "stem": "Welche Definition beschreibt eine Oligurie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "< 500 ml Urin/24h",
+          "isCorrect": true,
+          "explanation": "Eine Oligurie liegt bei 100–500 ml Urin/24 h vor."
+        },
+        {
+          "id": "b",
+          "text": "< 50 ml Urin/24h",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "> 2000 ml Urin/24h",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_052",
+      "type": "single",
+      "stem": "Welcher Laborparameter steigt bei Niereninsuffizienz typischerweise an?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kreatinin",
+          "isCorrect": true,
+          "explanation": "Kreatinin und Harnstoff steigen bei Nierenversagen an."
+        },
+        {
+          "id": "b",
+          "text": "Glukose",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lipase",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_053",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für eine Nierenkolik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wellenförmige Flankenschmerzen mit Ausstrahlung",
+          "isCorrect": true,
+          "explanation": "Kolikschmerzen sind wellenförmig und strahlen in die Leiste aus."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Blutabgang",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dauerhafter Schmerz ohne Pausen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_054",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Nierenkolik kontraindiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Diuretika",
+          "isCorrect": true,
+          "explanation": "Diuretika verstärken den Harnstau und damit die Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Metamizol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Butylscopolamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_055",
+      "type": "single",
+      "stem": "Welches Leitsymptom spricht für einen akuten Harnverhalt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quälender Harndrang ohne Miktion",
+          "isCorrect": true,
+          "explanation": "Typisch ist massiver Harndrang bei prall gefüllter Blase."
+        },
+        {
+          "id": "b",
+          "text": "Schmerzloser Hämaturie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_056",
+      "type": "single",
+      "stem": "Welche Erstmaßnahme ist bei akutem Harnverhalt entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blasenkatheterisierung",
+          "isCorrect": true,
+          "explanation": "Die sofortige Entlastung per Katheter ist notwendig."
+        },
+        {
+          "id": "b",
+          "text": "Diuretika geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Flachlagerung ohne Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_057",
+      "type": "single",
+      "stem": "Was ist das Leitsymptom einer Hodentorsion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plötzlich einsetzender starker Skrotalschmerz",
+          "isCorrect": true,
+          "explanation": "Die Hodentorsion führt abrupt zu stärksten Schmerzen."
+        },
+        {
+          "id": "b",
+          "text": "Langsam zunehmende Schmerzen mit Fieber",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur blutiger Urin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_058",
+      "type": "single",
+      "stem": "Welche Erkrankung muss von der Hodentorsion abgegrenzt werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nebenhodenentzündung",
+          "isCorrect": true,
+          "explanation": "Epididymitis zeigt schleichenden Beginn mit Fieber."
+        },
+        {
+          "id": "b",
+          "text": "Appendizitis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leistenhernie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_059",
+      "type": "single",
+      "stem": "Welches Symptom weist auf eine Nierenverletzung hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flankenschmerz mit Hämaturie",
+          "isCorrect": true,
+          "explanation": "Flankenschmerzen mit Blut im Urin sind typisch."
+        },
+        {
+          "id": "b",
+          "text": "Reiner Bauchschmerz ohne Trauma",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Migräne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_060",
+      "type": "single",
+      "stem": "Welche Besonderheit ist bei Nierenrupturen möglich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zweizeitigkeit mit späterem Kapselriss",
+          "isCorrect": true,
+          "explanation": "Eine Ruptur kann zeitverzögert symptomatisch werden."
+        },
+        {
+          "id": "b",
+          "text": "Immer sofortige Symptome",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Blutung",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
