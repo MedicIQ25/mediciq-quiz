@@ -1,0 +1,1386 @@
+{
+  "topicId": "therm_ertrinkung_tauchen",
+  "title": "Thermische, Ertrinkungs- & Tauchnotfälle",
+  "questions": [
+    {
+      "id": "frage_001",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für einen Hitzschlag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körperkerntemperatur > 40 °C, heiße trockene Haut, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Beim Hitzschlag ist die Thermoregulation ausgefallen."
+        },
+        {
+          "id": "b",
+          "text": "Normale Körpertemperatur mit Schwitzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasse Haut und Schüttelfrost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_002",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Sonnenstich entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schatten, Oberkörperhochlagerung, Kühlung des Kopfes",
+          "isCorrect": true,
+          "explanation": "Sonnenstich entsteht durch Wärmestau am Kopf und Meningenreizung."
+        },
+        {
+          "id": "b",
+          "text": "Heißgetränke geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Warme Decken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_003",
+      "type": "single",
+      "stem": "Welches Vorgehen ist bei großflächigen Verbrennungen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlung nur kurz, dann sterile Abdeckung",
+          "isCorrect": true,
+          "explanation": "Längere Kühlung führt zu Hypothermie."
+        },
+        {
+          "id": "b",
+          "text": "Großflächig mit Eis behandeln",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasen eröffnen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_004",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei Unterkühlung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niemand ist tot, bevor er warm und tot ist",
+          "isCorrect": true,
+          "explanation": "Unterkühlte Patienten dürfen erst nach Erwärmung für tot erklärt werden."
+        },
+        {
+          "id": "b",
+          "text": "Reanimation ist bei Hypothermie kontraindiziert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defibrillation ist immer sofort wirksam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_005",
+      "type": "single",
+      "stem": "Welches Leitsymptom weist auf Ertrinken hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose",
+          "isCorrect": true,
+          "explanation": "Zyanose ist Ausdruck schwerer Hypoxie."
+        },
+        {
+          "id": "b",
+          "text": "Hyperglykämie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_006",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei der Reanimation nach Ertrinken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf initiale Beatmungen vor Beginn der Thoraxkompressionen",
+          "isCorrect": true,
+          "explanation": "Bei Ertrinkungsopfern steht die Hypoxie im Vordergrund."
+        },
+        {
+          "id": "b",
+          "text": "Keine Beatmung durchführen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Defibrillation anwenden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_007",
+      "type": "single",
+      "stem": "Welche Definition beschreibt den Begriff Submersion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körper und Atemwegsöffnung sind unter Wasser",
+          "isCorrect": true,
+          "explanation": "Submersion = vollständiges Untertauchen."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Körper, Kopf bleibt über Wasser",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Hände und Füße im Wasser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_008",
+      "type": "single",
+      "stem": "Welcher physikalische Effekt beschreibt die Volumenänderung von Gasen unter Druck?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boyle-Mariotte-Gesetz",
+          "isCorrect": true,
+          "explanation": "Das Boyle-Mariotte-Gesetz erklärt die Gasvolumenänderung bei Druckänderung."
+        },
+        {
+          "id": "b",
+          "text": "Henry-Gesetz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dalton-Gesetz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_009",
+      "type": "single",
+      "stem": "Was versteht man unter 'Tiefenrausch'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stickstoffnarkose ab ~30 m Tiefe",
+          "isCorrect": true,
+          "explanation": "Stickstoff löst sich in Geweben und wirkt narkotisch."
+        },
+        {
+          "id": "b",
+          "text": "CO₂-Anstieg beim Apnoetauchen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sauerstoffmangel bei 10 m Tiefe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_010",
+      "type": "single",
+      "stem": "Welches Symptom spricht für ein pulmonales Barotrauma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thoraxschmerz, Dyspnoe, Hautemphysem",
+          "isCorrect": true,
+          "explanation": "Diese Symptome deuten auf ein Barotrauma hin."
+        },
+        {
+          "id": "b",
+          "text": "Rückenschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nasenbluten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_011",
+      "type": "single",
+      "stem": "Welche definitive Therapie ist bei Dekompressionskrankheit notwendig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rekompression in der Druckkammer",
+          "isCorrect": true,
+          "explanation": "Nur in der Druckkammer kann Stickstoff effektiv entfernt werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Flüssigkeitsgabe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_012",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für einen Hitzschlag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körperkerntemperatur > 40 °C, heiße trockene Haut, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Beim Hitzschlag ist die Thermoregulation ausgefallen."
+        },
+        {
+          "id": "b",
+          "text": "Normale Körpertemperatur mit Schwitzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasse Haut und Schüttelfrost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_013",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Sonnenstich entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schatten, Oberkörperhochlagerung, Kühlung des Kopfes",
+          "isCorrect": true,
+          "explanation": "Sonnenstich entsteht durch Wärmestau am Kopf und Meningenreizung."
+        },
+        {
+          "id": "b",
+          "text": "Heißgetränke geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Warme Decken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_014",
+      "type": "single",
+      "stem": "Welches Vorgehen ist bei großflächigen Verbrennungen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlung nur kurz, dann sterile Abdeckung",
+          "isCorrect": true,
+          "explanation": "Längere Kühlung führt zu Hypothermie."
+        },
+        {
+          "id": "b",
+          "text": "Großflächig mit Eis behandeln",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasen eröffnen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_015",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei Unterkühlung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niemand ist tot, bevor er warm und tot ist",
+          "isCorrect": true,
+          "explanation": "Unterkühlte Patienten dürfen erst nach Erwärmung für tot erklärt werden."
+        },
+        {
+          "id": "b",
+          "text": "Reanimation ist bei Hypothermie kontraindiziert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defibrillation ist immer sofort wirksam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_016",
+      "type": "single",
+      "stem": "Welches Leitsymptom weist auf Ertrinken hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose",
+          "isCorrect": true,
+          "explanation": "Zyanose ist Ausdruck schwerer Hypoxie."
+        },
+        {
+          "id": "b",
+          "text": "Hyperglykämie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_017",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei der Reanimation nach Ertrinken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf initiale Beatmungen vor Beginn der Thoraxkompressionen",
+          "isCorrect": true,
+          "explanation": "Bei Ertrinkungsopfern steht die Hypoxie im Vordergrund."
+        },
+        {
+          "id": "b",
+          "text": "Keine Beatmung durchführen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Defibrillation anwenden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_018",
+      "type": "single",
+      "stem": "Welche Definition beschreibt den Begriff Submersion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körper und Atemwegsöffnung sind unter Wasser",
+          "isCorrect": true,
+          "explanation": "Submersion = vollständiges Untertauchen."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Körper, Kopf bleibt über Wasser",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Hände und Füße im Wasser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_019",
+      "type": "single",
+      "stem": "Welcher physikalische Effekt beschreibt die Volumenänderung von Gasen unter Druck?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boyle-Mariotte-Gesetz",
+          "isCorrect": true,
+          "explanation": "Das Boyle-Mariotte-Gesetz erklärt die Gasvolumenänderung bei Druckänderung."
+        },
+        {
+          "id": "b",
+          "text": "Henry-Gesetz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dalton-Gesetz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_020",
+      "type": "single",
+      "stem": "Was versteht man unter 'Tiefenrausch'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stickstoffnarkose ab ~30 m Tiefe",
+          "isCorrect": true,
+          "explanation": "Stickstoff löst sich in Geweben und wirkt narkotisch."
+        },
+        {
+          "id": "b",
+          "text": "CO₂-Anstieg beim Apnoetauchen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sauerstoffmangel bei 10 m Tiefe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_021",
+      "type": "single",
+      "stem": "Welches Symptom spricht für ein pulmonales Barotrauma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thoraxschmerz, Dyspnoe, Hautemphysem",
+          "isCorrect": true,
+          "explanation": "Diese Symptome deuten auf ein Barotrauma hin."
+        },
+        {
+          "id": "b",
+          "text": "Rückenschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nasenbluten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_022",
+      "type": "single",
+      "stem": "Welche definitive Therapie ist bei Dekompressionskrankheit notwendig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rekompression in der Druckkammer",
+          "isCorrect": true,
+          "explanation": "Nur in der Druckkammer kann Stickstoff effektiv entfernt werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Flüssigkeitsgabe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_023",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für einen Hitzschlag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körperkerntemperatur > 40 °C, heiße trockene Haut, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Beim Hitzschlag ist die Thermoregulation ausgefallen."
+        },
+        {
+          "id": "b",
+          "text": "Normale Körpertemperatur mit Schwitzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasse Haut und Schüttelfrost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_024",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Sonnenstich entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schatten, Oberkörperhochlagerung, Kühlung des Kopfes",
+          "isCorrect": true,
+          "explanation": "Sonnenstich entsteht durch Wärmestau am Kopf und Meningenreizung."
+        },
+        {
+          "id": "b",
+          "text": "Heißgetränke geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Warme Decken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_025",
+      "type": "single",
+      "stem": "Welches Vorgehen ist bei großflächigen Verbrennungen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlung nur kurz, dann sterile Abdeckung",
+          "isCorrect": true,
+          "explanation": "Längere Kühlung führt zu Hypothermie."
+        },
+        {
+          "id": "b",
+          "text": "Großflächig mit Eis behandeln",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasen eröffnen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_026",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei Unterkühlung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niemand ist tot, bevor er warm und tot ist",
+          "isCorrect": true,
+          "explanation": "Unterkühlte Patienten dürfen erst nach Erwärmung für tot erklärt werden."
+        },
+        {
+          "id": "b",
+          "text": "Reanimation ist bei Hypothermie kontraindiziert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defibrillation ist immer sofort wirksam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_027",
+      "type": "single",
+      "stem": "Welches Leitsymptom weist auf Ertrinken hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose",
+          "isCorrect": true,
+          "explanation": "Zyanose ist Ausdruck schwerer Hypoxie."
+        },
+        {
+          "id": "b",
+          "text": "Hyperglykämie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_028",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei der Reanimation nach Ertrinken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf initiale Beatmungen vor Beginn der Thoraxkompressionen",
+          "isCorrect": true,
+          "explanation": "Bei Ertrinkungsopfern steht die Hypoxie im Vordergrund."
+        },
+        {
+          "id": "b",
+          "text": "Keine Beatmung durchführen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Defibrillation anwenden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_029",
+      "type": "single",
+      "stem": "Welche Definition beschreibt den Begriff Submersion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körper und Atemwegsöffnung sind unter Wasser",
+          "isCorrect": true,
+          "explanation": "Submersion = vollständiges Untertauchen."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Körper, Kopf bleibt über Wasser",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Hände und Füße im Wasser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_030",
+      "type": "single",
+      "stem": "Welcher physikalische Effekt beschreibt die Volumenänderung von Gasen unter Druck?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boyle-Mariotte-Gesetz",
+          "isCorrect": true,
+          "explanation": "Das Boyle-Mariotte-Gesetz erklärt die Gasvolumenänderung bei Druckänderung."
+        },
+        {
+          "id": "b",
+          "text": "Henry-Gesetz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dalton-Gesetz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_031",
+      "type": "single",
+      "stem": "Was versteht man unter 'Tiefenrausch'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stickstoffnarkose ab ~30 m Tiefe",
+          "isCorrect": true,
+          "explanation": "Stickstoff löst sich in Geweben und wirkt narkotisch."
+        },
+        {
+          "id": "b",
+          "text": "CO₂-Anstieg beim Apnoetauchen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sauerstoffmangel bei 10 m Tiefe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_032",
+      "type": "single",
+      "stem": "Welches Symptom spricht für ein pulmonales Barotrauma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thoraxschmerz, Dyspnoe, Hautemphysem",
+          "isCorrect": true,
+          "explanation": "Diese Symptome deuten auf ein Barotrauma hin."
+        },
+        {
+          "id": "b",
+          "text": "Rückenschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nasenbluten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_033",
+      "type": "single",
+      "stem": "Welche definitive Therapie ist bei Dekompressionskrankheit notwendig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rekompression in der Druckkammer",
+          "isCorrect": true,
+          "explanation": "Nur in der Druckkammer kann Stickstoff effektiv entfernt werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Flüssigkeitsgabe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_034",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für einen Hitzschlag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körperkerntemperatur > 40 °C, heiße trockene Haut, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Beim Hitzschlag ist die Thermoregulation ausgefallen."
+        },
+        {
+          "id": "b",
+          "text": "Normale Körpertemperatur mit Schwitzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasse Haut und Schüttelfrost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_035",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Sonnenstich entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schatten, Oberkörperhochlagerung, Kühlung des Kopfes",
+          "isCorrect": true,
+          "explanation": "Sonnenstich entsteht durch Wärmestau am Kopf und Meningenreizung."
+        },
+        {
+          "id": "b",
+          "text": "Heißgetränke geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Warme Decken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_036",
+      "type": "single",
+      "stem": "Welches Vorgehen ist bei großflächigen Verbrennungen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlung nur kurz, dann sterile Abdeckung",
+          "isCorrect": true,
+          "explanation": "Längere Kühlung führt zu Hypothermie."
+        },
+        {
+          "id": "b",
+          "text": "Großflächig mit Eis behandeln",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasen eröffnen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_037",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei Unterkühlung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niemand ist tot, bevor er warm und tot ist",
+          "isCorrect": true,
+          "explanation": "Unterkühlte Patienten dürfen erst nach Erwärmung für tot erklärt werden."
+        },
+        {
+          "id": "b",
+          "text": "Reanimation ist bei Hypothermie kontraindiziert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defibrillation ist immer sofort wirksam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_038",
+      "type": "single",
+      "stem": "Welches Leitsymptom weist auf Ertrinken hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose",
+          "isCorrect": true,
+          "explanation": "Zyanose ist Ausdruck schwerer Hypoxie."
+        },
+        {
+          "id": "b",
+          "text": "Hyperglykämie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_039",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei der Reanimation nach Ertrinken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf initiale Beatmungen vor Beginn der Thoraxkompressionen",
+          "isCorrect": true,
+          "explanation": "Bei Ertrinkungsopfern steht die Hypoxie im Vordergrund."
+        },
+        {
+          "id": "b",
+          "text": "Keine Beatmung durchführen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Defibrillation anwenden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_040",
+      "type": "single",
+      "stem": "Welche Definition beschreibt den Begriff Submersion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körper und Atemwegsöffnung sind unter Wasser",
+          "isCorrect": true,
+          "explanation": "Submersion = vollständiges Untertauchen."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Körper, Kopf bleibt über Wasser",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Hände und Füße im Wasser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_041",
+      "type": "single",
+      "stem": "Welcher physikalische Effekt beschreibt die Volumenänderung von Gasen unter Druck?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boyle-Mariotte-Gesetz",
+          "isCorrect": true,
+          "explanation": "Das Boyle-Mariotte-Gesetz erklärt die Gasvolumenänderung bei Druckänderung."
+        },
+        {
+          "id": "b",
+          "text": "Henry-Gesetz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dalton-Gesetz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_042",
+      "type": "single",
+      "stem": "Was versteht man unter 'Tiefenrausch'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stickstoffnarkose ab ~30 m Tiefe",
+          "isCorrect": true,
+          "explanation": "Stickstoff löst sich in Geweben und wirkt narkotisch."
+        },
+        {
+          "id": "b",
+          "text": "CO₂-Anstieg beim Apnoetauchen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sauerstoffmangel bei 10 m Tiefe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_043",
+      "type": "single",
+      "stem": "Welches Symptom spricht für ein pulmonales Barotrauma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thoraxschmerz, Dyspnoe, Hautemphysem",
+          "isCorrect": true,
+          "explanation": "Diese Symptome deuten auf ein Barotrauma hin."
+        },
+        {
+          "id": "b",
+          "text": "Rückenschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nasenbluten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_044",
+      "type": "single",
+      "stem": "Welche definitive Therapie ist bei Dekompressionskrankheit notwendig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rekompression in der Druckkammer",
+          "isCorrect": true,
+          "explanation": "Nur in der Druckkammer kann Stickstoff effektiv entfernt werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Flüssigkeitsgabe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_045",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für einen Hitzschlag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körperkerntemperatur > 40 °C, heiße trockene Haut, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Beim Hitzschlag ist die Thermoregulation ausgefallen."
+        },
+        {
+          "id": "b",
+          "text": "Normale Körpertemperatur mit Schwitzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasse Haut und Schüttelfrost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_046",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Sonnenstich entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schatten, Oberkörperhochlagerung, Kühlung des Kopfes",
+          "isCorrect": true,
+          "explanation": "Sonnenstich entsteht durch Wärmestau am Kopf und Meningenreizung."
+        },
+        {
+          "id": "b",
+          "text": "Heißgetränke geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Warme Decken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_047",
+      "type": "single",
+      "stem": "Welches Vorgehen ist bei großflächigen Verbrennungen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlung nur kurz, dann sterile Abdeckung",
+          "isCorrect": true,
+          "explanation": "Längere Kühlung führt zu Hypothermie."
+        },
+        {
+          "id": "b",
+          "text": "Großflächig mit Eis behandeln",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasen eröffnen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_048",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei Unterkühlung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niemand ist tot, bevor er warm und tot ist",
+          "isCorrect": true,
+          "explanation": "Unterkühlte Patienten dürfen erst nach Erwärmung für tot erklärt werden."
+        },
+        {
+          "id": "b",
+          "text": "Reanimation ist bei Hypothermie kontraindiziert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defibrillation ist immer sofort wirksam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_049",
+      "type": "single",
+      "stem": "Welches Leitsymptom weist auf Ertrinken hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose",
+          "isCorrect": true,
+          "explanation": "Zyanose ist Ausdruck schwerer Hypoxie."
+        },
+        {
+          "id": "b",
+          "text": "Hyperglykämie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_050",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei der Reanimation nach Ertrinken?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf initiale Beatmungen vor Beginn der Thoraxkompressionen",
+          "isCorrect": true,
+          "explanation": "Bei Ertrinkungsopfern steht die Hypoxie im Vordergrund."
+        },
+        {
+          "id": "b",
+          "text": "Keine Beatmung durchführen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Defibrillation anwenden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_051",
+      "type": "single",
+      "stem": "Welche Definition beschreibt den Begriff Submersion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körper und Atemwegsöffnung sind unter Wasser",
+          "isCorrect": true,
+          "explanation": "Submersion = vollständiges Untertauchen."
+        },
+        {
+          "id": "b",
+          "text": "Nur der Körper, Kopf bleibt über Wasser",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Hände und Füße im Wasser",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_052",
+      "type": "single",
+      "stem": "Welcher physikalische Effekt beschreibt die Volumenänderung von Gasen unter Druck?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Boyle-Mariotte-Gesetz",
+          "isCorrect": true,
+          "explanation": "Das Boyle-Mariotte-Gesetz erklärt die Gasvolumenänderung bei Druckänderung."
+        },
+        {
+          "id": "b",
+          "text": "Henry-Gesetz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dalton-Gesetz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_053",
+      "type": "single",
+      "stem": "Was versteht man unter 'Tiefenrausch'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stickstoffnarkose ab ~30 m Tiefe",
+          "isCorrect": true,
+          "explanation": "Stickstoff löst sich in Geweben und wirkt narkotisch."
+        },
+        {
+          "id": "b",
+          "text": "CO₂-Anstieg beim Apnoetauchen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sauerstoffmangel bei 10 m Tiefe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_054",
+      "type": "single",
+      "stem": "Welches Symptom spricht für ein pulmonales Barotrauma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thoraxschmerz, Dyspnoe, Hautemphysem",
+          "isCorrect": true,
+          "explanation": "Diese Symptome deuten auf ein Barotrauma hin."
+        },
+        {
+          "id": "b",
+          "text": "Rückenschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nasenbluten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_055",
+      "type": "single",
+      "stem": "Welche definitive Therapie ist bei Dekompressionskrankheit notwendig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rekompression in der Druckkammer",
+          "isCorrect": true,
+          "explanation": "Nur in der Druckkammer kann Stickstoff effektiv entfernt werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Flüssigkeitsgabe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_056",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für einen Hitzschlag?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Körperkerntemperatur > 40 °C, heiße trockene Haut, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Beim Hitzschlag ist die Thermoregulation ausgefallen."
+        },
+        {
+          "id": "b",
+          "text": "Normale Körpertemperatur mit Schwitzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasse Haut und Schüttelfrost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_057",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Sonnenstich entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schatten, Oberkörperhochlagerung, Kühlung des Kopfes",
+          "isCorrect": true,
+          "explanation": "Sonnenstich entsteht durch Wärmestau am Kopf und Meningenreizung."
+        },
+        {
+          "id": "b",
+          "text": "Heißgetränke geben",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Warme Decken",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_058",
+      "type": "single",
+      "stem": "Welches Vorgehen ist bei großflächigen Verbrennungen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlung nur kurz, dann sterile Abdeckung",
+          "isCorrect": true,
+          "explanation": "Längere Kühlung führt zu Hypothermie."
+        },
+        {
+          "id": "b",
+          "text": "Großflächig mit Eis behandeln",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blasen eröffnen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_059",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei Unterkühlung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niemand ist tot, bevor er warm und tot ist",
+          "isCorrect": true,
+          "explanation": "Unterkühlte Patienten dürfen erst nach Erwärmung für tot erklärt werden."
+        },
+        {
+          "id": "b",
+          "text": "Reanimation ist bei Hypothermie kontraindiziert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defibrillation ist immer sofort wirksam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_060",
+      "type": "single",
+      "stem": "Welches Leitsymptom weist auf Ertrinken hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose",
+          "isCorrect": true,
+          "explanation": "Zyanose ist Ausdruck schwerer Hypoxie."
+        },
+        {
+          "id": "b",
+          "text": "Hyperglykämie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
