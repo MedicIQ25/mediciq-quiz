@@ -1,0 +1,1326 @@
+{
+  "topicId": "ekg_kardio",
+  "title": "EKG, Herzrhythmusstörungen und kardiozirkulatorische Notfälle",
+  "questions": [
+    {
+      "id": "ekg_001",
+      "type": "single",
+      "stem": "Welche Welle im EKG beschreibt die Vorhoferregung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "P-Welle",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "QRS-Komplex",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "T-Welle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_002",
+      "type": "single",
+      "stem": "Welche Frequenz entspricht normalem Sinusrhythmus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "60–100/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "30–50/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": ">120/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_003",
+      "type": "single",
+      "stem": "Welche Ableitung gehört zum Standard-12-Kanal-EKG?",
+      "options": [
+        {
+          "id": "a",
+          "text": "V1–V6",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "nur I–III",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "nur aVR, aVL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_004",
+      "type": "single",
+      "stem": "Welche Zeit entspricht einer kleinen Kästchenbreite im EKG?",
+      "options": [
+        {
+          "id": "a",
+          "text": "0,04 s",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "0,2 s",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "1 s",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_005",
+      "type": "single",
+      "stem": "Welche Struktur repräsentiert der QRS-Komplex?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kammererregung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Vorhofrepolarisation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sinusknoten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_006",
+      "type": "single",
+      "stem": "Welche Störung zeigt ein verbreiterter QRS-Komplex?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schenkelblock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sinustachykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vorhofflattern",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_007",
+      "type": "single",
+      "stem": "Welche Frequenz entspricht einem AV-Block III?",
+      "options": [
+        {
+          "id": "a",
+          "text": "<40/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "60–100/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": ">150/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_008",
+      "type": "single",
+      "stem": "Welche Positionierung gilt für V1?",
+      "options": [
+        {
+          "id": "a",
+          "text": "4. ICR rechts parasternal",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "2. ICR links",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Apex cordis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_009",
+      "type": "single",
+      "stem": "Welche Störung erkennt man bei fehlenden P-Wellen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vorhofflimmern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sinusrhythmus",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "AV-Block I",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_010",
+      "type": "single",
+      "stem": "Welche Bedeutung hat die T-Welle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Repolarisation der Kammern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Depolarisation Vorhöfe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Isoelektrische Linie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_011",
+      "type": "single",
+      "stem": "Welche Frequenz gilt bei Sinusbradykardie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "<60/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "60–100/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": ">100/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_012",
+      "type": "single",
+      "stem": "Welche Frequenz gilt bei Sinustachykardie?",
+      "options": [
+        {
+          "id": "a",
+          "text": ">100/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "<60/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "60–100/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_013",
+      "type": "single",
+      "stem": "Welcher AV-Block zeigt verlängertes PQ-Intervall?",
+      "options": [
+        {
+          "id": "a",
+          "text": "AV-Block I",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "AV-Block II",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "AV-Block III",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_014",
+      "type": "single",
+      "stem": "Welcher Rhythmus zeigt Sägezahnmuster?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vorhofflattern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sinustachykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "VES",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_015",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung zeigt absolute Arrhythmie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vorhofflimmern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sinusbradykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kammertachykardie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_016",
+      "type": "single",
+      "stem": "Welcher AV-Block zeigt fehlende Überleitung einzelner P-Wellen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "AV-Block II",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "AV-Block I",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "AV-Block III",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_017",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung zeigt regelmäßig vorzeitige P-Wellen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Supraventrikuläre Extrasystolen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "VES",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Asystolie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_018",
+      "type": "single",
+      "stem": "Welches Symptom tritt bei tachykarden SVT auf?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Palpitationen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bradykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Synkope nur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_019",
+      "type": "single",
+      "stem": "Welche Maßnahme hilft bei AVNRT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vagus-Manöver",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Defibrillation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Insulin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_020",
+      "type": "single",
+      "stem": "Welche Medikation bei Vorhofflimmern zur Frequenzkontrolle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beta-Blocker",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Adrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Naloxon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_021",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung zeigt breite QRS und >100/min?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kammertachykardie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Vorhofflimmern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sinustachykardie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_022",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung zeigt chaotisches Muster ohne QRS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kammerflimmern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Asystolie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "PEA",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_023",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung zeigt keine elektrische Aktivität?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Asystolie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kammerflimmern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "VES",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_024",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung zeigt elektrische Aktivität ohne Puls?",
+      "options": [
+        {
+          "id": "a",
+          "text": "PEA",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Asystolie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "AV-Block I",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_025",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung zeigt isolierte breite QRS-Komplexe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ventrikuläre Extrasystolen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Vorhofflimmern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "SVES",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_026",
+      "type": "single",
+      "stem": "Welche Form zeigt Torsade de pointes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Polymorphe VT",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Monomorphe VT",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Asystolie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_027",
+      "type": "single",
+      "stem": "Welche Komplikation droht bei Kammertachykardie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kammerflimmern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sinusrhythmus",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bradykardie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_028",
+      "type": "single",
+      "stem": "Welche Rhythmusstörung erfordert sofortige Defibrillation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kammerflimmern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Sinusbradykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "AV-Block I",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_029",
+      "type": "single",
+      "stem": "Welche Maßnahme bei PEA?",
+      "options": [
+        {
+          "id": "a",
+          "text": "CPR und Adrenalin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Defibrillation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Naloxon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_030",
+      "type": "single",
+      "stem": "Welche Medikation bei persistierender VT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amiodaron",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Ibuprofen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Paracetamol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_031",
+      "type": "single",
+      "stem": "Was ist eine Koronare Herzkrankheit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Einengung der Herzkranzgefäße",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Entzündung der Lunge",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Defekt der Herzklappen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_032",
+      "type": "single",
+      "stem": "Welches Symptom ist typisch für Herzinsuffizienz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dyspnoe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypertonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Polyurie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_033",
+      "type": "single",
+      "stem": "Was ist Leitsymptom bei Angina pectoris?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Retrosternaler Druckschmerz",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Husten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_034",
+      "type": "single",
+      "stem": "Welche Form zeigt eine Herzmuskelentzündung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Myokarditis",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Endokarditis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Perikarditis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_035",
+      "type": "single",
+      "stem": "Welche Erkrankung verursacht gestaute Halsvenen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rechtsherzinsuffizienz",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Linksherzinsuffizienz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sepsis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_036",
+      "type": "single",
+      "stem": "Welcher Risikofaktor begünstigt Arteriosklerose?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rauchen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Normgewicht",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vegetarische Ernährung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_037",
+      "type": "single",
+      "stem": "Welche Aussage trifft zu: Herzinsuffizienz ist...",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unfähigkeit des Herzens, ausreichendes HZV zu fördern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer akut",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur bei jungen Menschen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_038",
+      "type": "single",
+      "stem": "Welche Komplikation ist bei Vorhofflimmern gefürchtet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schlaganfall",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypotonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Polyurie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_039",
+      "type": "single",
+      "stem": "Welche Symptomatik spricht für Lungenödem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rasselgeräusche, Dyspnoe, Schaumiges Sputum",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Trockener Husten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Polyurie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_040",
+      "type": "single",
+      "stem": "Welche Erkrankung wird durch Thromben in den Koronarien verursacht?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Myokardinfarkt",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Pneumonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Asthma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_041",
+      "type": "single",
+      "stem": "Welche Marker sind typisch für Infarkt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Troponin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Lipase",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "CRP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_042",
+      "type": "single",
+      "stem": "Welche Therapie ist präklinisch bei ACS wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "MONA (Morphin, O₂, Nitro, ASS)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Antibiotika",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Insulin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_043",
+      "type": "single",
+      "stem": "Welches Symptom spricht für STEMI?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ST-Hebung im EKG",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "ST-Senkung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "QRS-Verbreiterung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_044",
+      "type": "single",
+      "stem": "Welche Lokalisation zeigt ST-Hebung in V2-V4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vorderwandinfarkt",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hinterwandinfarkt",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Seitenwandinfarkt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_045",
+      "type": "single",
+      "stem": "Welche Komplikation droht nach Infarkt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herzinsuffizienz",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Polyurie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Asthma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_046",
+      "type": "single",
+      "stem": "Welche Zeit ist für PCI entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "<90 Minuten ab Diagnose",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "<6 Stunden",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "<24 Stunden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_047",
+      "type": "single",
+      "stem": "Welche Medikation ist beim STEMI kontraindiziert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "PDE-5-Hemmer (z.B. Sildenafil)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "ASS",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Heparin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_048",
+      "type": "single",
+      "stem": "Welche Hauptursache hat NSTEMI?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teilverschluss Koronararterie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Vollverschluss",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Lungenembolie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_049",
+      "type": "single",
+      "stem": "Welche Diagnostik bestätigt Infarkt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "EKG und Troponin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Röntgen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Spirometrie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_050",
+      "type": "single",
+      "stem": "Welche Symptomatik ist bei Frauen mit Infarkt häufiger atypisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Übelkeit, Oberbauchschmerz",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Klassischer Druckschmerz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Luftnot immer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_051",
+      "type": "single",
+      "stem": "Welche Symptome bei hypertensiver Krise?",
+      "options": [
+        {
+          "id": "a",
+          "text": "RR >220/120, Kopfschmerz, Sehstörungen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypotonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Tachykardie allein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_052",
+      "type": "single",
+      "stem": "Welche Ursache hat Synkope oft?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kurzzeitige zerebrale Minderperfusion",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypertonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Polyurie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_053",
+      "type": "single",
+      "stem": "Welche Symptome zeigen Lungenembolie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dyspnoe, Thoraxschmerz, Tachykardie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Polyurie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_054",
+      "type": "single",
+      "stem": "Welche Ursache für Aortendissektion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Einriss Intima",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Thrombus Koronararterie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Asthma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_055",
+      "type": "single",
+      "stem": "Welche Symptomatik bei Aortendissektion?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vernichtungsschmerz Brust/Rücken",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Polyurie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Husten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_056",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Lungenödem präklinisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "O₂, Oberkörper hoch, Nitro",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Morphin absetzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Diuretika sofort",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_057",
+      "type": "single",
+      "stem": "Welche Ursache für periphere arterielle Embolie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Thrombusembolus",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Infektion",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Asthma",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_058",
+      "type": "single",
+      "stem": "Welche Symptome bei pAVK?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Belastungsschmerz, Kälte, Blässe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Dyspnoe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fieber",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_059",
+      "type": "single",
+      "stem": "Welche Maßnahme bei hypertensiver Krise?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Langsame RR-Senkung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "RR sofort auf Normalwert",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Therapie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "ekg_060",
+      "type": "single",
+      "stem": "Welche Therapie bei instabiler VT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synchronisierte Kardioversion",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "ASS",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Naloxon",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
