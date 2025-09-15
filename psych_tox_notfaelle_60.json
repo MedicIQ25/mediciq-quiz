@@ -1,0 +1,1386 @@
+{
+  "topicId": "psych_tox_notfaelle",
+  "title": "Psychiatrische & Toxikologische Notfälle",
+  "questions": [
+    {
+      "id": "frage_001",
+      "type": "single",
+      "stem": "Welches Vorgehen ist beim Erstkontakt mit einem psychiatrischen Notfall besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ruhig, respektvoll und deeskalierend kommunizieren",
+          "isCorrect": true,
+          "explanation": "Deeskalation und respektvolle Kommunikation sind zentral."
+        },
+        {
+          "id": "b",
+          "text": "Den Patienten sofort fixieren",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ignorieren und Angehörige befragen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_002",
+      "type": "single",
+      "stem": "Welches Symptom spricht für eine akute Angstattacke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herzrasen, Atemnot, Schwindel",
+          "isCorrect": true,
+          "explanation": "Somatische Symptome sind typisch für Panikattacken."
+        },
+        {
+          "id": "b",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Verschlechterung über Monate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_003",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen der psychomotorischen Erregung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agitation und Aggressivität",
+          "isCorrect": true,
+          "explanation": "Innere Unruhe, Bewegungsdrang und Aggression treten auf."
+        },
+        {
+          "id": "b",
+          "text": "Tiefe Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur leichte Müdigkeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_004",
+      "type": "single",
+      "stem": "Welche Erkrankung gehört zu den HOPS (hirnorganisches Psychosyndrom)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delir",
+          "isCorrect": true,
+          "explanation": "Delir ist eine akute hirnorganische Störung."
+        },
+        {
+          "id": "b",
+          "text": "Panikattacke",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Phobie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_005",
+      "type": "single",
+      "stem": "Welche Aussage zur Suizidalität ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jede Suizidäußerung muss ernst genommen werden",
+          "isCorrect": true,
+          "explanation": "Suizidgedanken dürfen niemals bagatellisiert werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur frühere Versuche sind gefährlich",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fragen nach Suizidgedanken provozieren einen Suizid",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_006",
+      "type": "single",
+      "stem": "Welche rechtliche Grundlage regelt die Zwangseinweisung psychisch Kranker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Landesgesetze der Psychisch-Kranken-Hilfe",
+          "isCorrect": true,
+          "explanation": "Die PsychKGs der Bundesländer regeln die Zwangsunterbringung."
+        },
+        {
+          "id": "b",
+          "text": "StGB § 315c",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_007",
+      "type": "single",
+      "stem": "Welches Prinzip gilt in der Toxikologie nach Paracelsus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die Dosis macht das Gift",
+          "isCorrect": true,
+          "explanation": "Nicht die Substanz allein, sondern die Menge entscheidet."
+        },
+        {
+          "id": "b",
+          "text": "Alle Stoffe sind immer giftig",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Medikamente sind giftig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_008",
+      "type": "single",
+      "stem": "Welche Aufnahmewege für Gifte sind typisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Magen-Darm, Atemwege, Haut",
+          "isCorrect": true,
+          "explanation": "Alle drei Wege führen zu systemischen Vergiftungen."
+        },
+        {
+          "id": "b",
+          "text": "Nur intravenös",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur über die Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_009",
+      "type": "single",
+      "stem": "Welche Regel beschreibt die Erstmaßnahmen bei Vergiftungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf-Finger-Regel: Vitalfunktionen – Elimination – Antidot – Asservierung – Transport",
+          "isCorrect": true,
+          "explanation": "Dieses Schema leitet die Akutmaßnahmen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Regel",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_010",
+      "type": "single",
+      "stem": "Welche Fragen gehören zu den 6 W bei Vergiftungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wer, Wann, Warum, Welche Substanz, Wie viel, Worüber",
+          "isCorrect": true,
+          "explanation": "Die 6 W strukturieren die Anamnese."
+        },
+        {
+          "id": "b",
+          "text": "Wo, Wie lange, Was kostet es",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Welche Farbe, Welcher Arzt, Welche Uhrzeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_011",
+      "type": "single",
+      "stem": "Welches Symptom gehört zum anticholinergen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mydriasis, heiße trockene Haut, Halluzinationen",
+          "isCorrect": true,
+          "explanation": "Diese Symptome kennzeichnen das anticholinerge Syndrom."
+        },
+        {
+          "id": "b",
+          "text": "Miosis, Atemdepression",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schwitzen, Durchfall, Harndrang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_012",
+      "type": "single",
+      "stem": "Welche Trias spricht für das Opioid-Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miosis, Atemdepression, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Diese Trias kennzeichnet die Opioidintoxikation."
+        },
+        {
+          "id": "b",
+          "text": "Weite Pupillen, Tachykardie, Hyperthermie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schwindel, Kopfschmerz, Tinnitus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_013",
+      "type": "single",
+      "stem": "Welches Symptom passt zum sympathomimetischen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mydriasis, Tachykardie, Hypertonie",
+          "isCorrect": true,
+          "explanation": "Stimulanzien aktivieren den Sympathikus."
+        },
+        {
+          "id": "b",
+          "text": "Miosis, Bradykardie, Bronchialsekret",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hypothermie, verwaschene Sprache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_014",
+      "type": "single",
+      "stem": "Welches Symptom gehört zum cholinergen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miosis, Bronchialsekret, Diarrhö",
+          "isCorrect": true,
+          "explanation": "Parasympathikus-Überstimulation verursacht diese Symptome."
+        },
+        {
+          "id": "b",
+          "text": "Weite Pupillen, Tachykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Halluzinationen, heiße Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_015",
+      "type": "single",
+      "stem": "Welches Antidot wirkt gegen Benzodiazepin-Überdosierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flumazenil",
+          "isCorrect": true,
+          "explanation": "Flumazenil ist das spezifische Benzodiazepin-Antidot."
+        },
+        {
+          "id": "b",
+          "text": "Naloxon",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Atropin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_016",
+      "type": "single",
+      "stem": "Welches Antidot wirkt gegen Opiat-Überdosierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Naloxon",
+          "isCorrect": true,
+          "explanation": "Naloxon hebt die Wirkung von Opiaten auf."
+        },
+        {
+          "id": "b",
+          "text": "Flumazenil",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dimercaprol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_017",
+      "type": "single",
+      "stem": "Welches Symptom kennzeichnet die Alkoholintoxikation im asphyktischen Stadium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Koma und Atemstillstand",
+          "isCorrect": true,
+          "explanation": "Ab 3,5 ‰ tritt Atemlähmung bis Stillstand auf."
+        },
+        {
+          "id": "b",
+          "text": "Distanzlosigkeit und Redeschwall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leichte Gangunsicherheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_018",
+      "type": "single",
+      "stem": "Was ist bei einer Kohlenmonoxidvergiftung besonders tückisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsoxymetrie zeigt fälschlich normale Werte",
+          "isCorrect": true,
+          "explanation": "CO bindet an Hb, verfälscht aber die O₂-Sättigung."
+        },
+        {
+          "id": "b",
+          "text": "Rötliche Haut ist ein frühes Symptom",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "CO riecht stark nach faulen Eiern",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_019",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei CO-Vergiftung entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sauerstoffgabe 100 %, ggf. hyperbare O₂-Therapie",
+          "isCorrect": true,
+          "explanation": "Nur O₂ verdrängt CO vom Hämoglobin."
+        },
+        {
+          "id": "b",
+          "text": "Induziertes Erbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Aktivkohle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_020",
+      "type": "single",
+      "stem": "Wo sammelt sich Kohlendioxid (CO₂) bevorzugt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bodennah, da schwerer als Luft",
+          "isCorrect": true,
+          "explanation": "Deshalb entstehen CO₂-Seen in Kellern oder Silos."
+        },
+        {
+          "id": "b",
+          "text": "Unter der Zimmerdecke",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gleichmäßig im Raum verteilt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_021",
+      "type": "single",
+      "stem": "Welches Vorgehen ist beim Erstkontakt mit einem psychiatrischen Notfall besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ruhig, respektvoll und deeskalierend kommunizieren",
+          "isCorrect": true,
+          "explanation": "Deeskalation und respektvolle Kommunikation sind zentral."
+        },
+        {
+          "id": "b",
+          "text": "Den Patienten sofort fixieren",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ignorieren und Angehörige befragen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_022",
+      "type": "single",
+      "stem": "Welches Symptom spricht für eine akute Angstattacke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herzrasen, Atemnot, Schwindel",
+          "isCorrect": true,
+          "explanation": "Somatische Symptome sind typisch für Panikattacken."
+        },
+        {
+          "id": "b",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Verschlechterung über Monate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_023",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen der psychomotorischen Erregung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agitation und Aggressivität",
+          "isCorrect": true,
+          "explanation": "Innere Unruhe, Bewegungsdrang und Aggression treten auf."
+        },
+        {
+          "id": "b",
+          "text": "Tiefe Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur leichte Müdigkeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_024",
+      "type": "single",
+      "stem": "Welche Erkrankung gehört zu den HOPS (hirnorganisches Psychosyndrom)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delir",
+          "isCorrect": true,
+          "explanation": "Delir ist eine akute hirnorganische Störung."
+        },
+        {
+          "id": "b",
+          "text": "Panikattacke",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Phobie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_025",
+      "type": "single",
+      "stem": "Welche Aussage zur Suizidalität ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jede Suizidäußerung muss ernst genommen werden",
+          "isCorrect": true,
+          "explanation": "Suizidgedanken dürfen niemals bagatellisiert werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur frühere Versuche sind gefährlich",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fragen nach Suizidgedanken provozieren einen Suizid",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_026",
+      "type": "single",
+      "stem": "Welche rechtliche Grundlage regelt die Zwangseinweisung psychisch Kranker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Landesgesetze der Psychisch-Kranken-Hilfe",
+          "isCorrect": true,
+          "explanation": "Die PsychKGs der Bundesländer regeln die Zwangsunterbringung."
+        },
+        {
+          "id": "b",
+          "text": "StGB § 315c",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_027",
+      "type": "single",
+      "stem": "Welches Prinzip gilt in der Toxikologie nach Paracelsus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die Dosis macht das Gift",
+          "isCorrect": true,
+          "explanation": "Nicht die Substanz allein, sondern die Menge entscheidet."
+        },
+        {
+          "id": "b",
+          "text": "Alle Stoffe sind immer giftig",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Medikamente sind giftig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_028",
+      "type": "single",
+      "stem": "Welche Aufnahmewege für Gifte sind typisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Magen-Darm, Atemwege, Haut",
+          "isCorrect": true,
+          "explanation": "Alle drei Wege führen zu systemischen Vergiftungen."
+        },
+        {
+          "id": "b",
+          "text": "Nur intravenös",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur über die Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_029",
+      "type": "single",
+      "stem": "Welche Regel beschreibt die Erstmaßnahmen bei Vergiftungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf-Finger-Regel: Vitalfunktionen – Elimination – Antidot – Asservierung – Transport",
+          "isCorrect": true,
+          "explanation": "Dieses Schema leitet die Akutmaßnahmen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Regel",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_030",
+      "type": "single",
+      "stem": "Welche Fragen gehören zu den 6 W bei Vergiftungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wer, Wann, Warum, Welche Substanz, Wie viel, Worüber",
+          "isCorrect": true,
+          "explanation": "Die 6 W strukturieren die Anamnese."
+        },
+        {
+          "id": "b",
+          "text": "Wo, Wie lange, Was kostet es",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Welche Farbe, Welcher Arzt, Welche Uhrzeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_031",
+      "type": "single",
+      "stem": "Welches Symptom gehört zum anticholinergen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mydriasis, heiße trockene Haut, Halluzinationen",
+          "isCorrect": true,
+          "explanation": "Diese Symptome kennzeichnen das anticholinerge Syndrom."
+        },
+        {
+          "id": "b",
+          "text": "Miosis, Atemdepression",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schwitzen, Durchfall, Harndrang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_032",
+      "type": "single",
+      "stem": "Welche Trias spricht für das Opioid-Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miosis, Atemdepression, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Diese Trias kennzeichnet die Opioidintoxikation."
+        },
+        {
+          "id": "b",
+          "text": "Weite Pupillen, Tachykardie, Hyperthermie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schwindel, Kopfschmerz, Tinnitus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_033",
+      "type": "single",
+      "stem": "Welches Symptom passt zum sympathomimetischen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mydriasis, Tachykardie, Hypertonie",
+          "isCorrect": true,
+          "explanation": "Stimulanzien aktivieren den Sympathikus."
+        },
+        {
+          "id": "b",
+          "text": "Miosis, Bradykardie, Bronchialsekret",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hypothermie, verwaschene Sprache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_034",
+      "type": "single",
+      "stem": "Welches Symptom gehört zum cholinergen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miosis, Bronchialsekret, Diarrhö",
+          "isCorrect": true,
+          "explanation": "Parasympathikus-Überstimulation verursacht diese Symptome."
+        },
+        {
+          "id": "b",
+          "text": "Weite Pupillen, Tachykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Halluzinationen, heiße Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_035",
+      "type": "single",
+      "stem": "Welches Antidot wirkt gegen Benzodiazepin-Überdosierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flumazenil",
+          "isCorrect": true,
+          "explanation": "Flumazenil ist das spezifische Benzodiazepin-Antidot."
+        },
+        {
+          "id": "b",
+          "text": "Naloxon",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Atropin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_036",
+      "type": "single",
+      "stem": "Welches Antidot wirkt gegen Opiat-Überdosierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Naloxon",
+          "isCorrect": true,
+          "explanation": "Naloxon hebt die Wirkung von Opiaten auf."
+        },
+        {
+          "id": "b",
+          "text": "Flumazenil",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dimercaprol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_037",
+      "type": "single",
+      "stem": "Welches Symptom kennzeichnet die Alkoholintoxikation im asphyktischen Stadium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Koma und Atemstillstand",
+          "isCorrect": true,
+          "explanation": "Ab 3,5 ‰ tritt Atemlähmung bis Stillstand auf."
+        },
+        {
+          "id": "b",
+          "text": "Distanzlosigkeit und Redeschwall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leichte Gangunsicherheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_038",
+      "type": "single",
+      "stem": "Was ist bei einer Kohlenmonoxidvergiftung besonders tückisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsoxymetrie zeigt fälschlich normale Werte",
+          "isCorrect": true,
+          "explanation": "CO bindet an Hb, verfälscht aber die O₂-Sättigung."
+        },
+        {
+          "id": "b",
+          "text": "Rötliche Haut ist ein frühes Symptom",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "CO riecht stark nach faulen Eiern",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_039",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei CO-Vergiftung entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sauerstoffgabe 100 %, ggf. hyperbare O₂-Therapie",
+          "isCorrect": true,
+          "explanation": "Nur O₂ verdrängt CO vom Hämoglobin."
+        },
+        {
+          "id": "b",
+          "text": "Induziertes Erbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Aktivkohle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_040",
+      "type": "single",
+      "stem": "Wo sammelt sich Kohlendioxid (CO₂) bevorzugt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bodennah, da schwerer als Luft",
+          "isCorrect": true,
+          "explanation": "Deshalb entstehen CO₂-Seen in Kellern oder Silos."
+        },
+        {
+          "id": "b",
+          "text": "Unter der Zimmerdecke",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gleichmäßig im Raum verteilt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_041",
+      "type": "single",
+      "stem": "Welches Vorgehen ist beim Erstkontakt mit einem psychiatrischen Notfall besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ruhig, respektvoll und deeskalierend kommunizieren",
+          "isCorrect": true,
+          "explanation": "Deeskalation und respektvolle Kommunikation sind zentral."
+        },
+        {
+          "id": "b",
+          "text": "Den Patienten sofort fixieren",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ignorieren und Angehörige befragen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_042",
+      "type": "single",
+      "stem": "Welches Symptom spricht für eine akute Angstattacke?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Herzrasen, Atemnot, Schwindel",
+          "isCorrect": true,
+          "explanation": "Somatische Symptome sind typisch für Panikattacken."
+        },
+        {
+          "id": "b",
+          "text": "Nur Bauchschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Verschlechterung über Monate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_043",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen der psychomotorischen Erregung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Agitation und Aggressivität",
+          "isCorrect": true,
+          "explanation": "Innere Unruhe, Bewegungsdrang und Aggression treten auf."
+        },
+        {
+          "id": "b",
+          "text": "Tiefe Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur leichte Müdigkeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_044",
+      "type": "single",
+      "stem": "Welche Erkrankung gehört zu den HOPS (hirnorganisches Psychosyndrom)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Delir",
+          "isCorrect": true,
+          "explanation": "Delir ist eine akute hirnorganische Störung."
+        },
+        {
+          "id": "b",
+          "text": "Panikattacke",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Phobie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_045",
+      "type": "single",
+      "stem": "Welche Aussage zur Suizidalität ist korrekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jede Suizidäußerung muss ernst genommen werden",
+          "isCorrect": true,
+          "explanation": "Suizidgedanken dürfen niemals bagatellisiert werden."
+        },
+        {
+          "id": "b",
+          "text": "Nur frühere Versuche sind gefährlich",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fragen nach Suizidgedanken provozieren einen Suizid",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_046",
+      "type": "single",
+      "stem": "Welche rechtliche Grundlage regelt die Zwangseinweisung psychisch Kranker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Landesgesetze der Psychisch-Kranken-Hilfe",
+          "isCorrect": true,
+          "explanation": "Die PsychKGs der Bundesländer regeln die Zwangsunterbringung."
+        },
+        {
+          "id": "b",
+          "text": "StGB § 315c",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_047",
+      "type": "single",
+      "stem": "Welches Prinzip gilt in der Toxikologie nach Paracelsus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Die Dosis macht das Gift",
+          "isCorrect": true,
+          "explanation": "Nicht die Substanz allein, sondern die Menge entscheidet."
+        },
+        {
+          "id": "b",
+          "text": "Alle Stoffe sind immer giftig",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Medikamente sind giftig",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_048",
+      "type": "single",
+      "stem": "Welche Aufnahmewege für Gifte sind typisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Magen-Darm, Atemwege, Haut",
+          "isCorrect": true,
+          "explanation": "Alle drei Wege führen zu systemischen Vergiftungen."
+        },
+        {
+          "id": "b",
+          "text": "Nur intravenös",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur über die Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_049",
+      "type": "single",
+      "stem": "Welche Regel beschreibt die Erstmaßnahmen bei Vergiftungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fünf-Finger-Regel: Vitalfunktionen – Elimination – Antidot – Asservierung – Transport",
+          "isCorrect": true,
+          "explanation": "Dieses Schema leitet die Akutmaßnahmen."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Regel",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_050",
+      "type": "single",
+      "stem": "Welche Fragen gehören zu den 6 W bei Vergiftungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wer, Wann, Warum, Welche Substanz, Wie viel, Worüber",
+          "isCorrect": true,
+          "explanation": "Die 6 W strukturieren die Anamnese."
+        },
+        {
+          "id": "b",
+          "text": "Wo, Wie lange, Was kostet es",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Welche Farbe, Welcher Arzt, Welche Uhrzeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_051",
+      "type": "single",
+      "stem": "Welches Symptom gehört zum anticholinergen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mydriasis, heiße trockene Haut, Halluzinationen",
+          "isCorrect": true,
+          "explanation": "Diese Symptome kennzeichnen das anticholinerge Syndrom."
+        },
+        {
+          "id": "b",
+          "text": "Miosis, Atemdepression",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schwitzen, Durchfall, Harndrang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_052",
+      "type": "single",
+      "stem": "Welche Trias spricht für das Opioid-Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miosis, Atemdepression, Bewusstseinsstörung",
+          "isCorrect": true,
+          "explanation": "Diese Trias kennzeichnet die Opioidintoxikation."
+        },
+        {
+          "id": "b",
+          "text": "Weite Pupillen, Tachykardie, Hyperthermie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schwindel, Kopfschmerz, Tinnitus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_053",
+      "type": "single",
+      "stem": "Welches Symptom passt zum sympathomimetischen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mydriasis, Tachykardie, Hypertonie",
+          "isCorrect": true,
+          "explanation": "Stimulanzien aktivieren den Sympathikus."
+        },
+        {
+          "id": "b",
+          "text": "Miosis, Bradykardie, Bronchialsekret",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hypothermie, verwaschene Sprache",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_054",
+      "type": "single",
+      "stem": "Welches Symptom gehört zum cholinergen Syndrom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Miosis, Bronchialsekret, Diarrhö",
+          "isCorrect": true,
+          "explanation": "Parasympathikus-Überstimulation verursacht diese Symptome."
+        },
+        {
+          "id": "b",
+          "text": "Weite Pupillen, Tachykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Halluzinationen, heiße Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_055",
+      "type": "single",
+      "stem": "Welches Antidot wirkt gegen Benzodiazepin-Überdosierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flumazenil",
+          "isCorrect": true,
+          "explanation": "Flumazenil ist das spezifische Benzodiazepin-Antidot."
+        },
+        {
+          "id": "b",
+          "text": "Naloxon",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Atropin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_056",
+      "type": "single",
+      "stem": "Welches Antidot wirkt gegen Opiat-Überdosierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Naloxon",
+          "isCorrect": true,
+          "explanation": "Naloxon hebt die Wirkung von Opiaten auf."
+        },
+        {
+          "id": "b",
+          "text": "Flumazenil",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Dimercaprol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_057",
+      "type": "single",
+      "stem": "Welches Symptom kennzeichnet die Alkoholintoxikation im asphyktischen Stadium?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Koma und Atemstillstand",
+          "isCorrect": true,
+          "explanation": "Ab 3,5 ‰ tritt Atemlähmung bis Stillstand auf."
+        },
+        {
+          "id": "b",
+          "text": "Distanzlosigkeit und Redeschwall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leichte Gangunsicherheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_058",
+      "type": "single",
+      "stem": "Was ist bei einer Kohlenmonoxidvergiftung besonders tückisch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsoxymetrie zeigt fälschlich normale Werte",
+          "isCorrect": true,
+          "explanation": "CO bindet an Hb, verfälscht aber die O₂-Sättigung."
+        },
+        {
+          "id": "b",
+          "text": "Rötliche Haut ist ein frühes Symptom",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "CO riecht stark nach faulen Eiern",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_059",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei CO-Vergiftung entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sauerstoffgabe 100 %, ggf. hyperbare O₂-Therapie",
+          "isCorrect": true,
+          "explanation": "Nur O₂ verdrängt CO vom Hämoglobin."
+        },
+        {
+          "id": "b",
+          "text": "Induziertes Erbrechen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Aktivkohle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_060",
+      "type": "single",
+      "stem": "Wo sammelt sich Kohlendioxid (CO₂) bevorzugt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bodennah, da schwerer als Luft",
+          "isCorrect": true,
+          "explanation": "Deshalb entstehen CO₂-Seen in Kellern oder Silos."
+        },
+        {
+          "id": "b",
+          "text": "Unter der Zimmerdecke",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gleichmäßig im Raum verteilt",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
