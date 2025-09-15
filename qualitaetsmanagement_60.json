@@ -1,0 +1,1386 @@
+{
+  "topicId": "qualitaetsmanagement",
+  "title": "Qualitätsmanagement im Rettungsdienst",
+  "questions": [
+    {
+      "id": "frage_001",
+      "type": "single",
+      "stem": "Wie definiert sich Qualität im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grad, in dem ein Produkt/Dienstleistung Anforderungen erfüllt",
+          "isCorrect": true,
+          "explanation": "Qualität beschreibt die Erfüllung von Anforderungen."
+        },
+        {
+          "id": "b",
+          "text": "Maximaler Gewinn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kundenzufriedenheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_002",
+      "type": "single",
+      "stem": "Welche drei Dimensionen von Qualität unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Struktur-, Prozess- und Ergebnisqualität",
+          "isCorrect": true,
+          "explanation": "Diese Dimensionen sind Grundlage im Gesundheitswesen."
+        },
+        {
+          "id": "b",
+          "text": "Input, Output, Feedback",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Durchführung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_003",
+      "type": "single",
+      "stem": "Welches Ziel verfolgt ein Leitbild im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientierung und Identifikation für Mitarbeiter",
+          "isCorrect": true,
+          "explanation": "Leitbilder geben Werte und Ziele des Unternehmens vor."
+        },
+        {
+          "id": "b",
+          "text": "Nur Gewinnmaximierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reduktion von Dokumentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_004",
+      "type": "single",
+      "stem": "Welches Ziel hat ein QM-System nach ISO 9001?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontinuierliche Verbesserung und Kundenzufriedenheit",
+          "isCorrect": true,
+          "explanation": "Die ISO 9001 fordert die ständige Verbesserung."
+        },
+        {
+          "id": "b",
+          "text": "Einmalige Zertifizierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur interne Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_005",
+      "type": "single",
+      "stem": "Welche Dimensionen werden im KTQ®-Verfahren beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientenorientierung, Mitarbeiterorientierung, Sicherheit, Führung, QM, Ergebnisse",
+          "isCorrect": true,
+          "explanation": "KTQ® umfasst sechs Dimensionen."
+        },
+        {
+          "id": "b",
+          "text": "Nur Patientenorientierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Finanzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_006",
+      "type": "single",
+      "stem": "Welche Dokumente gehören ins QM-Handbuch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verfahrensanweisungen, Arbeitsanweisungen, Organigramm",
+          "isCorrect": true,
+          "explanation": "Sie strukturieren die Prozesse im QM."
+        },
+        {
+          "id": "b",
+          "text": "Nur Einsatzberichte",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Dienstpläne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_007",
+      "type": "single",
+      "stem": "Was ist ein Audit im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Systematische Überprüfung von Prozessen und Standards",
+          "isCorrect": true,
+          "explanation": "Audits prüfen die Einhaltung und Wirksamkeit des QM."
+        },
+        {
+          "id": "b",
+          "text": "Kritikgespräch mit Mitarbeitern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Finanzkontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_008",
+      "type": "single",
+      "stem": "Was beschreibt der PDCA-Zyklus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plan-Do-Check-Act: kontinuierliche Verbesserung",
+          "isCorrect": true,
+          "explanation": "Der PDCA-Zyklus ist zentraler Bestandteil des QM."
+        },
+        {
+          "id": "b",
+          "text": "Prepare-Deliver-Control-Apply",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung-Dokumentation-Controlling-Audit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_009",
+      "type": "single",
+      "stem": "Welchen Vorteil bietet QM im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Standardisierte Abläufe und höhere Patientensicherheit",
+          "isCorrect": true,
+          "explanation": "QM sichert Qualität und schafft Vertrauen."
+        },
+        {
+          "id": "b",
+          "text": "Mehr Bürokratie ohne Nutzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Weniger Transparenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_010",
+      "type": "single",
+      "stem": "Welche gesetzliche Grundlage fordert Qualitätssicherung im Gesundheitswesen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sozialgesetzbuch V (SGB V)",
+          "isCorrect": true,
+          "explanation": "Das SGB V schreibt Qualitätssicherung im Gesundheitswesen vor."
+        },
+        {
+          "id": "b",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "BGB § 823",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_011",
+      "type": "single",
+      "stem": "Wie definiert sich Qualität im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grad, in dem ein Produkt/Dienstleistung Anforderungen erfüllt",
+          "isCorrect": true,
+          "explanation": "Qualität beschreibt die Erfüllung von Anforderungen."
+        },
+        {
+          "id": "b",
+          "text": "Maximaler Gewinn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kundenzufriedenheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_012",
+      "type": "single",
+      "stem": "Welche drei Dimensionen von Qualität unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Struktur-, Prozess- und Ergebnisqualität",
+          "isCorrect": true,
+          "explanation": "Diese Dimensionen sind Grundlage im Gesundheitswesen."
+        },
+        {
+          "id": "b",
+          "text": "Input, Output, Feedback",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Durchführung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_013",
+      "type": "single",
+      "stem": "Welches Ziel verfolgt ein Leitbild im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientierung und Identifikation für Mitarbeiter",
+          "isCorrect": true,
+          "explanation": "Leitbilder geben Werte und Ziele des Unternehmens vor."
+        },
+        {
+          "id": "b",
+          "text": "Nur Gewinnmaximierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reduktion von Dokumentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_014",
+      "type": "single",
+      "stem": "Welches Ziel hat ein QM-System nach ISO 9001?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontinuierliche Verbesserung und Kundenzufriedenheit",
+          "isCorrect": true,
+          "explanation": "Die ISO 9001 fordert die ständige Verbesserung."
+        },
+        {
+          "id": "b",
+          "text": "Einmalige Zertifizierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur interne Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_015",
+      "type": "single",
+      "stem": "Welche Dimensionen werden im KTQ®-Verfahren beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientenorientierung, Mitarbeiterorientierung, Sicherheit, Führung, QM, Ergebnisse",
+          "isCorrect": true,
+          "explanation": "KTQ® umfasst sechs Dimensionen."
+        },
+        {
+          "id": "b",
+          "text": "Nur Patientenorientierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Finanzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_016",
+      "type": "single",
+      "stem": "Welche Dokumente gehören ins QM-Handbuch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verfahrensanweisungen, Arbeitsanweisungen, Organigramm",
+          "isCorrect": true,
+          "explanation": "Sie strukturieren die Prozesse im QM."
+        },
+        {
+          "id": "b",
+          "text": "Nur Einsatzberichte",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Dienstpläne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_017",
+      "type": "single",
+      "stem": "Was ist ein Audit im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Systematische Überprüfung von Prozessen und Standards",
+          "isCorrect": true,
+          "explanation": "Audits prüfen die Einhaltung und Wirksamkeit des QM."
+        },
+        {
+          "id": "b",
+          "text": "Kritikgespräch mit Mitarbeitern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Finanzkontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_018",
+      "type": "single",
+      "stem": "Was beschreibt der PDCA-Zyklus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plan-Do-Check-Act: kontinuierliche Verbesserung",
+          "isCorrect": true,
+          "explanation": "Der PDCA-Zyklus ist zentraler Bestandteil des QM."
+        },
+        {
+          "id": "b",
+          "text": "Prepare-Deliver-Control-Apply",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung-Dokumentation-Controlling-Audit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_019",
+      "type": "single",
+      "stem": "Welchen Vorteil bietet QM im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Standardisierte Abläufe und höhere Patientensicherheit",
+          "isCorrect": true,
+          "explanation": "QM sichert Qualität und schafft Vertrauen."
+        },
+        {
+          "id": "b",
+          "text": "Mehr Bürokratie ohne Nutzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Weniger Transparenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_020",
+      "type": "single",
+      "stem": "Welche gesetzliche Grundlage fordert Qualitätssicherung im Gesundheitswesen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sozialgesetzbuch V (SGB V)",
+          "isCorrect": true,
+          "explanation": "Das SGB V schreibt Qualitätssicherung im Gesundheitswesen vor."
+        },
+        {
+          "id": "b",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "BGB § 823",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_021",
+      "type": "single",
+      "stem": "Wie definiert sich Qualität im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grad, in dem ein Produkt/Dienstleistung Anforderungen erfüllt",
+          "isCorrect": true,
+          "explanation": "Qualität beschreibt die Erfüllung von Anforderungen."
+        },
+        {
+          "id": "b",
+          "text": "Maximaler Gewinn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kundenzufriedenheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_022",
+      "type": "single",
+      "stem": "Welche drei Dimensionen von Qualität unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Struktur-, Prozess- und Ergebnisqualität",
+          "isCorrect": true,
+          "explanation": "Diese Dimensionen sind Grundlage im Gesundheitswesen."
+        },
+        {
+          "id": "b",
+          "text": "Input, Output, Feedback",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Durchführung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_023",
+      "type": "single",
+      "stem": "Welches Ziel verfolgt ein Leitbild im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientierung und Identifikation für Mitarbeiter",
+          "isCorrect": true,
+          "explanation": "Leitbilder geben Werte und Ziele des Unternehmens vor."
+        },
+        {
+          "id": "b",
+          "text": "Nur Gewinnmaximierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reduktion von Dokumentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_024",
+      "type": "single",
+      "stem": "Welches Ziel hat ein QM-System nach ISO 9001?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontinuierliche Verbesserung und Kundenzufriedenheit",
+          "isCorrect": true,
+          "explanation": "Die ISO 9001 fordert die ständige Verbesserung."
+        },
+        {
+          "id": "b",
+          "text": "Einmalige Zertifizierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur interne Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_025",
+      "type": "single",
+      "stem": "Welche Dimensionen werden im KTQ®-Verfahren beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientenorientierung, Mitarbeiterorientierung, Sicherheit, Führung, QM, Ergebnisse",
+          "isCorrect": true,
+          "explanation": "KTQ® umfasst sechs Dimensionen."
+        },
+        {
+          "id": "b",
+          "text": "Nur Patientenorientierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Finanzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_026",
+      "type": "single",
+      "stem": "Welche Dokumente gehören ins QM-Handbuch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verfahrensanweisungen, Arbeitsanweisungen, Organigramm",
+          "isCorrect": true,
+          "explanation": "Sie strukturieren die Prozesse im QM."
+        },
+        {
+          "id": "b",
+          "text": "Nur Einsatzberichte",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Dienstpläne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_027",
+      "type": "single",
+      "stem": "Was ist ein Audit im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Systematische Überprüfung von Prozessen und Standards",
+          "isCorrect": true,
+          "explanation": "Audits prüfen die Einhaltung und Wirksamkeit des QM."
+        },
+        {
+          "id": "b",
+          "text": "Kritikgespräch mit Mitarbeitern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Finanzkontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_028",
+      "type": "single",
+      "stem": "Was beschreibt der PDCA-Zyklus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plan-Do-Check-Act: kontinuierliche Verbesserung",
+          "isCorrect": true,
+          "explanation": "Der PDCA-Zyklus ist zentraler Bestandteil des QM."
+        },
+        {
+          "id": "b",
+          "text": "Prepare-Deliver-Control-Apply",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung-Dokumentation-Controlling-Audit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_029",
+      "type": "single",
+      "stem": "Welchen Vorteil bietet QM im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Standardisierte Abläufe und höhere Patientensicherheit",
+          "isCorrect": true,
+          "explanation": "QM sichert Qualität und schafft Vertrauen."
+        },
+        {
+          "id": "b",
+          "text": "Mehr Bürokratie ohne Nutzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Weniger Transparenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_030",
+      "type": "single",
+      "stem": "Welche gesetzliche Grundlage fordert Qualitätssicherung im Gesundheitswesen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sozialgesetzbuch V (SGB V)",
+          "isCorrect": true,
+          "explanation": "Das SGB V schreibt Qualitätssicherung im Gesundheitswesen vor."
+        },
+        {
+          "id": "b",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "BGB § 823",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_031",
+      "type": "single",
+      "stem": "Wie definiert sich Qualität im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grad, in dem ein Produkt/Dienstleistung Anforderungen erfüllt",
+          "isCorrect": true,
+          "explanation": "Qualität beschreibt die Erfüllung von Anforderungen."
+        },
+        {
+          "id": "b",
+          "text": "Maximaler Gewinn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kundenzufriedenheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_032",
+      "type": "single",
+      "stem": "Welche drei Dimensionen von Qualität unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Struktur-, Prozess- und Ergebnisqualität",
+          "isCorrect": true,
+          "explanation": "Diese Dimensionen sind Grundlage im Gesundheitswesen."
+        },
+        {
+          "id": "b",
+          "text": "Input, Output, Feedback",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Durchführung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_033",
+      "type": "single",
+      "stem": "Welches Ziel verfolgt ein Leitbild im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientierung und Identifikation für Mitarbeiter",
+          "isCorrect": true,
+          "explanation": "Leitbilder geben Werte und Ziele des Unternehmens vor."
+        },
+        {
+          "id": "b",
+          "text": "Nur Gewinnmaximierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reduktion von Dokumentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_034",
+      "type": "single",
+      "stem": "Welches Ziel hat ein QM-System nach ISO 9001?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontinuierliche Verbesserung und Kundenzufriedenheit",
+          "isCorrect": true,
+          "explanation": "Die ISO 9001 fordert die ständige Verbesserung."
+        },
+        {
+          "id": "b",
+          "text": "Einmalige Zertifizierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur interne Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_035",
+      "type": "single",
+      "stem": "Welche Dimensionen werden im KTQ®-Verfahren beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientenorientierung, Mitarbeiterorientierung, Sicherheit, Führung, QM, Ergebnisse",
+          "isCorrect": true,
+          "explanation": "KTQ® umfasst sechs Dimensionen."
+        },
+        {
+          "id": "b",
+          "text": "Nur Patientenorientierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Finanzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_036",
+      "type": "single",
+      "stem": "Welche Dokumente gehören ins QM-Handbuch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verfahrensanweisungen, Arbeitsanweisungen, Organigramm",
+          "isCorrect": true,
+          "explanation": "Sie strukturieren die Prozesse im QM."
+        },
+        {
+          "id": "b",
+          "text": "Nur Einsatzberichte",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Dienstpläne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_037",
+      "type": "single",
+      "stem": "Was ist ein Audit im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Systematische Überprüfung von Prozessen und Standards",
+          "isCorrect": true,
+          "explanation": "Audits prüfen die Einhaltung und Wirksamkeit des QM."
+        },
+        {
+          "id": "b",
+          "text": "Kritikgespräch mit Mitarbeitern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Finanzkontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_038",
+      "type": "single",
+      "stem": "Was beschreibt der PDCA-Zyklus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plan-Do-Check-Act: kontinuierliche Verbesserung",
+          "isCorrect": true,
+          "explanation": "Der PDCA-Zyklus ist zentraler Bestandteil des QM."
+        },
+        {
+          "id": "b",
+          "text": "Prepare-Deliver-Control-Apply",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung-Dokumentation-Controlling-Audit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_039",
+      "type": "single",
+      "stem": "Welchen Vorteil bietet QM im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Standardisierte Abläufe und höhere Patientensicherheit",
+          "isCorrect": true,
+          "explanation": "QM sichert Qualität und schafft Vertrauen."
+        },
+        {
+          "id": "b",
+          "text": "Mehr Bürokratie ohne Nutzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Weniger Transparenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_040",
+      "type": "single",
+      "stem": "Welche gesetzliche Grundlage fordert Qualitätssicherung im Gesundheitswesen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sozialgesetzbuch V (SGB V)",
+          "isCorrect": true,
+          "explanation": "Das SGB V schreibt Qualitätssicherung im Gesundheitswesen vor."
+        },
+        {
+          "id": "b",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "BGB § 823",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_041",
+      "type": "single",
+      "stem": "Wie definiert sich Qualität im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grad, in dem ein Produkt/Dienstleistung Anforderungen erfüllt",
+          "isCorrect": true,
+          "explanation": "Qualität beschreibt die Erfüllung von Anforderungen."
+        },
+        {
+          "id": "b",
+          "text": "Maximaler Gewinn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kundenzufriedenheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_042",
+      "type": "single",
+      "stem": "Welche drei Dimensionen von Qualität unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Struktur-, Prozess- und Ergebnisqualität",
+          "isCorrect": true,
+          "explanation": "Diese Dimensionen sind Grundlage im Gesundheitswesen."
+        },
+        {
+          "id": "b",
+          "text": "Input, Output, Feedback",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Durchführung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_043",
+      "type": "single",
+      "stem": "Welches Ziel verfolgt ein Leitbild im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientierung und Identifikation für Mitarbeiter",
+          "isCorrect": true,
+          "explanation": "Leitbilder geben Werte und Ziele des Unternehmens vor."
+        },
+        {
+          "id": "b",
+          "text": "Nur Gewinnmaximierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reduktion von Dokumentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_044",
+      "type": "single",
+      "stem": "Welches Ziel hat ein QM-System nach ISO 9001?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontinuierliche Verbesserung und Kundenzufriedenheit",
+          "isCorrect": true,
+          "explanation": "Die ISO 9001 fordert die ständige Verbesserung."
+        },
+        {
+          "id": "b",
+          "text": "Einmalige Zertifizierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur interne Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_045",
+      "type": "single",
+      "stem": "Welche Dimensionen werden im KTQ®-Verfahren beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientenorientierung, Mitarbeiterorientierung, Sicherheit, Führung, QM, Ergebnisse",
+          "isCorrect": true,
+          "explanation": "KTQ® umfasst sechs Dimensionen."
+        },
+        {
+          "id": "b",
+          "text": "Nur Patientenorientierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Finanzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_046",
+      "type": "single",
+      "stem": "Welche Dokumente gehören ins QM-Handbuch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verfahrensanweisungen, Arbeitsanweisungen, Organigramm",
+          "isCorrect": true,
+          "explanation": "Sie strukturieren die Prozesse im QM."
+        },
+        {
+          "id": "b",
+          "text": "Nur Einsatzberichte",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Dienstpläne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_047",
+      "type": "single",
+      "stem": "Was ist ein Audit im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Systematische Überprüfung von Prozessen und Standards",
+          "isCorrect": true,
+          "explanation": "Audits prüfen die Einhaltung und Wirksamkeit des QM."
+        },
+        {
+          "id": "b",
+          "text": "Kritikgespräch mit Mitarbeitern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Finanzkontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_048",
+      "type": "single",
+      "stem": "Was beschreibt der PDCA-Zyklus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plan-Do-Check-Act: kontinuierliche Verbesserung",
+          "isCorrect": true,
+          "explanation": "Der PDCA-Zyklus ist zentraler Bestandteil des QM."
+        },
+        {
+          "id": "b",
+          "text": "Prepare-Deliver-Control-Apply",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung-Dokumentation-Controlling-Audit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_049",
+      "type": "single",
+      "stem": "Welchen Vorteil bietet QM im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Standardisierte Abläufe und höhere Patientensicherheit",
+          "isCorrect": true,
+          "explanation": "QM sichert Qualität und schafft Vertrauen."
+        },
+        {
+          "id": "b",
+          "text": "Mehr Bürokratie ohne Nutzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Weniger Transparenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_050",
+      "type": "single",
+      "stem": "Welche gesetzliche Grundlage fordert Qualitätssicherung im Gesundheitswesen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sozialgesetzbuch V (SGB V)",
+          "isCorrect": true,
+          "explanation": "Das SGB V schreibt Qualitätssicherung im Gesundheitswesen vor."
+        },
+        {
+          "id": "b",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "BGB § 823",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_051",
+      "type": "single",
+      "stem": "Wie definiert sich Qualität im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grad, in dem ein Produkt/Dienstleistung Anforderungen erfüllt",
+          "isCorrect": true,
+          "explanation": "Qualität beschreibt die Erfüllung von Anforderungen."
+        },
+        {
+          "id": "b",
+          "text": "Maximaler Gewinn",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kundenzufriedenheit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_052",
+      "type": "single",
+      "stem": "Welche drei Dimensionen von Qualität unterscheidet man?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Struktur-, Prozess- und Ergebnisqualität",
+          "isCorrect": true,
+          "explanation": "Diese Dimensionen sind Grundlage im Gesundheitswesen."
+        },
+        {
+          "id": "b",
+          "text": "Input, Output, Feedback",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Durchführung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_053",
+      "type": "single",
+      "stem": "Welches Ziel verfolgt ein Leitbild im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Orientierung und Identifikation für Mitarbeiter",
+          "isCorrect": true,
+          "explanation": "Leitbilder geben Werte und Ziele des Unternehmens vor."
+        },
+        {
+          "id": "b",
+          "text": "Nur Gewinnmaximierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reduktion von Dokumentation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_054",
+      "type": "single",
+      "stem": "Welches Ziel hat ein QM-System nach ISO 9001?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kontinuierliche Verbesserung und Kundenzufriedenheit",
+          "isCorrect": true,
+          "explanation": "Die ISO 9001 fordert die ständige Verbesserung."
+        },
+        {
+          "id": "b",
+          "text": "Einmalige Zertifizierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur interne Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_055",
+      "type": "single",
+      "stem": "Welche Dimensionen werden im KTQ®-Verfahren beurteilt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Patientenorientierung, Mitarbeiterorientierung, Sicherheit, Führung, QM, Ergebnisse",
+          "isCorrect": true,
+          "explanation": "KTQ® umfasst sechs Dimensionen."
+        },
+        {
+          "id": "b",
+          "text": "Nur Patientenorientierung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Finanzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_056",
+      "type": "single",
+      "stem": "Welche Dokumente gehören ins QM-Handbuch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verfahrensanweisungen, Arbeitsanweisungen, Organigramm",
+          "isCorrect": true,
+          "explanation": "Sie strukturieren die Prozesse im QM."
+        },
+        {
+          "id": "b",
+          "text": "Nur Einsatzberichte",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Dienstpläne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_057",
+      "type": "single",
+      "stem": "Was ist ein Audit im QM?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Systematische Überprüfung von Prozessen und Standards",
+          "isCorrect": true,
+          "explanation": "Audits prüfen die Einhaltung und Wirksamkeit des QM."
+        },
+        {
+          "id": "b",
+          "text": "Kritikgespräch mit Mitarbeitern",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reine Finanzkontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_058",
+      "type": "single",
+      "stem": "Was beschreibt der PDCA-Zyklus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plan-Do-Check-Act: kontinuierliche Verbesserung",
+          "isCorrect": true,
+          "explanation": "Der PDCA-Zyklus ist zentraler Bestandteil des QM."
+        },
+        {
+          "id": "b",
+          "text": "Prepare-Deliver-Control-Apply",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung-Dokumentation-Controlling-Audit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_059",
+      "type": "single",
+      "stem": "Welchen Vorteil bietet QM im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Standardisierte Abläufe und höhere Patientensicherheit",
+          "isCorrect": true,
+          "explanation": "QM sichert Qualität und schafft Vertrauen."
+        },
+        {
+          "id": "b",
+          "text": "Mehr Bürokratie ohne Nutzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Weniger Transparenz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_060",
+      "type": "single",
+      "stem": "Welche gesetzliche Grundlage fordert Qualitätssicherung im Gesundheitswesen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sozialgesetzbuch V (SGB V)",
+          "isCorrect": true,
+          "explanation": "Das SGB V schreibt Qualitätssicherung im Gesundheitswesen vor."
+        },
+        {
+          "id": "b",
+          "text": "Straßenverkehrsordnung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "BGB § 823",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
