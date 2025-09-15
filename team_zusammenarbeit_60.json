@@ -1,0 +1,1386 @@
+{
+  "topicId": "team_zusammenarbeit",
+  "title": "Teamarbeit & Zusammenarbeit mit Dritten",
+  "questions": [
+    {
+      "id": "frage_001",
+      "type": "single",
+      "stem": "Welche Phasen beschreibt das Modell der Teamentwicklung nach Tuckman?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forming, Storming, Norming, Performing",
+          "isCorrect": true,
+          "explanation": "Diese vier Phasen kennzeichnen die Teamentwicklung."
+        },
+        {
+          "id": "b",
+          "text": "Einleitung, Durchführung, Abschluss",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Umsetzung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_002",
+      "type": "single",
+      "stem": "Was ist typisch für ein Ad-hoc-Team im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es bildet sich spontan aus Einsatzkräften verschiedener Organisationen",
+          "isCorrect": true,
+          "explanation": "Ad-hoc-Teams haben keine feste Struktur."
+        },
+        {
+          "id": "b",
+          "text": "Es arbeitet immer langfristig zusammen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Es besteht nur aus Notärzten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_003",
+      "type": "single",
+      "stem": "Welche Merkhilfe dient der Selbsteinschätzung von Teammitgliedern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'M SAFE",
+          "isCorrect": true,
+          "explanation": "I'M SAFE: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Emotion."
+        },
+        {
+          "id": "b",
+          "text": "SBAR",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ATMIST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_004",
+      "type": "single",
+      "stem": "Was versteht man unter Closed-Loop-Communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rückmeldung zur Bestätigung von Informationen",
+          "isCorrect": true,
+          "explanation": "Nachrichten werden wiederholt, um Missverständnisse zu vermeiden."
+        },
+        {
+          "id": "b",
+          "text": "Kommunikation mit geschlossenen Fragen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gespräche nur im Teamkreis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_005",
+      "type": "single",
+      "stem": "Welches Modell dient der strukturierten Entscheidungsfindung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FORDEC",
+          "isCorrect": true,
+          "explanation": "FORDEC = Facts, Options, Risks, Decision, Execution, Check."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_006",
+      "type": "single",
+      "stem": "Was ist ein Ziel interprofessioneller Zusammenarbeit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bessere Patientenversorgung durch Synergien",
+          "isCorrect": true,
+          "explanation": "Zusammenarbeit verschiedener Berufsgruppen verbessert die Versorgung."
+        },
+        {
+          "id": "b",
+          "text": "Reduzierung auf eine Berufsgruppe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vermeidung von Kommunikation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_007",
+      "type": "single",
+      "stem": "Welche Berufsgruppe gehört typischerweise nicht direkt zum Rettungsdienst, ist aber Partner im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pflegepersonal im Krankenhaus",
+          "isCorrect": true,
+          "explanation": "Pflegekräfte sind wichtige Partner bei Übergabe und Nachversorgung."
+        },
+        {
+          "id": "b",
+          "text": "Notfallsanitäter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rettungsassistenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_008",
+      "type": "single",
+      "stem": "Mit welcher Organisation kooperiert der Rettungsdienst bei Brandeinsätzen eng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feuerwehr",
+          "isCorrect": true,
+          "explanation": "Feuerwehr sichert und rettet, während Rettungsdienst versorgt."
+        },
+        {
+          "id": "b",
+          "text": "THW",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wasserwacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_009",
+      "type": "single",
+      "stem": "Welche Aufgabe übernimmt typischerweise die Polizei im Rahmen eines Rettungseinsatzes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absicherung der Einsatzstelle und Gefahrenabwehr",
+          "isCorrect": true,
+          "explanation": "Polizei schafft Sicherheit für Einsatzkräfte und Patienten."
+        },
+        {
+          "id": "b",
+          "text": "Beatmung der Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Transport zum Krankenhaus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_010",
+      "type": "single",
+      "stem": "Welche Aufgabe hat das THW im Katastrophenschutz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Technische Hilfeleistung, Infrastruktur, Logistik",
+          "isCorrect": true,
+          "explanation": "THW unterstützt bei Technik, Strom, Wasser und Logistik."
+        },
+        {
+          "id": "b",
+          "text": "Primäre Patientenversorgung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_011",
+      "type": "single",
+      "stem": "Welche Phasen beschreibt das Modell der Teamentwicklung nach Tuckman?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forming, Storming, Norming, Performing",
+          "isCorrect": true,
+          "explanation": "Diese vier Phasen kennzeichnen die Teamentwicklung."
+        },
+        {
+          "id": "b",
+          "text": "Einleitung, Durchführung, Abschluss",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Umsetzung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_012",
+      "type": "single",
+      "stem": "Was ist typisch für ein Ad-hoc-Team im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es bildet sich spontan aus Einsatzkräften verschiedener Organisationen",
+          "isCorrect": true,
+          "explanation": "Ad-hoc-Teams haben keine feste Struktur."
+        },
+        {
+          "id": "b",
+          "text": "Es arbeitet immer langfristig zusammen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Es besteht nur aus Notärzten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_013",
+      "type": "single",
+      "stem": "Welche Merkhilfe dient der Selbsteinschätzung von Teammitgliedern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'M SAFE",
+          "isCorrect": true,
+          "explanation": "I'M SAFE: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Emotion."
+        },
+        {
+          "id": "b",
+          "text": "SBAR",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ATMIST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_014",
+      "type": "single",
+      "stem": "Was versteht man unter Closed-Loop-Communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rückmeldung zur Bestätigung von Informationen",
+          "isCorrect": true,
+          "explanation": "Nachrichten werden wiederholt, um Missverständnisse zu vermeiden."
+        },
+        {
+          "id": "b",
+          "text": "Kommunikation mit geschlossenen Fragen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gespräche nur im Teamkreis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_015",
+      "type": "single",
+      "stem": "Welches Modell dient der strukturierten Entscheidungsfindung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FORDEC",
+          "isCorrect": true,
+          "explanation": "FORDEC = Facts, Options, Risks, Decision, Execution, Check."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_016",
+      "type": "single",
+      "stem": "Was ist ein Ziel interprofessioneller Zusammenarbeit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bessere Patientenversorgung durch Synergien",
+          "isCorrect": true,
+          "explanation": "Zusammenarbeit verschiedener Berufsgruppen verbessert die Versorgung."
+        },
+        {
+          "id": "b",
+          "text": "Reduzierung auf eine Berufsgruppe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vermeidung von Kommunikation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_017",
+      "type": "single",
+      "stem": "Welche Berufsgruppe gehört typischerweise nicht direkt zum Rettungsdienst, ist aber Partner im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pflegepersonal im Krankenhaus",
+          "isCorrect": true,
+          "explanation": "Pflegekräfte sind wichtige Partner bei Übergabe und Nachversorgung."
+        },
+        {
+          "id": "b",
+          "text": "Notfallsanitäter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rettungsassistenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_018",
+      "type": "single",
+      "stem": "Mit welcher Organisation kooperiert der Rettungsdienst bei Brandeinsätzen eng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feuerwehr",
+          "isCorrect": true,
+          "explanation": "Feuerwehr sichert und rettet, während Rettungsdienst versorgt."
+        },
+        {
+          "id": "b",
+          "text": "THW",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wasserwacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_019",
+      "type": "single",
+      "stem": "Welche Aufgabe übernimmt typischerweise die Polizei im Rahmen eines Rettungseinsatzes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absicherung der Einsatzstelle und Gefahrenabwehr",
+          "isCorrect": true,
+          "explanation": "Polizei schafft Sicherheit für Einsatzkräfte und Patienten."
+        },
+        {
+          "id": "b",
+          "text": "Beatmung der Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Transport zum Krankenhaus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_020",
+      "type": "single",
+      "stem": "Welche Aufgabe hat das THW im Katastrophenschutz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Technische Hilfeleistung, Infrastruktur, Logistik",
+          "isCorrect": true,
+          "explanation": "THW unterstützt bei Technik, Strom, Wasser und Logistik."
+        },
+        {
+          "id": "b",
+          "text": "Primäre Patientenversorgung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_021",
+      "type": "single",
+      "stem": "Welche Phasen beschreibt das Modell der Teamentwicklung nach Tuckman?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forming, Storming, Norming, Performing",
+          "isCorrect": true,
+          "explanation": "Diese vier Phasen kennzeichnen die Teamentwicklung."
+        },
+        {
+          "id": "b",
+          "text": "Einleitung, Durchführung, Abschluss",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Umsetzung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_022",
+      "type": "single",
+      "stem": "Was ist typisch für ein Ad-hoc-Team im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es bildet sich spontan aus Einsatzkräften verschiedener Organisationen",
+          "isCorrect": true,
+          "explanation": "Ad-hoc-Teams haben keine feste Struktur."
+        },
+        {
+          "id": "b",
+          "text": "Es arbeitet immer langfristig zusammen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Es besteht nur aus Notärzten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_023",
+      "type": "single",
+      "stem": "Welche Merkhilfe dient der Selbsteinschätzung von Teammitgliedern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'M SAFE",
+          "isCorrect": true,
+          "explanation": "I'M SAFE: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Emotion."
+        },
+        {
+          "id": "b",
+          "text": "SBAR",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ATMIST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_024",
+      "type": "single",
+      "stem": "Was versteht man unter Closed-Loop-Communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rückmeldung zur Bestätigung von Informationen",
+          "isCorrect": true,
+          "explanation": "Nachrichten werden wiederholt, um Missverständnisse zu vermeiden."
+        },
+        {
+          "id": "b",
+          "text": "Kommunikation mit geschlossenen Fragen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gespräche nur im Teamkreis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_025",
+      "type": "single",
+      "stem": "Welches Modell dient der strukturierten Entscheidungsfindung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FORDEC",
+          "isCorrect": true,
+          "explanation": "FORDEC = Facts, Options, Risks, Decision, Execution, Check."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_026",
+      "type": "single",
+      "stem": "Was ist ein Ziel interprofessioneller Zusammenarbeit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bessere Patientenversorgung durch Synergien",
+          "isCorrect": true,
+          "explanation": "Zusammenarbeit verschiedener Berufsgruppen verbessert die Versorgung."
+        },
+        {
+          "id": "b",
+          "text": "Reduzierung auf eine Berufsgruppe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vermeidung von Kommunikation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_027",
+      "type": "single",
+      "stem": "Welche Berufsgruppe gehört typischerweise nicht direkt zum Rettungsdienst, ist aber Partner im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pflegepersonal im Krankenhaus",
+          "isCorrect": true,
+          "explanation": "Pflegekräfte sind wichtige Partner bei Übergabe und Nachversorgung."
+        },
+        {
+          "id": "b",
+          "text": "Notfallsanitäter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rettungsassistenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_028",
+      "type": "single",
+      "stem": "Mit welcher Organisation kooperiert der Rettungsdienst bei Brandeinsätzen eng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feuerwehr",
+          "isCorrect": true,
+          "explanation": "Feuerwehr sichert und rettet, während Rettungsdienst versorgt."
+        },
+        {
+          "id": "b",
+          "text": "THW",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wasserwacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_029",
+      "type": "single",
+      "stem": "Welche Aufgabe übernimmt typischerweise die Polizei im Rahmen eines Rettungseinsatzes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absicherung der Einsatzstelle und Gefahrenabwehr",
+          "isCorrect": true,
+          "explanation": "Polizei schafft Sicherheit für Einsatzkräfte und Patienten."
+        },
+        {
+          "id": "b",
+          "text": "Beatmung der Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Transport zum Krankenhaus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_030",
+      "type": "single",
+      "stem": "Welche Aufgabe hat das THW im Katastrophenschutz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Technische Hilfeleistung, Infrastruktur, Logistik",
+          "isCorrect": true,
+          "explanation": "THW unterstützt bei Technik, Strom, Wasser und Logistik."
+        },
+        {
+          "id": "b",
+          "text": "Primäre Patientenversorgung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_031",
+      "type": "single",
+      "stem": "Welche Phasen beschreibt das Modell der Teamentwicklung nach Tuckman?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forming, Storming, Norming, Performing",
+          "isCorrect": true,
+          "explanation": "Diese vier Phasen kennzeichnen die Teamentwicklung."
+        },
+        {
+          "id": "b",
+          "text": "Einleitung, Durchführung, Abschluss",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Umsetzung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_032",
+      "type": "single",
+      "stem": "Was ist typisch für ein Ad-hoc-Team im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es bildet sich spontan aus Einsatzkräften verschiedener Organisationen",
+          "isCorrect": true,
+          "explanation": "Ad-hoc-Teams haben keine feste Struktur."
+        },
+        {
+          "id": "b",
+          "text": "Es arbeitet immer langfristig zusammen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Es besteht nur aus Notärzten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_033",
+      "type": "single",
+      "stem": "Welche Merkhilfe dient der Selbsteinschätzung von Teammitgliedern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'M SAFE",
+          "isCorrect": true,
+          "explanation": "I'M SAFE: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Emotion."
+        },
+        {
+          "id": "b",
+          "text": "SBAR",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ATMIST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_034",
+      "type": "single",
+      "stem": "Was versteht man unter Closed-Loop-Communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rückmeldung zur Bestätigung von Informationen",
+          "isCorrect": true,
+          "explanation": "Nachrichten werden wiederholt, um Missverständnisse zu vermeiden."
+        },
+        {
+          "id": "b",
+          "text": "Kommunikation mit geschlossenen Fragen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gespräche nur im Teamkreis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_035",
+      "type": "single",
+      "stem": "Welches Modell dient der strukturierten Entscheidungsfindung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FORDEC",
+          "isCorrect": true,
+          "explanation": "FORDEC = Facts, Options, Risks, Decision, Execution, Check."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_036",
+      "type": "single",
+      "stem": "Was ist ein Ziel interprofessioneller Zusammenarbeit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bessere Patientenversorgung durch Synergien",
+          "isCorrect": true,
+          "explanation": "Zusammenarbeit verschiedener Berufsgruppen verbessert die Versorgung."
+        },
+        {
+          "id": "b",
+          "text": "Reduzierung auf eine Berufsgruppe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vermeidung von Kommunikation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_037",
+      "type": "single",
+      "stem": "Welche Berufsgruppe gehört typischerweise nicht direkt zum Rettungsdienst, ist aber Partner im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pflegepersonal im Krankenhaus",
+          "isCorrect": true,
+          "explanation": "Pflegekräfte sind wichtige Partner bei Übergabe und Nachversorgung."
+        },
+        {
+          "id": "b",
+          "text": "Notfallsanitäter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rettungsassistenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_038",
+      "type": "single",
+      "stem": "Mit welcher Organisation kooperiert der Rettungsdienst bei Brandeinsätzen eng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feuerwehr",
+          "isCorrect": true,
+          "explanation": "Feuerwehr sichert und rettet, während Rettungsdienst versorgt."
+        },
+        {
+          "id": "b",
+          "text": "THW",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wasserwacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_039",
+      "type": "single",
+      "stem": "Welche Aufgabe übernimmt typischerweise die Polizei im Rahmen eines Rettungseinsatzes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absicherung der Einsatzstelle und Gefahrenabwehr",
+          "isCorrect": true,
+          "explanation": "Polizei schafft Sicherheit für Einsatzkräfte und Patienten."
+        },
+        {
+          "id": "b",
+          "text": "Beatmung der Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Transport zum Krankenhaus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_040",
+      "type": "single",
+      "stem": "Welche Aufgabe hat das THW im Katastrophenschutz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Technische Hilfeleistung, Infrastruktur, Logistik",
+          "isCorrect": true,
+          "explanation": "THW unterstützt bei Technik, Strom, Wasser und Logistik."
+        },
+        {
+          "id": "b",
+          "text": "Primäre Patientenversorgung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_041",
+      "type": "single",
+      "stem": "Welche Phasen beschreibt das Modell der Teamentwicklung nach Tuckman?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forming, Storming, Norming, Performing",
+          "isCorrect": true,
+          "explanation": "Diese vier Phasen kennzeichnen die Teamentwicklung."
+        },
+        {
+          "id": "b",
+          "text": "Einleitung, Durchführung, Abschluss",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Umsetzung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_042",
+      "type": "single",
+      "stem": "Was ist typisch für ein Ad-hoc-Team im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es bildet sich spontan aus Einsatzkräften verschiedener Organisationen",
+          "isCorrect": true,
+          "explanation": "Ad-hoc-Teams haben keine feste Struktur."
+        },
+        {
+          "id": "b",
+          "text": "Es arbeitet immer langfristig zusammen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Es besteht nur aus Notärzten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_043",
+      "type": "single",
+      "stem": "Welche Merkhilfe dient der Selbsteinschätzung von Teammitgliedern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'M SAFE",
+          "isCorrect": true,
+          "explanation": "I'M SAFE: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Emotion."
+        },
+        {
+          "id": "b",
+          "text": "SBAR",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ATMIST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_044",
+      "type": "single",
+      "stem": "Was versteht man unter Closed-Loop-Communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rückmeldung zur Bestätigung von Informationen",
+          "isCorrect": true,
+          "explanation": "Nachrichten werden wiederholt, um Missverständnisse zu vermeiden."
+        },
+        {
+          "id": "b",
+          "text": "Kommunikation mit geschlossenen Fragen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gespräche nur im Teamkreis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_045",
+      "type": "single",
+      "stem": "Welches Modell dient der strukturierten Entscheidungsfindung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FORDEC",
+          "isCorrect": true,
+          "explanation": "FORDEC = Facts, Options, Risks, Decision, Execution, Check."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_046",
+      "type": "single",
+      "stem": "Was ist ein Ziel interprofessioneller Zusammenarbeit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bessere Patientenversorgung durch Synergien",
+          "isCorrect": true,
+          "explanation": "Zusammenarbeit verschiedener Berufsgruppen verbessert die Versorgung."
+        },
+        {
+          "id": "b",
+          "text": "Reduzierung auf eine Berufsgruppe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vermeidung von Kommunikation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_047",
+      "type": "single",
+      "stem": "Welche Berufsgruppe gehört typischerweise nicht direkt zum Rettungsdienst, ist aber Partner im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pflegepersonal im Krankenhaus",
+          "isCorrect": true,
+          "explanation": "Pflegekräfte sind wichtige Partner bei Übergabe und Nachversorgung."
+        },
+        {
+          "id": "b",
+          "text": "Notfallsanitäter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rettungsassistenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_048",
+      "type": "single",
+      "stem": "Mit welcher Organisation kooperiert der Rettungsdienst bei Brandeinsätzen eng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feuerwehr",
+          "isCorrect": true,
+          "explanation": "Feuerwehr sichert und rettet, während Rettungsdienst versorgt."
+        },
+        {
+          "id": "b",
+          "text": "THW",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wasserwacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_049",
+      "type": "single",
+      "stem": "Welche Aufgabe übernimmt typischerweise die Polizei im Rahmen eines Rettungseinsatzes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absicherung der Einsatzstelle und Gefahrenabwehr",
+          "isCorrect": true,
+          "explanation": "Polizei schafft Sicherheit für Einsatzkräfte und Patienten."
+        },
+        {
+          "id": "b",
+          "text": "Beatmung der Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Transport zum Krankenhaus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_050",
+      "type": "single",
+      "stem": "Welche Aufgabe hat das THW im Katastrophenschutz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Technische Hilfeleistung, Infrastruktur, Logistik",
+          "isCorrect": true,
+          "explanation": "THW unterstützt bei Technik, Strom, Wasser und Logistik."
+        },
+        {
+          "id": "b",
+          "text": "Primäre Patientenversorgung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_051",
+      "type": "single",
+      "stem": "Welche Phasen beschreibt das Modell der Teamentwicklung nach Tuckman?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forming, Storming, Norming, Performing",
+          "isCorrect": true,
+          "explanation": "Diese vier Phasen kennzeichnen die Teamentwicklung."
+        },
+        {
+          "id": "b",
+          "text": "Einleitung, Durchführung, Abschluss",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Planung, Umsetzung, Kontrolle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_052",
+      "type": "single",
+      "stem": "Was ist typisch für ein Ad-hoc-Team im Rettungsdienst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Es bildet sich spontan aus Einsatzkräften verschiedener Organisationen",
+          "isCorrect": true,
+          "explanation": "Ad-hoc-Teams haben keine feste Struktur."
+        },
+        {
+          "id": "b",
+          "text": "Es arbeitet immer langfristig zusammen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Es besteht nur aus Notärzten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_053",
+      "type": "single",
+      "stem": "Welche Merkhilfe dient der Selbsteinschätzung von Teammitgliedern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'M SAFE",
+          "isCorrect": true,
+          "explanation": "I'M SAFE: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Emotion."
+        },
+        {
+          "id": "b",
+          "text": "SBAR",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "ATMIST",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_054",
+      "type": "single",
+      "stem": "Was versteht man unter Closed-Loop-Communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rückmeldung zur Bestätigung von Informationen",
+          "isCorrect": true,
+          "explanation": "Nachrichten werden wiederholt, um Missverständnisse zu vermeiden."
+        },
+        {
+          "id": "b",
+          "text": "Kommunikation mit geschlossenen Fragen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gespräche nur im Teamkreis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_055",
+      "type": "single",
+      "stem": "Welches Modell dient der strukturierten Entscheidungsfindung im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "FORDEC",
+          "isCorrect": true,
+          "explanation": "FORDEC = Facts, Options, Risks, Decision, Execution, Check."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "NEXUS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_056",
+      "type": "single",
+      "stem": "Was ist ein Ziel interprofessioneller Zusammenarbeit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bessere Patientenversorgung durch Synergien",
+          "isCorrect": true,
+          "explanation": "Zusammenarbeit verschiedener Berufsgruppen verbessert die Versorgung."
+        },
+        {
+          "id": "b",
+          "text": "Reduzierung auf eine Berufsgruppe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Vermeidung von Kommunikation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_057",
+      "type": "single",
+      "stem": "Welche Berufsgruppe gehört typischerweise nicht direkt zum Rettungsdienst, ist aber Partner im Einsatz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pflegepersonal im Krankenhaus",
+          "isCorrect": true,
+          "explanation": "Pflegekräfte sind wichtige Partner bei Übergabe und Nachversorgung."
+        },
+        {
+          "id": "b",
+          "text": "Notfallsanitäter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rettungsassistenten",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_058",
+      "type": "single",
+      "stem": "Mit welcher Organisation kooperiert der Rettungsdienst bei Brandeinsätzen eng?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Feuerwehr",
+          "isCorrect": true,
+          "explanation": "Feuerwehr sichert und rettet, während Rettungsdienst versorgt."
+        },
+        {
+          "id": "b",
+          "text": "THW",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wasserwacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_059",
+      "type": "single",
+      "stem": "Welche Aufgabe übernimmt typischerweise die Polizei im Rahmen eines Rettungseinsatzes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Absicherung der Einsatzstelle und Gefahrenabwehr",
+          "isCorrect": true,
+          "explanation": "Polizei schafft Sicherheit für Einsatzkräfte und Patienten."
+        },
+        {
+          "id": "b",
+          "text": "Beatmung der Patienten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Transport zum Krankenhaus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_060",
+      "type": "single",
+      "stem": "Welche Aufgabe hat das THW im Katastrophenschutz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Technische Hilfeleistung, Infrastruktur, Logistik",
+          "isCorrect": true,
+          "explanation": "THW unterstützt bei Technik, Strom, Wasser und Logistik."
+        },
+        {
+          "id": "b",
+          "text": "Primäre Patientenversorgung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Reanimation",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
