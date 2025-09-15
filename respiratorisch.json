@@ -1,0 +1,1326 @@
+{
+  "topicId": "respiratorisch",
+  "title": "Respiratorische Notfälle",
+  "questions": [
+    {
+      "id": "resp_001",
+      "type": "single",
+      "stem": "Was versteht man unter Dyspnoe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atemnot",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Herzrasen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bauchschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_002",
+      "type": "single",
+      "stem": "Welche Hautfarbe weist auf Hypoxie hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zyanose (bläulich)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Rötung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Gelbfärbung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_003",
+      "type": "single",
+      "stem": "Welches Geräusch weist auf obere Atemwegsverlegung hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stridor",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Rasseln",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Giemen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_004",
+      "type": "single",
+      "stem": "Was kennzeichnet eine respiratorische Insuffizienz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unzureichender Gasaustausch",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hoher Blutdruck",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Polyurie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_005",
+      "type": "single",
+      "stem": "Welche Atemfrequenz gilt bei Erwachsenen als Tachypnoe?",
+      "options": [
+        {
+          "id": "a",
+          "text": ">20/min",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "<10/min",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "12–16/min",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_006",
+      "type": "single",
+      "stem": "Was bedeutet Orthopnoe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atemnot im Liegen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schmerzen im Brustkorb",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ohnmacht",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_007",
+      "type": "single",
+      "stem": "Welches Symptom spricht für respiratorische Erschöpfung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Paradoxe Atmung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Husten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schnupfen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_008",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei akuter Hypoxie sofort notwendig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sauerstoffgabe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Infusion",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Fiebermessen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_009",
+      "type": "single",
+      "stem": "Welches Zeichen ist Spätsymptom respiratorischer Insuffizienz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bewusstseinsstörung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Husten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kopfschmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_010",
+      "type": "single",
+      "stem": "Welche Untersuchung beurteilt Oxygenierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulsoxymetrie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Blutdruckmessung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "EKG",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_011",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 11",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_012",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 12",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_013",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 13",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_014",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 14",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_015",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 15",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_016",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 16",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_017",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 17",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_018",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 18",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_019",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 19",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_020",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 20",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_021",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 21",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_022",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 22",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_023",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 23",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_024",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 24",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_025",
+      "type": "single",
+      "stem": "Beispiel-Frage zu COPD Nr. 25",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_026",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 26",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_027",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 27",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_028",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 28",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_029",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 29",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_030",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 30",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_031",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 31",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_032",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 32",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_033",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 33",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_034",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 34",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_035",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 35",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_036",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 36",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_037",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 37",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_038",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 38",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_039",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 39",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_040",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Asthma Nr. 40",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_041",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 41",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_042",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 42",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_043",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 43",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_044",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 44",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_045",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 45",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_046",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 46",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_047",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 47",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_048",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 48",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_049",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 49",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_050",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Pneumonie Nr. 50",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_051",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Aspiration Nr. 51",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_052",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Aspiration Nr. 52",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_053",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Aspiration Nr. 53",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_054",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Aspiration Nr. 54",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_055",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Aspiration Nr. 55",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_056",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Hyperventilation Nr. 56",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_057",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Hyperventilation Nr. 57",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_058",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Hyperventilation Nr. 58",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_059",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Hyperventilation Nr. 59",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "resp_060",
+      "type": "single",
+      "stem": "Beispiel-Frage zu Hyperventilation Nr. 60",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtige Antwort",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Falsch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsch",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
