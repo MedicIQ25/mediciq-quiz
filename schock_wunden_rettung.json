@@ -1,0 +1,1326 @@
+{
+  "topicId": "schock_wunden_rettung",
+  "title": "Schock, Wundversorgung und Rettungstechnik",
+  "questions": [
+    {
+      "id": "schock_001",
+      "type": "single",
+      "stem": "Was versteht man unter Schock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Akutes Kreislaufversagen mit unzureichender Gewebeperfusion",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypertonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Epileptischer Anfall",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_002",
+      "type": "single",
+      "stem": "Welche Schockform wird durch Blutverlust ausgelöst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hypovolämischer Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Septischer Schock",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kardiogener Schock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_003",
+      "type": "single",
+      "stem": "Welche Schockform entsteht durch Bienenstich-Allergie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anaphylaktischer Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Obstruktiver Schock",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Neurogener Schock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_004",
+      "type": "single",
+      "stem": "Welcher Wert wird zur Schockdiagnostik genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schockindex (Puls/ systolischer RR)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Blutzucker",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Temperatur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_005",
+      "type": "single",
+      "stem": "Welches Zeichen spricht für fortgeschrittenen Schock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kaltschweißigkeit",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Rötung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Euphorie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_006",
+      "type": "single",
+      "stem": "Welche Schockform wird durch Herzinfarkt ausgelöst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kardiogener Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Septischer Schock",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Anaphylaktischer Schock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_007",
+      "type": "single",
+      "stem": "Welche Therapie steht bei Hypovolämischem Schock im Vordergrund?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Volumengabe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Beta-Blocker",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Insulin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_008",
+      "type": "single",
+      "stem": "Welche initiale Lagerung bei Schockpatienten (ohne Trauma)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schocklage (Beine hoch)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bauchlage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sitzposition",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_009",
+      "type": "single",
+      "stem": "Was ist typisch für anaphylaktischen Schock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hautausschlag, Atemnot, Hypotonie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bradykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hypertonie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_010",
+      "type": "single",
+      "stem": "Welches Medikament ist Mittel der Wahl bei Anaphylaxie?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adrenalin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Insulin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Aspirin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_011",
+      "type": "single",
+      "stem": "Welche Schockform wird durch Lungenembolie ausgelöst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Obstruktiver Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Septischer Schock",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Neurogener Schock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_012",
+      "type": "single",
+      "stem": "Welches frühe Symptom tritt bei Schock häufig auf?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tachykardie",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bradykardie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normotonie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_013",
+      "type": "single",
+      "stem": "Welche Maßnahme ist im Schock wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schneller Transport",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Abwarten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Flüssigkeit geben",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_014",
+      "type": "single",
+      "stem": "Welche Schockform entsteht bei Querschnittslähmung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Neurogener Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kardiogener Schock",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Septischer Schock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_015",
+      "type": "single",
+      "stem": "Was ist eine Komplikation des septischen Schocks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Multiorganversagen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypertonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hypoglykämie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_016",
+      "type": "single",
+      "stem": "Welche Atemveränderung ist typisch bei Schock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tachypnoe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bradypnoe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Apnoe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_017",
+      "type": "single",
+      "stem": "Wie lautet die normale Schockindex-Grenze?",
+      "options": [
+        {
+          "id": "a",
+          "text": "< 1",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "> 2",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "> 3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_018",
+      "type": "single",
+      "stem": "Welche Flüssigkeit ist kristalloid?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ringer-Lösung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hydroxyethylstärke",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Albumin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_019",
+      "type": "single",
+      "stem": "Welches Medikament kann beim kardiogenen Schock notwendig sein?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Katecholamine (z. B. Noradrenalin)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Insulin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Antihistaminika",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_020",
+      "type": "single",
+      "stem": "Welches Zeichen ist Spätsymptom des Schocks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bewusstseinsstörung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Durst",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Tachykardie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_021",
+      "type": "single",
+      "stem": "Welche Ursache hat hämorrhagischer Schock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blutverlust",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Infektion",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Allergie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_022",
+      "type": "single",
+      "stem": "Welches Organ ist besonders empfindlich auf Schock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gehirn",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Milz",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_023",
+      "type": "single",
+      "stem": "Welche Form von Schock entsteht bei Sepsis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Septischer Schock",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Anaphylaktischer Schock",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kardiogener Schock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_024",
+      "type": "single",
+      "stem": "Welche Sofortmaßnahme bei Blutungsschock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blutung stillen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Antibiotika",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Insulin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "schock_025",
+      "type": "single",
+      "stem": "Welche Hautveränderung zeigt Schock?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blass-kühl",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Rötung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_001",
+      "type": "single",
+      "stem": "Welche Wunde entsteht durch spitze Gegenstände?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stichwunde",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schnittwunde",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Quetschwunde",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_002",
+      "type": "single",
+      "stem": "Welche Gefahr besteht bei Bisswunden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Infektion",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Hypertonie",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Hypoglykämie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_003",
+      "type": "single",
+      "stem": "Welche Blutstillung ist zuerst anzuwenden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Direkter Druck",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Tourniquet",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "OP",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_004",
+      "type": "single",
+      "stem": "Welches Hilfsmittel wird zur Druckverstärkung bei Blutung eingesetzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Druckverband",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Lose Binde",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Pflaster",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_005",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Fremdkörper in Wunde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Belassen und Polstern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Entfernen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ignorieren",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_006",
+      "type": "single",
+      "stem": "Welches Hilfsmittel bei Amputation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steril verpacken und kühlen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Direkt wieder annähen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wegwerfen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_007",
+      "type": "single",
+      "stem": "Welche Methode bei starken Blutungen an Extremitäten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tourniquet",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kühlung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kompression Thorax",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_008",
+      "type": "single",
+      "stem": "Was bedeutet Woundpacking?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tampongieren tiefer Wunden",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Abdecken mit Pflaster",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Immobilisation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_009",
+      "type": "single",
+      "stem": "Welche Maßnahme bei stark blutender Beckenfraktur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beckenschlinge",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Tourniquet",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kältepack",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_010",
+      "type": "single",
+      "stem": "Welche Art von Blutung spritzt hellrot?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Arteriell",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Venös",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kapillär",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_011",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Brandwunden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlen mit Wasser (10–20 Min.)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Eis auflegen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Salbe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_012",
+      "type": "single",
+      "stem": "Welche Wundheilungsphase ist zuerst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exsudationsphase",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Granulationsphase",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Epithelisierung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_013",
+      "type": "single",
+      "stem": "Welche Wunde ist stark infektionsgefährdet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bisswunde",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schnittwunde",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schürfwunde",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_014",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Nasenbluten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vorbeugen, kühlen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kopf in Nacken",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Watte in Nase stopfen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_015",
+      "type": "single",
+      "stem": "Welche Art Verband bei großen, verschmutzten Wunden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steriler Verband",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Offen lassen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Klebepflaster",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_016",
+      "type": "single",
+      "stem": "Welche Maßnahme bei chronischen Ulzera?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Regelmäßige Wundreinigung und sterile Abdeckung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nur kühlen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ignorieren",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_017",
+      "type": "single",
+      "stem": "Was ist ein Dekubitus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Druckgeschwür",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schnittwunde",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Brandwunde",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_018",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Kopfplatzwunde?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steril abdecken, Blutstillung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nähte sofort",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Maßnahmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_019",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Fremdkörper im Auge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nicht entfernen, abdecken",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Auswaschen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ignorieren",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "wunde_020",
+      "type": "single",
+      "stem": "Welche Maßnahme nach Tourniquet-Anlage?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zeit dokumentieren",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Ignorieren",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Tourniquet sofort lösen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_001",
+      "type": "single",
+      "stem": "Welcher Griff dient zur Rettung aus Fahrzeugen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rautek-Griff",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Heimlich-Manöver",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Esmarch-Handgriff",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_002",
+      "type": "single",
+      "stem": "Welche Lagerung für bewusstlosen Patienten mit Spontanatmung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stabile Seitenlage",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bauchlage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schocklage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_003",
+      "type": "single",
+      "stem": "Welche Lagerung bei Atemnot?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oberkörper hoch",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bauchlage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schocklage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_004",
+      "type": "single",
+      "stem": "Welche Lagerung bei Schock (ohne Trauma)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beine hoch (Schocklage)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Oberkörper hoch",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bauchlage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_005",
+      "type": "single",
+      "stem": "Welche Lagerung bei Bauchverletzungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bauchdeckenschonung (Knie anwinkeln)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schocklage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Stabile Seitenlage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_006",
+      "type": "single",
+      "stem": "Welche Lagerung bei bewusstloser Schwangeren?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Linksseitenlage",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Rechtsseitenlage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bauchlage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_007",
+      "type": "single",
+      "stem": "Welches Hilfsmittel immobilisiert die HWS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Stiffneck",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Rautek-Griff",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Beckenschlinge",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_008",
+      "type": "single",
+      "stem": "Welche Trage für Wirbelsäulenverletzte?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Vakuummatratze",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Krankentrage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Tragestuhl",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_009",
+      "type": "single",
+      "stem": "Welche Schaufeltrage dient?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schonendes Umlagern",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Fixation am Boden",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Immobilisation Arm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_010",
+      "type": "single",
+      "stem": "Welche Immobilisation bei Frakturen der Extremitäten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Splints/Schienen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kühlung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kompression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_011",
+      "type": "single",
+      "stem": "Welche Lagerung bei Thoraxverletzungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oberkörper hoch, ggf. verletzte Seite unten",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Bauchlage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schocklage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_012",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Helmabnahme Motorradfahrer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nur durch 2 Helfer kontrolliert",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer allein",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nie abnehmen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_013",
+      "type": "single",
+      "stem": "Welche Technik bei Heimlich-Manöver?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abdominelle Kompression bei Atemwegsverlegung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Herzdruckmassage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Tourniquet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_014",
+      "type": "single",
+      "stem": "Welche Position für Patienten mit Lungenödem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oberkörper hoch",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schocklage",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Bauchlage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "rettung_015",
+      "type": "single",
+      "stem": "Welche Maßnahme bei Polytrauma zuerst?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lebensrettende Sofortmaßnahmen nach ABCDE",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schmuck abnehmen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Immobilisation",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
