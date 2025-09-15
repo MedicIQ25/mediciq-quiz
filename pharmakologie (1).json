@@ -1,0 +1,1326 @@
+{
+  "topicId": "pharmakologie",
+  "title": "Medikamentenapplikation und Pharmakologie",
+  "questions": [
+    {
+      "id": "pharma_001",
+      "type": "single",
+      "stem": "Welcher Applikationsweg gilt als enteral?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intravenös",
+          "isCorrect": false
+        },
+        {
+          "id": "b",
+          "text": "Oral",
+          "isCorrect": true
+        },
+        {
+          "id": "c",
+          "text": "Intramuskulär",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_002",
+      "type": "single",
+      "stem": "Welcher Applikationsweg umgeht den First-Pass-Effekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sublingual",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Oral",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rektal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_003",
+      "type": "single",
+      "stem": "Welche Applikationsform wird beim Inhalieren genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pulver oder Aerosol",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Tabletten",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Injektion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_004",
+      "type": "single",
+      "stem": "Welche Applikationsform wird bei bewusstlosen Patienten vermieden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Oral",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Intravenös",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Intramuskulär",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_005",
+      "type": "single",
+      "stem": "Welche Abkürzung steht für intravenöse Gabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "i.v.",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "i.m.",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "s.c.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_006",
+      "type": "single",
+      "stem": "Welche Applikationsform wirkt am schnellsten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intravenös",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Intramuskulär",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Oral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_007",
+      "type": "single",
+      "stem": "Welche Applikation erfolgt in den Muskel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intramuskulär (i.m.)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Intravenös",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Oral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_008",
+      "type": "single",
+      "stem": "Was bedeutet rektale Applikation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Über den Enddarm",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Über die Haut",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Über die Vene",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_009",
+      "type": "single",
+      "stem": "Welche Applikation wird häufig bei Asthma genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Inhalativ",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Oral",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Intramuskulär",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_010",
+      "type": "single",
+      "stem": "Welche Applikationsform wird durch Pflaster verabreicht?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Transdermal",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Intravenös",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Sublingual",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_011",
+      "type": "single",
+      "stem": "Welche Applikationsform wird als intraossär bezeichnet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gabe in das Knochenmark",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "In den Muskel",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Unter die Haut",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_012",
+      "type": "single",
+      "stem": "Welche Applikationsform ist typisch für Nitrospray?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sublingual",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Oral",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Intramuskulär",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_013",
+      "type": "single",
+      "stem": "Welche Applikationsart hat ein höheres Risiko für Infektionen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intravenös",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Oral",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Rektal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_014",
+      "type": "single",
+      "stem": "Welche Applikationsart ist für Insulin üblich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Subkutan (s.c.)",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Oral",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Intravenös",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_015",
+      "type": "single",
+      "stem": "Welche Applikation wird als nasal bezeichnet?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Über die Nasenschleimhaut",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Über die Haut",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Über die Vene",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_016",
+      "type": "single",
+      "stem": "Welches Volumen haben gängige i.v.-Kanülen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "14–22G",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "40–50G",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "5–8G",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_017",
+      "type": "single",
+      "stem": "Was muss vor jeder Injektion überprüft werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Medikament, Dosis, Patient, Applikationsweg, Verfallsdatum",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nur die Farbe",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur die Temperatur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_018",
+      "type": "single",
+      "stem": "Welcher Bestandteil dient zur Luftentfernung aus einer Spritze?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kolben",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kanüle",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schutzkappe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_019",
+      "type": "single",
+      "stem": "Welcher Schritt ist bei der Auflösung von Pulverampullen wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sterile Kochsalzlösung zusetzen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Mit Leitungswasser mischen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Trocken geben",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_020",
+      "type": "single",
+      "stem": "Was beschreibt die 5-R-Regel?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Richtiger Patient, Medikament, Dosierung, Zeit, Applikationsweg",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Richtige Temperatur...",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Richtige Größe...",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_021",
+      "type": "single",
+      "stem": "Welche Sicherheitsmaßnahme gilt beim Umgang mit Kanülen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Niemals Recapping",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Kanülen wiederverwenden",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kanülen abbrechen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_022",
+      "type": "single",
+      "stem": "Welches Infusionssystem wird im Rettungsdienst genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tropfkammer mit Roller-Klemme",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Dialysegerät",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Katheterventil",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_023",
+      "type": "single",
+      "stem": "Welcher Vorteil hat die Injektionslösung gegenüber Tabletten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schneller Wirkeintritt",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Besserer Geschmack",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Einfachere Einnahme",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_024",
+      "type": "single",
+      "stem": "Welche Maßnahme verhindert Luftembolie bei Infusionen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Luftblasenfreie Vorbereitung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schnelles Durchlaufen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Wiederverwenden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_025",
+      "type": "single",
+      "stem": "Welche Spritzengröße wird für Medikamente meist genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "2–10 ml",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "50 ml",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "100 ml",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_026",
+      "type": "single",
+      "stem": "Welche Farbe kennzeichnet eine 18G-Kanüle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Grün",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Gelb",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Blau",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_027",
+      "type": "single",
+      "stem": "Welche Applikationsform benötigt sterile Bedingungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Intravenös",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Oral",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Transdermal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_028",
+      "type": "single",
+      "stem": "Welche Maßnahme dient der sicheren Lagerung von Medikamenten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kühlung und Schutz vor Licht",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Beliebige Lagerung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Offen liegen lassen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_029",
+      "type": "single",
+      "stem": "Welches Risiko besteht bei falscher Medikamentengabe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schwerwiegende Nebenwirkungen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Keine Auswirkungen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur längere Wirkung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_030",
+      "type": "single",
+      "stem": "Was bedeutet die Abkürzung Amp.?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ampulle",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Amperemeter",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Amputation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_031",
+      "type": "single",
+      "stem": "Was versteht man unter Pharmakokinetik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aufnahme, Verteilung, Metabolisierung, Ausscheidung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Wirkung am Rezeptor",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nebenwirkungen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_032",
+      "type": "single",
+      "stem": "Was beschreibt die Pharmakodynamik?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Wirkung des Arzneistoffs am Rezeptor",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Ausscheidung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Resorption",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_033",
+      "type": "single",
+      "stem": "Was versteht man unter First-Pass-Effekt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abbau in der Leber nach oraler Gabe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Erste Wirkung nach Injektion",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schneller Wirkeintritt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_034",
+      "type": "single",
+      "stem": "Was bedeutet HWZ (Halbwertszeit)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Zeit bis Halbierung der Konzentration",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Zeit bis Verdopplung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zeit bis Maximalwirkung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_035",
+      "type": "single",
+      "stem": "Welche Bindung erfolgt zwischen Wirkstoff und Rezeptor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Schlüssel-Schloss-Prinzip",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Elektrische Leitung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Mechanische Verbindung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_036",
+      "type": "single",
+      "stem": "Was ist ein Agonist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Substanz, die Rezeptor aktiviert",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Blockiert Rezeptor",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ohne Wirkung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_037",
+      "type": "single",
+      "stem": "Was ist ein Antagonist?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Blockiert Rezeptor ohne Eigenwirkung",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Aktiviert Rezeptor",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Verstärkt Wirkung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_038",
+      "type": "single",
+      "stem": "Was beschreibt Bioverfügbarkeit?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anteil im Blut",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Nebenwirkungen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Metabolisierungsgeschwindigkeit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_039",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei Kindern?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unreife Enzymsysteme",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schneller Abbau",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Kein Unterschied",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_040",
+      "type": "single",
+      "stem": "Welche Besonderheit gilt bei älteren Patienten?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Verlangsamte Elimination",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schnellere Verstoffwechselung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Keine Unterschiede",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_041",
+      "type": "single",
+      "stem": "Was sind Nebenwirkungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unerwünschte Wirkungen",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer gewünschte",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Falsche Lagerung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_042",
+      "type": "single",
+      "stem": "Was versteht man unter Wechselwirkungen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beeinflussung der Wirkung durch andere Medikamente",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Immer verstärkte Wirkung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nie relevant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_043",
+      "type": "single",
+      "stem": "Was bedeutet Toleranzentwicklung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abschwächung der Wirkung bei wiederholter Einnahme",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Stärkere Wirkung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Unveränderte Wirkung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_044",
+      "type": "single",
+      "stem": "Was bedeutet Kumulation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anreicherung bei häufiger Gabe",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Schnelle Elimination",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Immer harmlos",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_045",
+      "type": "single",
+      "stem": "Welche Dosisform beschreibt die ED50?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Effektive Dosis für 50 %",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Toxische Dosis",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Letale Dosis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_046",
+      "type": "single",
+      "stem": "Welcher Stoff wird bei Hypoxie primär gegeben?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sauerstoff",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Adrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Glukose",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_047",
+      "type": "single",
+      "stem": "Welches Medikament gehört zu den Benzodiazepinen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Midazolam",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Morphin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ketamin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_048",
+      "type": "single",
+      "stem": "Welches Medikament ist ein starkes Analgetikum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Morphin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Paracetamol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ibuprofen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_049",
+      "type": "single",
+      "stem": "Welches Medikament wird bei Anaphylaxie gegeben?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adrenalin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Paracetamol",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Metoprolol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_050",
+      "type": "single",
+      "stem": "Welches Medikament ist ein Beta-Blocker?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Metoprolol",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Adrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Diazepam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_051",
+      "type": "single",
+      "stem": "Welches Medikament wird bei Bradykardie eingesetzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atropin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Adrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Morphin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_052",
+      "type": "single",
+      "stem": "Welche Substanz ist ein Antidot bei Opiatüberdosierung?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Naloxon",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Flumazenil",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Adrenalin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_053",
+      "type": "single",
+      "stem": "Welche Substanz ist ein Antidot bei Benzodiazepinintoxikation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flumazenil",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Naloxon",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Adrenalin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_054",
+      "type": "single",
+      "stem": "Welches Medikament wird bei Kammerflimmern eingesetzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Amiodaron",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Ibuprofen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Diazepam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_055",
+      "type": "single",
+      "stem": "Welches Medikament ist ein Katecholamin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adrenalin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Midazolam",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Morphin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_056",
+      "type": "single",
+      "stem": "Welches Medikament ist ein Antihyperglykämikum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insulin",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Atropin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Diazepam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_057",
+      "type": "single",
+      "stem": "Welches Medikament ist ein Antipyretikum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Paracetamol",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Adrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Midazolam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_058",
+      "type": "single",
+      "stem": "Welches Medikament ist ein Antikonvulsivum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Midazolam",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Adrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ibuprofen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_059",
+      "type": "single",
+      "stem": "Welches Medikament wird als Muskelrelaxans genutzt?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rocuronium",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Adrenalin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Naloxon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "pharma_060",
+      "type": "single",
+      "stem": "Welches Medikament ist ein typisches Antihypertensivum?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Urapidil",
+          "isCorrect": true
+        },
+        {
+          "id": "b",
+          "text": "Morphin",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Ketamin",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
