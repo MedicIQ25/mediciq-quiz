@@ -1,0 +1,1386 @@
+{
+  "topicId": "traumatologische_notfaelle",
+  "title": "Traumatologische Notfälle",
+  "questions": [
+    {
+      "id": "frage_001",
+      "type": "single",
+      "stem": "Welches Symptom gehört zu den sicheren Frakturzeichen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fehlstellung",
+          "isCorrect": true,
+          "explanation": "Fehlstellungen sind sichere Frakturzeichen."
+        },
+        {
+          "id": "b",
+          "text": "Schwellung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_002",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei einer Luxation besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DMS-Kontrolle (Durchblutung, Motorik, Sensibilität)",
+          "isCorrect": true,
+          "explanation": "Bei Luxationen ist die Kontrolle von DMS entscheidend."
+        },
+        {
+          "id": "b",
+          "text": "Nur Hochlagerung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kühlung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_003",
+      "type": "single",
+      "stem": "Was ist eine akute Gefahr bei Rückenmarksverletzungen oberhalb C4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atemlähmung",
+          "isCorrect": true,
+          "explanation": "Durch Ausfall des N. phrenicus kann es zur Atemlähmung kommen."
+        },
+        {
+          "id": "b",
+          "text": "Herzstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leberruptur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_004",
+      "type": "single",
+      "stem": "Welche Regel hilft bei der Entscheidung zur Immobilisation der HWS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": true,
+          "explanation": "Die NEXUS-Kriterien geben Hinweise, ob eine HWS-Immobilisation notwendig ist."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Schema",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Glasgow Coma Scale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_005",
+      "type": "single",
+      "stem": "Welcher GCS-Wert definiert ein schweres SHT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "≤ 8",
+          "isCorrect": true,
+          "explanation": "Ein GCS ≤ 8 gilt als schweres Schädel-Hirn-Trauma."
+        },
+        {
+          "id": "b",
+          "text": "9–13",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "13–15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_006",
+      "type": "single",
+      "stem": "Was ist typisch für ein epidurales Hämatom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freies Intervall nach kurzer Bewusstlosigkeit",
+          "isCorrect": true,
+          "explanation": "Typisch ist das freie Intervall mit späterer Eintrübung."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige dauerhafte Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Zunahme über Wochen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_007",
+      "type": "single",
+      "stem": "Welches Symptom weist auf einen Spannungspneumothorax hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestaute Halsvenen",
+          "isCorrect": true,
+          "explanation": "Gestaute Halsvenen sind ein Leitsymptom des Spannungspneumothorax."
+        },
+        {
+          "id": "b",
+          "text": "Hyposonorer Klopfschall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normale Atmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_008",
+      "type": "single",
+      "stem": "Welche Maßnahme ist beim offenen Pneumothorax erforderlich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlegen eines luftdichten Okklusivverbands",
+          "isCorrect": true,
+          "explanation": "Damit keine Luft mehr eingesaugt werden kann."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige Intubation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Thoraxkompression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_009",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen einer Milzruptur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ein- oder zweizeitiger Verlauf mit Blutung",
+          "isCorrect": true,
+          "explanation": "Die Milzruptur kann sofort oder zeitverzögert bluten."
+        },
+        {
+          "id": "b",
+          "text": "Kopfschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen im Brustbein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_010",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Verdacht auf Beckenfraktur entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlage einer Beckenschlinge",
+          "isCorrect": true,
+          "explanation": "Die Beckenschlinge reduziert das Beckenvolumen und Blutungen."
+        },
+        {
+          "id": "b",
+          "text": "Becken kräftig durchdrücken",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_011",
+      "type": "single",
+      "stem": "Was bedeutet 'Golden Hour of Trauma'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beste Überlebenschancen bei Klinikeintritt innerhalb einer Stunde",
+          "isCorrect": true,
+          "explanation": "Innerhalb der ersten Stunde sind die Überlebenschancen am höchsten."
+        },
+        {
+          "id": "b",
+          "text": "Eine Stunde Atemstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Eine Stunde Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_012",
+      "type": "single",
+      "stem": "Wie soll bei Stichverletzungen präklinisch mit Fremdkörpern umgegangen werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Belassen und abpolstern",
+          "isCorrect": true,
+          "explanation": "Fremdkörper belässt man, da sie Blutungen tamponieren können."
+        },
+        {
+          "id": "b",
+          "text": "Sofort entfernen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zuschneiden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_013",
+      "type": "single",
+      "stem": "Welches Symptom gehört zu den sicheren Frakturzeichen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fehlstellung",
+          "isCorrect": true,
+          "explanation": "Fehlstellungen sind sichere Frakturzeichen."
+        },
+        {
+          "id": "b",
+          "text": "Schwellung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_014",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei einer Luxation besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DMS-Kontrolle (Durchblutung, Motorik, Sensibilität)",
+          "isCorrect": true,
+          "explanation": "Bei Luxationen ist die Kontrolle von DMS entscheidend."
+        },
+        {
+          "id": "b",
+          "text": "Nur Hochlagerung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kühlung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_015",
+      "type": "single",
+      "stem": "Was ist eine akute Gefahr bei Rückenmarksverletzungen oberhalb C4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atemlähmung",
+          "isCorrect": true,
+          "explanation": "Durch Ausfall des N. phrenicus kann es zur Atemlähmung kommen."
+        },
+        {
+          "id": "b",
+          "text": "Herzstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leberruptur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_016",
+      "type": "single",
+      "stem": "Welche Regel hilft bei der Entscheidung zur Immobilisation der HWS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": true,
+          "explanation": "Die NEXUS-Kriterien geben Hinweise, ob eine HWS-Immobilisation notwendig ist."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Schema",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Glasgow Coma Scale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_017",
+      "type": "single",
+      "stem": "Welcher GCS-Wert definiert ein schweres SHT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "≤ 8",
+          "isCorrect": true,
+          "explanation": "Ein GCS ≤ 8 gilt als schweres Schädel-Hirn-Trauma."
+        },
+        {
+          "id": "b",
+          "text": "9–13",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "13–15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_018",
+      "type": "single",
+      "stem": "Was ist typisch für ein epidurales Hämatom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freies Intervall nach kurzer Bewusstlosigkeit",
+          "isCorrect": true,
+          "explanation": "Typisch ist das freie Intervall mit späterer Eintrübung."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige dauerhafte Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Zunahme über Wochen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_019",
+      "type": "single",
+      "stem": "Welches Symptom weist auf einen Spannungspneumothorax hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestaute Halsvenen",
+          "isCorrect": true,
+          "explanation": "Gestaute Halsvenen sind ein Leitsymptom des Spannungspneumothorax."
+        },
+        {
+          "id": "b",
+          "text": "Hyposonorer Klopfschall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normale Atmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_020",
+      "type": "single",
+      "stem": "Welche Maßnahme ist beim offenen Pneumothorax erforderlich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlegen eines luftdichten Okklusivverbands",
+          "isCorrect": true,
+          "explanation": "Damit keine Luft mehr eingesaugt werden kann."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige Intubation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Thoraxkompression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_021",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen einer Milzruptur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ein- oder zweizeitiger Verlauf mit Blutung",
+          "isCorrect": true,
+          "explanation": "Die Milzruptur kann sofort oder zeitverzögert bluten."
+        },
+        {
+          "id": "b",
+          "text": "Kopfschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen im Brustbein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_022",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Verdacht auf Beckenfraktur entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlage einer Beckenschlinge",
+          "isCorrect": true,
+          "explanation": "Die Beckenschlinge reduziert das Beckenvolumen und Blutungen."
+        },
+        {
+          "id": "b",
+          "text": "Becken kräftig durchdrücken",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_023",
+      "type": "single",
+      "stem": "Was bedeutet 'Golden Hour of Trauma'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beste Überlebenschancen bei Klinikeintritt innerhalb einer Stunde",
+          "isCorrect": true,
+          "explanation": "Innerhalb der ersten Stunde sind die Überlebenschancen am höchsten."
+        },
+        {
+          "id": "b",
+          "text": "Eine Stunde Atemstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Eine Stunde Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_024",
+      "type": "single",
+      "stem": "Wie soll bei Stichverletzungen präklinisch mit Fremdkörpern umgegangen werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Belassen und abpolstern",
+          "isCorrect": true,
+          "explanation": "Fremdkörper belässt man, da sie Blutungen tamponieren können."
+        },
+        {
+          "id": "b",
+          "text": "Sofort entfernen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zuschneiden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_025",
+      "type": "single",
+      "stem": "Welches Symptom gehört zu den sicheren Frakturzeichen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fehlstellung",
+          "isCorrect": true,
+          "explanation": "Fehlstellungen sind sichere Frakturzeichen."
+        },
+        {
+          "id": "b",
+          "text": "Schwellung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_026",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei einer Luxation besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DMS-Kontrolle (Durchblutung, Motorik, Sensibilität)",
+          "isCorrect": true,
+          "explanation": "Bei Luxationen ist die Kontrolle von DMS entscheidend."
+        },
+        {
+          "id": "b",
+          "text": "Nur Hochlagerung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kühlung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_027",
+      "type": "single",
+      "stem": "Was ist eine akute Gefahr bei Rückenmarksverletzungen oberhalb C4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atemlähmung",
+          "isCorrect": true,
+          "explanation": "Durch Ausfall des N. phrenicus kann es zur Atemlähmung kommen."
+        },
+        {
+          "id": "b",
+          "text": "Herzstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leberruptur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_028",
+      "type": "single",
+      "stem": "Welche Regel hilft bei der Entscheidung zur Immobilisation der HWS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": true,
+          "explanation": "Die NEXUS-Kriterien geben Hinweise, ob eine HWS-Immobilisation notwendig ist."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Schema",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Glasgow Coma Scale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_029",
+      "type": "single",
+      "stem": "Welcher GCS-Wert definiert ein schweres SHT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "≤ 8",
+          "isCorrect": true,
+          "explanation": "Ein GCS ≤ 8 gilt als schweres Schädel-Hirn-Trauma."
+        },
+        {
+          "id": "b",
+          "text": "9–13",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "13–15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_030",
+      "type": "single",
+      "stem": "Was ist typisch für ein epidurales Hämatom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freies Intervall nach kurzer Bewusstlosigkeit",
+          "isCorrect": true,
+          "explanation": "Typisch ist das freie Intervall mit späterer Eintrübung."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige dauerhafte Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Zunahme über Wochen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_031",
+      "type": "single",
+      "stem": "Welches Symptom weist auf einen Spannungspneumothorax hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestaute Halsvenen",
+          "isCorrect": true,
+          "explanation": "Gestaute Halsvenen sind ein Leitsymptom des Spannungspneumothorax."
+        },
+        {
+          "id": "b",
+          "text": "Hyposonorer Klopfschall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normale Atmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_032",
+      "type": "single",
+      "stem": "Welche Maßnahme ist beim offenen Pneumothorax erforderlich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlegen eines luftdichten Okklusivverbands",
+          "isCorrect": true,
+          "explanation": "Damit keine Luft mehr eingesaugt werden kann."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige Intubation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Thoraxkompression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_033",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen einer Milzruptur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ein- oder zweizeitiger Verlauf mit Blutung",
+          "isCorrect": true,
+          "explanation": "Die Milzruptur kann sofort oder zeitverzögert bluten."
+        },
+        {
+          "id": "b",
+          "text": "Kopfschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen im Brustbein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_034",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Verdacht auf Beckenfraktur entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlage einer Beckenschlinge",
+          "isCorrect": true,
+          "explanation": "Die Beckenschlinge reduziert das Beckenvolumen und Blutungen."
+        },
+        {
+          "id": "b",
+          "text": "Becken kräftig durchdrücken",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_035",
+      "type": "single",
+      "stem": "Was bedeutet 'Golden Hour of Trauma'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beste Überlebenschancen bei Klinikeintritt innerhalb einer Stunde",
+          "isCorrect": true,
+          "explanation": "Innerhalb der ersten Stunde sind die Überlebenschancen am höchsten."
+        },
+        {
+          "id": "b",
+          "text": "Eine Stunde Atemstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Eine Stunde Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_036",
+      "type": "single",
+      "stem": "Wie soll bei Stichverletzungen präklinisch mit Fremdkörpern umgegangen werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Belassen und abpolstern",
+          "isCorrect": true,
+          "explanation": "Fremdkörper belässt man, da sie Blutungen tamponieren können."
+        },
+        {
+          "id": "b",
+          "text": "Sofort entfernen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zuschneiden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_037",
+      "type": "single",
+      "stem": "Welches Symptom gehört zu den sicheren Frakturzeichen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fehlstellung",
+          "isCorrect": true,
+          "explanation": "Fehlstellungen sind sichere Frakturzeichen."
+        },
+        {
+          "id": "b",
+          "text": "Schwellung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_038",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei einer Luxation besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DMS-Kontrolle (Durchblutung, Motorik, Sensibilität)",
+          "isCorrect": true,
+          "explanation": "Bei Luxationen ist die Kontrolle von DMS entscheidend."
+        },
+        {
+          "id": "b",
+          "text": "Nur Hochlagerung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kühlung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_039",
+      "type": "single",
+      "stem": "Was ist eine akute Gefahr bei Rückenmarksverletzungen oberhalb C4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atemlähmung",
+          "isCorrect": true,
+          "explanation": "Durch Ausfall des N. phrenicus kann es zur Atemlähmung kommen."
+        },
+        {
+          "id": "b",
+          "text": "Herzstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leberruptur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_040",
+      "type": "single",
+      "stem": "Welche Regel hilft bei der Entscheidung zur Immobilisation der HWS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": true,
+          "explanation": "Die NEXUS-Kriterien geben Hinweise, ob eine HWS-Immobilisation notwendig ist."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Schema",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Glasgow Coma Scale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_041",
+      "type": "single",
+      "stem": "Welcher GCS-Wert definiert ein schweres SHT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "≤ 8",
+          "isCorrect": true,
+          "explanation": "Ein GCS ≤ 8 gilt als schweres Schädel-Hirn-Trauma."
+        },
+        {
+          "id": "b",
+          "text": "9–13",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "13–15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_042",
+      "type": "single",
+      "stem": "Was ist typisch für ein epidurales Hämatom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freies Intervall nach kurzer Bewusstlosigkeit",
+          "isCorrect": true,
+          "explanation": "Typisch ist das freie Intervall mit späterer Eintrübung."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige dauerhafte Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Zunahme über Wochen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_043",
+      "type": "single",
+      "stem": "Welches Symptom weist auf einen Spannungspneumothorax hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestaute Halsvenen",
+          "isCorrect": true,
+          "explanation": "Gestaute Halsvenen sind ein Leitsymptom des Spannungspneumothorax."
+        },
+        {
+          "id": "b",
+          "text": "Hyposonorer Klopfschall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normale Atmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_044",
+      "type": "single",
+      "stem": "Welche Maßnahme ist beim offenen Pneumothorax erforderlich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlegen eines luftdichten Okklusivverbands",
+          "isCorrect": true,
+          "explanation": "Damit keine Luft mehr eingesaugt werden kann."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige Intubation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Thoraxkompression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_045",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen einer Milzruptur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ein- oder zweizeitiger Verlauf mit Blutung",
+          "isCorrect": true,
+          "explanation": "Die Milzruptur kann sofort oder zeitverzögert bluten."
+        },
+        {
+          "id": "b",
+          "text": "Kopfschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen im Brustbein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_046",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Verdacht auf Beckenfraktur entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlage einer Beckenschlinge",
+          "isCorrect": true,
+          "explanation": "Die Beckenschlinge reduziert das Beckenvolumen und Blutungen."
+        },
+        {
+          "id": "b",
+          "text": "Becken kräftig durchdrücken",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_047",
+      "type": "single",
+      "stem": "Was bedeutet 'Golden Hour of Trauma'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beste Überlebenschancen bei Klinikeintritt innerhalb einer Stunde",
+          "isCorrect": true,
+          "explanation": "Innerhalb der ersten Stunde sind die Überlebenschancen am höchsten."
+        },
+        {
+          "id": "b",
+          "text": "Eine Stunde Atemstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Eine Stunde Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_048",
+      "type": "single",
+      "stem": "Wie soll bei Stichverletzungen präklinisch mit Fremdkörpern umgegangen werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Belassen und abpolstern",
+          "isCorrect": true,
+          "explanation": "Fremdkörper belässt man, da sie Blutungen tamponieren können."
+        },
+        {
+          "id": "b",
+          "text": "Sofort entfernen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zuschneiden",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_049",
+      "type": "single",
+      "stem": "Welches Symptom gehört zu den sicheren Frakturzeichen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fehlstellung",
+          "isCorrect": true,
+          "explanation": "Fehlstellungen sind sichere Frakturzeichen."
+        },
+        {
+          "id": "b",
+          "text": "Schwellung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_050",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei einer Luxation besonders wichtig?",
+      "options": [
+        {
+          "id": "a",
+          "text": "DMS-Kontrolle (Durchblutung, Motorik, Sensibilität)",
+          "isCorrect": true,
+          "explanation": "Bei Luxationen ist die Kontrolle von DMS entscheidend."
+        },
+        {
+          "id": "b",
+          "text": "Nur Hochlagerung",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Kühlung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_051",
+      "type": "single",
+      "stem": "Was ist eine akute Gefahr bei Rückenmarksverletzungen oberhalb C4?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Atemlähmung",
+          "isCorrect": true,
+          "explanation": "Durch Ausfall des N. phrenicus kann es zur Atemlähmung kommen."
+        },
+        {
+          "id": "b",
+          "text": "Herzstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Leberruptur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_052",
+      "type": "single",
+      "stem": "Welche Regel hilft bei der Entscheidung zur Immobilisation der HWS?",
+      "options": [
+        {
+          "id": "a",
+          "text": "NEXUS-Kriterien",
+          "isCorrect": true,
+          "explanation": "Die NEXUS-Kriterien geben Hinweise, ob eine HWS-Immobilisation notwendig ist."
+        },
+        {
+          "id": "b",
+          "text": "ABCDE-Schema",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Glasgow Coma Scale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_053",
+      "type": "single",
+      "stem": "Welcher GCS-Wert definiert ein schweres SHT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "≤ 8",
+          "isCorrect": true,
+          "explanation": "Ein GCS ≤ 8 gilt als schweres Schädel-Hirn-Trauma."
+        },
+        {
+          "id": "b",
+          "text": "9–13",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "13–15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_054",
+      "type": "single",
+      "stem": "Was ist typisch für ein epidurales Hämatom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Freies Intervall nach kurzer Bewusstlosigkeit",
+          "isCorrect": true,
+          "explanation": "Typisch ist das freie Intervall mit späterer Eintrübung."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige dauerhafte Bewusstlosigkeit",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Langsame Zunahme über Wochen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_055",
+      "type": "single",
+      "stem": "Welches Symptom weist auf einen Spannungspneumothorax hin?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gestaute Halsvenen",
+          "isCorrect": true,
+          "explanation": "Gestaute Halsvenen sind ein Leitsymptom des Spannungspneumothorax."
+        },
+        {
+          "id": "b",
+          "text": "Hyposonorer Klopfschall",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Normale Atmung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_056",
+      "type": "single",
+      "stem": "Welche Maßnahme ist beim offenen Pneumothorax erforderlich?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlegen eines luftdichten Okklusivverbands",
+          "isCorrect": true,
+          "explanation": "Damit keine Luft mehr eingesaugt werden kann."
+        },
+        {
+          "id": "b",
+          "text": "Sofortige Intubation",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Thoraxkompression",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_057",
+      "type": "single",
+      "stem": "Was ist ein typisches Zeichen einer Milzruptur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ein- oder zweizeitiger Verlauf mit Blutung",
+          "isCorrect": true,
+          "explanation": "Die Milzruptur kann sofort oder zeitverzögert bluten."
+        },
+        {
+          "id": "b",
+          "text": "Kopfschmerzen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Schmerzen im Brustbein",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_058",
+      "type": "single",
+      "stem": "Welche Maßnahme ist bei Verdacht auf Beckenfraktur entscheidend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anlage einer Beckenschlinge",
+          "isCorrect": true,
+          "explanation": "Die Beckenschlinge reduziert das Beckenvolumen und Blutungen."
+        },
+        {
+          "id": "b",
+          "text": "Becken kräftig durchdrücken",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Nur Wärmeerhalt",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_059",
+      "type": "single",
+      "stem": "Was bedeutet 'Golden Hour of Trauma'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beste Überlebenschancen bei Klinikeintritt innerhalb einer Stunde",
+          "isCorrect": true,
+          "explanation": "Innerhalb der ersten Stunde sind die Überlebenschancen am höchsten."
+        },
+        {
+          "id": "b",
+          "text": "Eine Stunde Atemstillstand",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Eine Stunde Reanimation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "frage_060",
+      "type": "single",
+      "stem": "Wie soll bei Stichverletzungen präklinisch mit Fremdkörpern umgegangen werden?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Belassen und abpolstern",
+          "isCorrect": true,
+          "explanation": "Fremdkörper belässt man, da sie Blutungen tamponieren können."
+        },
+        {
+          "id": "b",
+          "text": "Sofort entfernen",
+          "isCorrect": false
+        },
+        {
+          "id": "c",
+          "text": "Zuschneiden",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
